@@ -4,5 +4,5 @@ title: "Git Test"
 date: 2015-03-29 22:50
 external-url: http://github.com
 ---
-Github test. Please work. This will also be shown if it's worked.. let's hope!
+Last try!
 
