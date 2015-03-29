@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<div class="home">
+
+      {% for post in site.posts %}
+    {% if post.external-url %}
+      
+		
+		   <h2>
+          <a class="post-link" href="{{ post.external-url }}">{{ post.title }}</a>
+		  </h2>
+		  
+		  	  
+		  <div id="post-meta">
+		  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> <a title="Permalink to {{ post.title }}" href="{{ post.url }}">♪</a>
+        	</div>
+			
+			<div id="content">
+		{{ post.content }}
+			</div>
+			
+			<hr>		
+      
+	  {% else %}
+	       
+		   
+		  <h2>
+          <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+        </h2>
+		   
+		  <div id="post-meta"> 
+		<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+		</div>
+		
+		<div id="content">
+		{{ post.content }}
+		   </div>   
+			  
+			<hr>
+	  
+    {% endif %}
+	    {% endfor %}
+		
+</div>

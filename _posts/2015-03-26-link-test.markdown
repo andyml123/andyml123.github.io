@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Link Test"
+date: 2015-03-26 22:50
+external-url: http://www.google.com
+---
+I think I'll use this as a proper test post:
+
+>This is a test quote that I'm going to keep going on and on to see how long it can do. BLAH BLAH etc etc keep it going on and on.
+
+And then more text here from me.
+
+

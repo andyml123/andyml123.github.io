@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Test Post!"
+date: 2015-03-26 20:25
+categories: test
+---
+This is some testing text. Just to see if everything works. We'll see.
+
+>This is a quote test.
+
+Time to test some links:
+
+[Google][google]
+
+[Crotchet.net][crotchet]
+
+[Ap.net][absolutepunk]
+
+
+
+[google]: http://www.google.com
+[crotchet]: http://www.crotchet.net
+[absolutepunk]: http://www.absolutepunk.net
