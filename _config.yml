@@ -15,3 +15,4 @@ markdown: kramdown
 
 permalink: '/:title/'
 paginate_path: '/page:num/'
+paginate: 10
