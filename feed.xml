@@ -15,8 +15,6 @@ layout: null
 	    {% if post.external-url %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-		<link rel="alternate" type="text/html" href="{{ post.external-url }}" />
-		<link rel="related" type="text/html" href="{{ post.url }}" />	
         <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
