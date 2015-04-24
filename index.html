@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-      {% for post in site.posts %}
+      {% for post in paginator.posts %}
     {% if post.external-url %}
       
 		
@@ -49,11 +49,11 @@ layout: default
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Previous</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
+    <span class="pagination-item older">Previous</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Next</a>
     {% else %}
       <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Next</a>
     {% endif %}
