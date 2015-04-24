@@ -19,7 +19,7 @@ layout: null
  <entry>
    <title>{{ post.title }}</title>
    {% if post.external-url %}
-     <link href="{{ post.external-url }}"/> <![CDATA[♪]]>
+     <link href="{{ post.external-url }}"/> <![CDATA[<p>♪</p>]]>
    {% else %}
      <link href="{{ site.url }}{{ post.url }}"/>
    {% endif %}
