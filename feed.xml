@@ -14,7 +14,7 @@ layout: null
     {% for post in site.posts limit:10 %}
 	    {% if post.external-url %}
       <item>
-        <title><link>{{ post.external-url }}</link>{{ post.title | xml_escape }}</a></title>
+        <title><link>{{ post.external-url }}</link>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
