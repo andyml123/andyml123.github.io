@@ -13,7 +13,8 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts limit:10 %}
 	    {% if post.external-url %}
-      <item>
+      <entry>
+		<title>{{ post.title | xml_escape }}</title>
 		<link href="{{ post.external-url }}" />
         <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
@@ -24,9 +25,8 @@ layout: null
         {% endfor %}
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
-		<description><link href="{{ post.external-url }}" />♪</description>
         {% endfor %}
-      </item>
+      </entry>
 	  {% else %}
 		  <item>
         <title>{{ post.title | xml_escape }}</title>
