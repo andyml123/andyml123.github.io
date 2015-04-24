@@ -18,15 +18,15 @@ layout: null
  {% for post in site.posts %}
     {% if post.external-url %}
  <entry>
-   <title>♪ {{ post.title }}</title>
+   <title>{{ post.title }}</title>
      <link href="{{ post.external-url }}"/>
 	 <updated>{{ post.date | date_to_xmlschema }}</updated>
 	<id>{{ site.url }}{{ post.id }}</id>
-	<content type="html">{{ post.content | xml_escape }}</content>
+	<content type="html">{{ post.content | xml_escape }}<![CDATA[<p><a title="Permalink to {{ post.title }}" href="{{ post.url }}">♪</a></p>]]></content>
  </entry>
    {% else %}
    <entry>
-      <title>{{ post.title }}</title>
+      <title>♪ {{ post.title }}</title>
      <link href="{{ site.url }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
