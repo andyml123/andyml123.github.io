@@ -24,6 +24,7 @@ layout: null
         {% endfor %}
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
+		<description><link href="{{ post.external-url }}" />♪</description>
         {% endfor %}
       </item>
 	  {% else %}
