@@ -17,9 +17,9 @@ layout: null
 
  {% for post in site.posts %}
  <entry>
-   <title>{{ post.title }}</title>
+   <title>{{ post.title }} ♪</title>
    {% if post.external-url %}
-     <link href="{{ post.external-url }}"/>♪
+     <link href="{{ post.external-url }}"/>
    {% else %}
      <link href="{{ site.url }}{{ post.url }}"/>
    {% endif %}
