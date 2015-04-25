@@ -14,3 +14,8 @@ markdown: kramdown
 permalink: '/:title/'
 paginate_path: '/page:num/'
 paginate: 4
+
+author:
+  name:         'Andy'
+  url:          http://www.crotchet.net
+  email:        crotchet@crotchet.net
