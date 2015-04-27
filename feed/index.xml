@@ -10,6 +10,7 @@ layout: null
  <link href="{{ site.url }}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}</id>
+ <icon>/favicon.ico</icon>
  <author>
    <name>{{ site.author.name }}</name>
    <email>{{ site.author.email }}</email>
