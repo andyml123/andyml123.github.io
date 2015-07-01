@@ -320,26 +320,43 @@ hr {
 .sharing-button.twitter {
   background-color: #00aced;
   color: #fff; 
-  text-decoration: none; 
  }
 
 .sharing-button.twitter:hover {
-  background-color: #009bd4; }
+  background-color: #009bd4;
+  color: #fff; 
+  text-decoration: none;  
+ }
 
 .sharing-button.facebook {
-  background-color: #3B5998; }
+  background-color: #3B5998;
+  color: #fff; 
+ }
 
 .sharing-button.facebook:hover {
-  background-color: #223683; }
+  background-color: #223683;
+  color: #fff; 
+  text-decoration: none;  
+ }
 
 .sharing-button.googleplus {
-  background-color: #d34836; }
+  background-color: #d34836; 
+  color: #fff; 
+}
 
 .sharing-button.googleplus:hover {
-  background-color: #bd0000; }
+  background-color: #bd0000;
+  color: #fff; 
+  text-decoration: none;  
+ }
 
 .sharing-button.email {
-  background-color: #777; }
+  background-color: #777;
+  color: #fff; 
+}
 
 .sharing-button.email:hover {
-  background-color: #666; }
+  background-color: #666;
+  color: #fff; 
+  text-decoration: none;  
+ }
