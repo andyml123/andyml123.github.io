@@ -302,3 +302,41 @@ hr {
         }
     }
 }
+
+.sharing {
+  margin: 1rem 0;
+  text-align: center; }
+
+.sharing-button, .sharing-button:visited {
+  display: inline-block;
+  text-align: center;
+  width: 18.3rem;
+  min-width: 10rem;
+  background-color: #ccc;
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 0.5rem; }
+
+.sharing-button.twitter {
+  background-color: #00aced; }
+
+.sharing-button.twitter:hover {
+  background-color: #009bd4; }
+
+.sharing-button.facebook {
+  background-color: #3B5998; }
+
+.sharing-button.facebook:hover {
+  background-color: #223683; }
+
+.sharing-button.googleplus {
+  background-color: #d34836; }
+
+.sharing-button.googleplus:hover {
+  background-color: #bd0000; }
+
+.sharing-button.email {
+  background-color: #777; }
+
+.sharing-button.email:hover {
+  background-color: #666; }
