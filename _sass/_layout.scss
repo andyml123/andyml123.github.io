@@ -23,6 +23,24 @@
     }
 }
 
+.nav-bar {
+  border: none;
+  background: #76c261;
+	-webkit-animation:cyclecolors linear infinite;
+	-webkit-animation-duration: 90s;
+	-webkit-animation-iteration-count: infinite;
+	-moz-animation-iteration-count: infinite;
+	-o-animation-iteration-count: infinite;
+  color: #fff;
+  letter-spacing: .1em;
+  list-style: none;
+/*   margin: 0 auto; */
+  width: 100%;
+/*   padding: 0; */
+  text-transform: uppercase;
+  text-align: center;
+}
+
 .site-nav {
     text-align: center;
     line-height: 56px;
