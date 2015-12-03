@@ -195,7 +195,6 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
-	text-align: center;
 }
 
 .post-link {
@@ -266,6 +265,7 @@ a.external-post-link:visited {
 
 #post-meta {
 margin-bottom: 25px;
+text-align: center;
 }
 
 .post-test {
