@@ -70,12 +70,12 @@ layout: default
 <li>Archive</li>
 </ul>
 
-      <div class="trigger">
+      
         {% for page in site.pages %}
           {% if page.title %}
           <ul><li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li></ul>
           {% endif %}
         {% endfor %}
-      </div>
+     
 
 </div>
