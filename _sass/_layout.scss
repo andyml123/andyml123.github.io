@@ -11,6 +11,7 @@
 }
 
 .site-title {
+	position: relative;
     font-size: 52px;
     line-height: 56px;
     letter-spacing: -1px;
@@ -22,6 +23,14 @@
     &:visited {
         color: $grey-color-dark;
     }
+}
+
+.site-head-content{
+position:relative;
+padding:30px 0 23px 0;
+width:90%;
+max-width:1000px;
+margin:0 auto;
 }
 
 .nav-bar {
@@ -408,3 +417,9 @@ hr {
 	margin:0;
 	margin-bottom:10;
 }
+
+.sidebar{
+	width:auto;float:none;
+	}
+		}@media only screen and (max-width: 500px) 
+{
