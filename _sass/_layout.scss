@@ -397,7 +397,9 @@ hr {
 	width:25%;
 	float:left;
  }
- 
- .menu-link {
-	color: $text-color;
- }
+
+ .sidebar ul{
+	list-style:none;
+	padding:0;
+	margin-top:0;
+}
