@@ -430,10 +430,19 @@ hr {
 	margin-bottom:10;
 }
 
-ul.heart:{
+ul.write:{
 list-style:none;
 }
     
-ul.heart li:before{
+ul.write li:before{
 content:'\270d'
+}
+
+ul.heart{
+list-style:none;
+padding-left:.5em
+}
+
+ul.heart li:before{
+content:'\2764'
 }
