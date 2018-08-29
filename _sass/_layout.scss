@@ -353,7 +353,10 @@ hr {
   background-color: #ccc;
   color: #fff;
   text-decoration: none;
-  margin-bottom: 0.5rem; }
+  margin-bottom: 0.5rem; 
+  @include media-query($on-palm) {
+  width: 5.5rem;
+  }
 
 .sharing-button.twitter {
   background-color: #00aced;
@@ -399,16 +402,7 @@ hr {
   text-decoration: none;  
  }
  
-@include media-query($on-palm) { .sharing-button, .sharing-button:visited {
-  display: inline-block;
-  text-align: center;
-  width: 5.5rem;
-  min-width: 10rem;
-  background-color: #ccc;
-  color: #fff;
-  text-decoration: none;
-  margin-bottom: 0.5rem; }
-  }
+
  
  .home {
 	width:70%;
