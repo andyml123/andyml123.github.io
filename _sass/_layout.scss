@@ -354,8 +354,10 @@ hr {
   color: #fff;
   text-decoration: none;
   margin-bottom: 0.5rem; 
+  
   @include media-query($on-palm) {
-  width: 5.5rem;
+         width: 5.5rem;
+         max-width: 6rem;
   }
 
 .sharing-button.twitter {
