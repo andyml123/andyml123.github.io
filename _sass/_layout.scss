@@ -430,7 +430,19 @@ hr {
 	margin-bottom:10;
 }
 
-ul{padding:0 0 0 1em}
+ol,p,ul{margin:0 0 1.6em 0}
+
+h1,h2,h3{margin:0 0 .5em}
+
+h1{font-size:1.6em;line-height:1.4}
+
+ol,ul{padding:0 0 0 1em}
+
+ol{list-style:decimal inside}
+
+ul{list-style:disc inside}
+
+ol li,ul li{margin-bottom:8px}
 
 ul.write{
 list-style:none;
