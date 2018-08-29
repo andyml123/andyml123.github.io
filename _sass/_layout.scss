@@ -429,3 +429,13 @@ hr {
 	margin:0;
 	margin-bottom:10;
 }
+
+
+ul.heart{
+    list-style:none;
+    padding-left:.5em
+    }
+    
+ul.star li:before{
+content:'&#x270d'
+}
