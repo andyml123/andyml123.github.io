@@ -353,12 +353,13 @@ hr {
   background-color: #ccc;
   color: #fff;
   text-decoration: none;
-  margin-bottom: 0.5rem; 
+  margin-bottom: 0.5rem;
   
   @include media-query($on-palm) {
-         width: 5.5rem;
-         max-width: 6rem;
-         font-weight:bold; }
+         width: 2.5rem;
+         max-width: 3rem;
+         font-weight:bold; 
+         }
   }
 
 .sharing-button.twitter {
