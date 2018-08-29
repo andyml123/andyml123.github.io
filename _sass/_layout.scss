@@ -357,9 +357,8 @@ hr {
   
   @include media-query($on-palm) {
          width: 2.5rem;
-         max-width: 3rem;
+         min-width: 3rem;
          font-weight:bold; 
-         border: 1px solid blue; 
          }
   }
 
