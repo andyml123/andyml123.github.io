@@ -480,6 +480,14 @@ margin:0;
 padding:0
 }
 
+.breadcrumb a {
+color: #0000EE;
+}
+
+.breadcrumb a:hover {
+text-decoration:underline;
+}
+
 .breadcrumb li {
 float:left;
 margin:0
