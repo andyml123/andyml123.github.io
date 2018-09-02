@@ -3,6 +3,7 @@ layout: page
 title: Top 100 Get Well Wishes
 title2: Get Well Wishes
 permalink: /get-well-wishes/
+published: true
 ---
 
 <p>
@@ -207,8 +208,6 @@ A poem is a great way to express your feelings and really show you care, and you
 <li>You're an inspiration in how you're dealing with all this. Just focus all your efforts on feeling better and I'll see you soon</li>
 <li>Wishing you so much love and so many positive thoughts to get better better as soon as possible</li>
 </ul>
-  
-</div>
 
 <footer class="site-footer">
 
@@ -236,6 +235,3 @@ A poem is a great way to express your feelings and really show you care, and you
 </div>
 
 </footer>
-
-</body>
-</html>
