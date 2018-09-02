@@ -1,3 +1,6 @@
+layout: page
+permalink: /get-well-wishes/
+
 <!DOCTYPE html>
 <html>
 <head>
