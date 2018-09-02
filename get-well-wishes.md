@@ -208,27 +208,3 @@ A poem is a great way to express your feelings and really show you care, and you
 <li>You're an inspiration in how you're dealing with all this. Just focus all your efforts on feeling better and I'll see you soon</li>
 <li>Wishing you so much love and so many positive thoughts to get better better as soon as possible</li>
 </ul>
-
-<footer class="site-footer">
-
-<ol class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">  
-  
-<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">  
-                              <a itemprop="item" href="/"><span itemprop="name">Get Well Messages</span></a><meta itemprop="position" content="1">
-  </li>
-  
-                          <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                            <a itemprop="item" href="/get-well-wishes"><span itemprop="name">Get Well Wishes</span></a><meta itemprop="position" content="2">
-</li>      
-
-</ol>    
-  
-<div id="footer">
-
-<a href="/about/">About</a>  |  <a href="/contact/">Contact</a>  | <a href="/privacy/">Privacy Policy</a> 
-
-      <div id="copyright"><p>© 2018 getwellmessages.net </p></div>
-
-</div>
-
-</footer>
