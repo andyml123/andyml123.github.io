@@ -498,3 +498,7 @@ list-style:none;
 list-style-type: none;
 padding-left:2
 }
+
+.bottom-nav li::after {
+content:"►";
+}
