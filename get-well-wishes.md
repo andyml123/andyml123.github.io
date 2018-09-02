@@ -1,3 +1,9 @@
+---
+layout: page
+title: Top 100 Get Well Wishes
+permalink: /get-well-wishes/
+---
+
 <p>
 When a friend or loved one is ill, has had surgery or is recovering from an injury the natural reaction is to want them to get well soon. You don't want to see someone you care about suffering or feeling poorly. So the way we try to cheer them up whilst they recover (aside from visiting them) is to send a get well soon message and gift. Something that can help lift their spirits and make them feel better as quickly as possible. 
   </p>
