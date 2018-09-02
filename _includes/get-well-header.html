@@ -2,7 +2,7 @@
   <a href="/" class="logo"><img src="/img/IMG_7208.PNG" alt="Get Well Messages"></a>
 
 <div class="wrapper">
-          <h1>{{.page.title}}</h1>
+          <h1>{% if page.title2 %}{{ page.title2 }}  {% else %}{{ page.title }}{% endif %}</h1>
       <div class="sharing">
 
   <a class="sharing-button twitter" href="https://twitter.com/intent/tweet?text=Test Post!&amp;url=http://www.crotchet.net/test-post/&amp;via=crotchetnet&amp;related=crotchetnet" rel="nofollow" title="Share on Twitter">Twitter</a>
