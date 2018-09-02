@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Top 100 Get Well Wishes
+title2: Get Well Wishes
 permalink: /get-well-wishes/
 ---
 
