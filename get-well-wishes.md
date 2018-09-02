@@ -209,6 +209,8 @@ A poem is a great way to express your feelings and really show you care, and you
 <li>Wishing you so much love and so many positive thoughts to get better better as soon as possible</li>
 </ul>
 
+</div>
+
 <footer class="site-footer">
 
 <div class="wrapper">
