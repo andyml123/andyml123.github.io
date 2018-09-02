@@ -211,8 +211,6 @@ A poem is a great way to express your feelings and really show you care, and you
 
 <footer class="site-footer">
 
-
-
 <ol class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">  
   
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">  
@@ -231,7 +229,6 @@ A poem is a great way to express your feelings and really show you care, and you
 
       <div id="copyright"><p>© 2018 getwellmessages.net </p></div>
 
-</div>
 </div>
 
 </footer>
