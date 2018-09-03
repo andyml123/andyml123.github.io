@@ -468,8 +468,9 @@ ul.heart li {
 text-indent: -10px;
 }
 
-.center {
-    text-align: center;
+.center-image {
+    margin: 0 auto;
+    display: block;
 }
 
 .breadcrumb {
