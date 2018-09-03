@@ -19,7 +19,3 @@ author:
   name:         'Admin'
   url:          https://www.getwellmessages.net
   email:        hello@getwellmessages.net
-
-# plugins
-gems:
-  - jekyll-sitemap
