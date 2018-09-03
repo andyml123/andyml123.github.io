@@ -3,12 +3,6 @@ layout: default
 published: true
 ---
 
-Testing...
-
-<div class="home">
-
-  TESTING THIS
-  
   {% for page in site.pages %}
           {% if page.image %}
           <img src="/img/{{ page.image }}" alt="" />
@@ -17,4 +11,3 @@ Testing...
           {% endif %}
         {% endfor %}  
   
-</div>
