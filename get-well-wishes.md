@@ -4,7 +4,7 @@ title: Top 100 Get Well Wishes
 title2: Get Well Wishes
 description: Find the best get well wishes and let a friend or loved one know you're thinking of them with these touching get well soon messages.
 tags: get well messages, get well wishes, compassionate get well messages, get well
-img: testing.jpeg
+image: testing.jpeg
 date: 2018-01-01
 permalink: /get-well-wishes/
 published: true
