@@ -59,11 +59,3 @@ Johann Paul Friedrich Richter</li>
 <li></li>
 
 </ol>
-  
-<h3>Get Well Resources</h3>  
-  
-<ul class="bottom-nav">
-  <li><a href="/">Get Well FAQ: Guide to Writing a Get Well Message</a></li>  
-  <li><a href="/">Get Well Gifts</a></li>
-  <li><a href="/">Get Well Soon Prayers</a></li>  
-</ul>
