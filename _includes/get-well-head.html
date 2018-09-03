@@ -9,12 +9,37 @@
   <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
   <link rel="preconnect" href="//www.google-analytics.com/">
   <link rel="preconnect" href="//pagead2.googlesyndication.com">
-  <meta name="author" content="getwellmessages.net">
-  <meta name="description"  content="Find the best get well wishes and let a friend or loved one know you're thinking of them with these touching get well soon messages.">
-  <meta name="keywords" content="get well messages, get well wishes, compassionate get well messages, get well">
+  
+  
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <meta property="og:site_name" content="{{ site.title }}">
+  {% if page.title %}
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:type" content="article">
+  <meta property="og:description" content="{{ page.excerpt | strip_html }}"/>
+  {% else %}
+  <meta property="og:title" content="{{ site.title }}">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Top 100 Get Well Wishes - getwellmessages.net">
-  <meta property="og:description" content="Find the best get well wishes and let a friend or loved one know you're thinking of them with these touching get well soon messages.">
-  <meta property="og:image" content="https://www.getwellmessages.net/img/condolence-candle.jpg">
+  <meta property="og:description" content="{{ site.description }}">
+  {% endif %}
+  {% if page.date %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta property="article:author" content="{{ site.url }}/about/">
+  {% endif %}
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  {% if page.tags %}
+  <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
+  {% for tag in page.tags %}
+  <meta property="article:tag" content="{{ tag }}">
+  {% endfor %}
+  {% endif %}
+  {% if author %}
+  <meta property="article:author" content="{{ author.name }}" />
+  {% endif %}  
+  
+  
+  
+ 
   <!-- <script type="text/javascript" src="https://d31vxm9ubutrmw.cloudfront.net/static/js/2055.js"></script> -->
 <link rel="preload" href="https://adservice.google.co.uk/adsid/integrator.js?domain=getwellmessages.net" as="script"><script src="https://pagead2.googlesyndication.com/pagead/js/r20180822/r20180604/osd.js"></script><script src="https://pagead2.googlesyndication.com/pub-config/r20160913/ca-pub-7704978023988513.js"></script><script type="text/javascript" src="https://adservice.google.co.uk/adsid/integrator.js?domain=getwellmessages.net"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=getwellmessages.net" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=getwellmessages.net"></script></head>
