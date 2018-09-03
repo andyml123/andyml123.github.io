@@ -2,7 +2,8 @@
 layout: page
 title: Top 100 Get Well Wishes
 title2: Get Well Wishes
-excerpt: testing excerpt
+excerpt: Find the best get well wishes and let a friend or loved one know you're thinking of them with these touching get well soon messages.
+tags: get well messages, get well wishes, compassionate get well messages, get well
 permalink: /get-well-wishes/
 published: true
 ---
