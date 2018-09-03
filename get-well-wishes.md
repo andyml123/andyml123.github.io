@@ -2,10 +2,12 @@
 layout: page
 title: Top 100 Get Well Wishes
 title2: Get Well Wishes
-description: Find the best get well wishes and let a friend or loved one know you're thinking of them with these touching get well soon messages.
-tags: get well messages, get well wishes, compassionate get well messages, get well
+description: >-
+  Find the best get well wishes and let a friend or loved one know you're
+  thinking of them with these touching get well soon messages.
+tags: 'get well messages, get well wishes, compassionate get well messages, get well'
 image: get-well-soon-messages.png
-date: 2018-01-01
+date: {}
 permalink: /get-well-wishes/
 published: true
 ---
@@ -55,7 +57,7 @@ Adsense ad here
 </p>
 
 <p>
-<img src="/img/get-well-soon-messages.png" class="center" alt="get well soon message flower basket" />
+<img src="/img/get-well-soon-messages.png" class="center-image" alt="get well soon message flower basket" />
 </p>
   
 <hr>
@@ -87,7 +89,7 @@ Adsense ad here
 </ul>
   
 <p>
-<img src="/img/feel-better-soon-message.png" class="center" alt="funny get well message bee well quick recovery and good health" />
+<img src="/img/feel-better-soon-message.png" class="center-image" alt="funny get well message bee well quick recovery and good health" />
 </p>
 
 <h2>What to Write in a Get Well Card</h2>
