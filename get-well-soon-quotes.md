@@ -1,47 +1,10 @@
 ---
 layout: page
-title: "Get Well Soon Quotes: 46 Touching and Uplifting Recovery Quotes"
+title: 'Get Well Soon Quotes: 46 Touching and Uplifting Recovery Quotes'
 title2: Get Well Soon Quotes
 permalink: /get-well-soon-quotes/
+published: true
 ---
-
-<html>
-<head>
-  <title>Get Well Soon Quotes: 46 Touching and Uplifting Recovery Quotes | getwellmessages.net</title>
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link href="/css/main.css" rel="stylesheet" type="text/css">
-  <link rel="manifest" href="/manifest.json">
-  <link rel="dns-prefetch" href="//www.google-analytics.com">
-  <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
-  <link rel="preconnect" href="//www.google-analytics.com/">
-  <link rel="preconnect" href="//pagead2.googlesyndication.com">
-  <meta name="author" content="getwellmessages.net">
-  <meta name="description"  content="Find the best get well wishes and let a friend or loved one know you're thinking of them with these touching get well soon messages.">
-  <meta name="keywords" content="get well messages, get well wishes, compassionate get well messages, get well">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Top 100 Get Well Wishes - getwellmessages.net">
-  <meta property="og:description" content="Find the best get well wishes and let a friend or loved one know you're thinking of them with these touching get well soon messages.">
-  <meta property="og:image" content="https://www.getwellmessages.net/img/condolence-candle.jpg">
-  <!-- <script type="text/javascript" src="https://d31vxm9ubutrmw.cloudfront.net/static/js/2055.js"></script> -->
-<link rel="preload" href="https://adservice.google.co.uk/adsid/integrator.js?domain=getwellmessages.net" as="script"><script src="https://pagead2.googlesyndication.com/pagead/js/r20180822/r20180604/osd.js"></script><script src="https://pagead2.googlesyndication.com/pub-config/r20160913/ca-pub-7704978023988513.js"></script><script type="text/javascript" src="https://adservice.google.co.uk/adsid/integrator.js?domain=getwellmessages.net"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=getwellmessages.net" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=getwellmessages.net"></script></head>
-
-<body itemscope="" itemtype="https://schema.org/WebPage">
-  <a href="/" class="logo"><img src="/img/IMG_7208.PNG" alt="Get Well Messages"></a>
-
-<div class="wrapper">
-          <h1>Get Well Soon Quotes: 46 Touching and Uplifting Recovery Quotes</h1>
-      <div class="sharing">
-
-  <a class="sharing-button twitter" href="https://twitter.com/intent/tweet?text=Test Post!&amp;url=http://www.crotchet.net/test-post/&amp;via=crotchetnet&amp;related=crotchetnet" rel="nofollow" title="Share on Twitter">Twitter</a>
-
-  <a class="sharing-button facebook" href="https://facebook.com/sharer.php?u=http://www.crotchet.net/test-post/" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
-
-  <a class="sharing-button googleplus" href="https://plus.google.com/share?url=http://www.crotchet.net/test-post/" rel="nofollow" target="_blank" title="Share on Google Plus">Google+</a>
-
-</div>
-
 <p>
   
 </p>
@@ -103,36 +66,4 @@ Johann Paul Friedrich Richter</li>
   <li><a href="/">Get Well FAQ: Guide to Writing a Get Well Message</a></li>  
   <li><a href="/">Get Well Gifts</a></li>
   <li><a href="/">Get Well Soon Prayers</a></li>  
-</ul>  
-
-</div>
-
-<footer class="site-footer">
-
-<div class="wrapper">
-
-<ol class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">  
-  
-<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">  
-                              <a itemprop="item" href="/"><span itemprop="name">Get Well Messages</span></a><meta itemprop="position" content="1">
-  </li>
-  
-<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                            <a itemprop="item" href="/get-well-soon-quotes"><span itemprop="name">Get Soon Quotes</span></a><meta itemprop="position" content="2">
-</li>      
-
-</ol>    
-  
-<div id="footer">
-
-<a href="/about/">About</a>  |  <a href="/contact/">Contact</a>  | <a href="/privacy/">Privacy Policy</a> 
-
-<div id="copyright"><p>© 2018 getwellmessages.net </p></div>
-
-</div>
-</div>
-
-</footer>
-
-</body>
-</html>
+</ul>
