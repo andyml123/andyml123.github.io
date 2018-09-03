@@ -20,5 +20,6 @@ author:
   url:          https://www.getwellmessages.net
   email:        hello@getwellmessages.net
 
-plugins:
+# plugins
+gems:
   - jekyll-sitemap
