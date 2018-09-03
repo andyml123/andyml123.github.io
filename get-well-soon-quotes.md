@@ -2,9 +2,14 @@
 layout: page
 title: 'Get Well Soon Quotes: 46 Touching and Uplifting Recovery Quotes'
 title2: Get Well Soon Quotes
+description: A huge range of inspirational, uplifiting and comforting get well quotes to let someone know you're thinking of them.
+tags: get well quotes, get well wishes, inspirational get well quotes, get well soon
+image: testing.jpeg
+date: 2018-01-01
 permalink: /get-well-soon-quotes/
 published: true
 ---
+
 <p>
   
 </p>
