@@ -1,5 +1,7 @@
 <footer class="site-footer">
 
+{% if page.layout == 'page' %}
+ 
 <ol class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">  
   
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">  
@@ -11,6 +13,8 @@
 </li>      
 
 </ol>    
+  
+{% endif %}    
   
 <div id="footer">
 
