@@ -4,8 +4,6 @@ title: Get Well Soon Quotes:
 permalink: /get-well-soon-quotes/
 ---
 
-
-
 <html>
 <head>
   <title>Get Well Soon Quotes: 46 Touching and Uplifting Recovery Quotes | getwellmessages.net</title>
