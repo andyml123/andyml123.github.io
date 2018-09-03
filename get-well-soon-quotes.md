@@ -118,7 +118,7 @@ Johann Paul Friedrich Richter</li>
                               <a itemprop="item" href="/"><span itemprop="name">Get Well Messages</span></a><meta itemprop="position" content="1">
   </li>
   
-                          <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
                             <a itemprop="item" href="/get-well-soon-quotes"><span itemprop="name">Get Soon Quotes</span></a><meta itemprop="position" content="2">
 </li>      
 
@@ -128,7 +128,7 @@ Johann Paul Friedrich Richter</li>
 
 <a href="/about/">About</a>  |  <a href="/contact/">Contact</a>  | <a href="/privacy/">Privacy Policy</a> 
 
-      <div id="copyright"><p>© 2018 getwellmessages.net </p></div>
+<div id="copyright"><p>© 2018 getwellmessages.net </p></div>
 
 </div>
 </div>
