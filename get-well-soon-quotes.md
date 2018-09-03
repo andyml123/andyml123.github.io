@@ -2,7 +2,6 @@
 layout: page
 title: Get Well Soon Quotes: 46 Touching and Uplifting Recovery Quotes
 permalink: /get-well-soon-quotes/
-published: true
 ---
 
 
