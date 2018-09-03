@@ -2,7 +2,7 @@
 layout: default
 published: true
 ---
-
+<p>
   {% for page in site.pages %}
           {% if page.image %}
           <img src="/img/{{ page.image }}" alt="" />
@@ -10,4 +10,4 @@ published: true
          
           {% endif %}
         {% endfor %}  
-  
+  </p>
