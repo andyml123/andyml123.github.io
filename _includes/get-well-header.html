@@ -1,11 +1,10 @@
 <body itemscope="" itemtype="https://schema.org/WebPage">
   <a href="/" class="logo"><img src="/img/IMG_7208.PNG" alt="Get Well Messages"></a>
-
- {% if page.layout == 'page' %} 
   
 <div class="wrapper">
           <h1>{% if page.title2 %}{{ page.title2 }}  {% else %}{{ page.title }}{% endif %}</h1>
   
+  {% if page.layout == 'page' %} 
   
       <div class="sharing">
 
@@ -17,5 +16,4 @@
 
 </div>
   
-{% endif %} 
-  
+{% endif %}
