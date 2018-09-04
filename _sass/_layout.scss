@@ -430,12 +430,7 @@ hr {
 	margin-bottom:10;
 }
 
-.img {
-display:block;
-max-width:100%;
-margin:0 0 2rem 0
-}
-@media (min-width:45rem) {
+.img{display:block;max-width:100%;margin:0 0 2rem 0}@media (min-width:45rem){.img.left{float:left;margin:0 1.6em 1.6em 0;max-width:400px}.img.right{float:right;margin:0 0 1.6em 1.6em;max-width:400px}}
 
 h1,h2,h3{margin:0 0 .5em}
 
