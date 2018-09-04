@@ -9,7 +9,7 @@ Adsense ad here
 </p>
 
 <p>
-Here you will find the best get well soon wishes and quotes. They will express your desire for a sick friend or relative to feel better soon, hoping for their speedy recovery. When you're feeling unwell a message from a friend can be a real boost and lift your spirits when you're feeling down.</p>
+Here you will find the best get well soon wishes and quotes. They will express your desire for a sick friend or relative to feel better soon, hoping for their speedy recovery. When you're unwell a message from a friend can be a real boost and lift your spirits when you're feeling down.</p>
 
 <p>
  
