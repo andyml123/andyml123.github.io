@@ -17,7 +17,7 @@ published: true
 
 {% for page in site.pages %}
     {% if page.image %}
-          <div class="contentTop">
+ <div class="contentTop">
           <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
           <a href="{{ page.url | prepend: site.baseurl }}"> <img class="img1" src="/img/{{ page.image }}" alt="" /></a>
           </div>
