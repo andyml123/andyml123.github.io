@@ -30,8 +30,13 @@ And if you know the person well who's ill or injured then you can consider using
 </p>
 
 <p>
-<h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
-            <a href="{{ page.url | prepend: site.baseurl }}"> <img class="img" src="/img/{{ page.image }}" alt="" /></a>
+<h2><a class="page-link" href="/get-well-soon-quotes/">Get Well Soon Quotes: 46 Touching and Uplifting Recovery Quotes</a></h2>
+<a href="/get-well-wishes"> <img class="img" src="/img/get-well-soon-quotes.png" alt="" /></a>
+</p>
+
+<p>
+<h2><a class="page-link" href="/get-well-wishes">Funny Get Well Soon Wishes and Messages</a></h2>
+<a href="/funny-get-well-soon-wishes"> <img class="img" src="/img/funny-get-well-soon-wishes.png" alt="" /></a>
 </p>
 
 <p>
