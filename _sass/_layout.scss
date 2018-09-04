@@ -343,15 +343,15 @@ hr {
 
 .sharing {
   margin: 1rem 0;
-  text-align: center; 
-
+  text-align: center; }
+/**
   @include media-query($on-palm) {
         display:block;
         overflow:hidden;
         float:right;
          }
   }
-
+**/
 .sharing-button, .sharing-button:visited {
   display: inline-block;
   text-align: center;
