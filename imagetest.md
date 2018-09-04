@@ -12,8 +12,8 @@ Adsense ad here
 Here you will find the best get well soon wishes and quotes. They will express your desire for a sick friend or relative to feel better soon, hoping for their speedy recovery. When you're unwell a message from a friend can be a real boost and lift your spirits when you're feeling down.</p>
 
 <p>
-<h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
-            <a href="{{ page.url | prepend: site.baseurl }}"> <img class="img" src="/img/{{ page.image }}" alt="" /></a>
+<h2><a class="page-link" href="/get-well-wishes">Top 100 Get Well Wishes</a></h2>
+<a href="/get-well-wishes"> <img class="img" src="/img/get-well-soon-wishes.png" alt="" /></a>
 </p>
 
 <p>
