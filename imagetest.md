@@ -9,4 +9,8 @@ published: true
             <img class="img" src="/img/{{ page.image }}" alt="" /></div>
           {% endif %}
         {% endfor %}  
+        
+        <div class="side-by-side">
+        <img class="img" src="/img/{{ page.image }}" alt="" />
+        </div>
   </p>
