@@ -345,7 +345,7 @@ hr {
   margin: 1rem 0;
   text-align: right; 
 
-  @include media-query($on-palm) {
+  @media only screen and (max-width: 320px) {
         text-align:center;
          }
   }
