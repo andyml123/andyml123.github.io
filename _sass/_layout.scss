@@ -431,7 +431,8 @@ hr {
 }
 
 .img {
-display:block;max-width:100%;
+display:block;
+max-width:100%;
 margin:0 0 2rem 0
 }
 
@@ -508,15 +509,4 @@ padding-left:2
 .bottom-nav li::after {
 content:" ►";
 font-size:10px;
-}
-
-.home-column {
-display:inline-block;
-vertical-align:top;
-width:25%;
-}
-
-.side-by-side {
-float: left; 
-margin-right: 5px 
 }
