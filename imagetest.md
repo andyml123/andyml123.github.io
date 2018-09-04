@@ -40,6 +40,11 @@ And if you know the person well who's ill or injured then you can consider using
 </p>
 
 <p>
+We understand writing a get well message can be tricky. You want your words to make those ill feel better, to lift their mood, and express exactly what they mean to you. Rest assured that a get well card or gift will be warmly received by those recovering. And as long as you're sincere and speak from the heart whatever you say will be greatly appreciated. But if you're still unsure then try our guide to writing the perfect get well message.
+</p>
+
+
+<p>
  
   {% for page in site.pages %}
           {% if page.image %}
