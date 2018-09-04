@@ -17,6 +17,11 @@ Here you will find the best get well soon wishes and quotes. They will express y
 </p>
 
 <p>
+<h2><a class="page-link" href="/get-well-wishes">Get Well Soon Messages for a Friend</a></h2>
+<a href="/get-well-wishes"> <img class="img" src="/img/get-well-soon-messages-for-friend.png" alt="" /></a>
+</p>
+
+<p>
 You might prefer to post something on Facebook or Twitter, where sharing get well soon quotes for friends is often done. It's a good way to let lots of people offer their messages and best wishes for the sick to get better soon.
 </p>
 
