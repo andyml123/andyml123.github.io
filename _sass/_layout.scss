@@ -356,10 +356,11 @@ hr {
   margin-bottom: 0.5rem;
   border-radius:25px;
   
-  @media all and  (min-width: 320px) {
+  @media all and  (min-width: 300px) {
 
     .sharing {
         float:right;
+        padding-left:40px;
     }
 
 }
