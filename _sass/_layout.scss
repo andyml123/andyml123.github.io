@@ -356,7 +356,7 @@ hr {
   margin-bottom: 0.5rem;
   border-radius:25px;
   
-  @media (min-width: 320px) {
+  @media (max-width: 320px) {
     float: right;
     padding-left:40px;
     }
