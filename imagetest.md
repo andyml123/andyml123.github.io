@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 <p>
-  <div class="home-columns">
+<div class="side-by-side">
   {% for page in site.pages %}
           {% if page.image %}
           <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
