@@ -354,6 +354,7 @@ hr {
   color: #fff;
   text-decoration: none;
   margin-bottom: 0.5rem;
+  border-radius:25px;
   
   @include media-query($on-palm) {
          width: 2.5rem;
