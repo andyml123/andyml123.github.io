@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 <p>
-  <div class="home-column">
+ 
   {% for page in site.pages %}
           {% if page.image %}
    <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
@@ -11,5 +11,5 @@ published: true
 
           {% endif %}
         {% endfor %}  
-  </div>
+  
   </p>
