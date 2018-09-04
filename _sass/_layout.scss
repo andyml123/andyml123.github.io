@@ -430,11 +430,7 @@ hr {
 	margin-bottom:10;
 }
 
-img {
-  width: auto ;
-  max-width: 100% ;
-  height: auto ;
-}
+.img{display:block;max-width:100%;margin:0 0 2rem 0}@media (min-width:45rem)}
 
 h1,h2,h3{margin:0 0 .5em}
 
