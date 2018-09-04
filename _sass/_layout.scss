@@ -343,10 +343,10 @@ hr {
 
 .sharing {
   margin: 1rem 0;
-  text-align: center; 
+  text-align: right; 
 
   @include media-query($on-palm) {
-        text-align:right;
+        text-align:center;
          }
   }
 
