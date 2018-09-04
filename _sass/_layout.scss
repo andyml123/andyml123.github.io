@@ -348,6 +348,7 @@ hr {
   @include media-query($on-palm) {
         display:block;
         overflow:hidden;
+        float:right;
          }
   }
 
