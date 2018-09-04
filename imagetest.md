@@ -14,7 +14,7 @@ published: true
           {% if page.image %}
         
         <div class="side-by-side">
-        <img class="img" src="/img/{{ page.image }}" alt="" />
+        <img class="img" src="/img/{{ page.image }}" alt="" width="50" height="50" />
         </div>
         
         {% endif %}
