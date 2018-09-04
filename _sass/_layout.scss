@@ -356,6 +356,11 @@ hr {
   margin-bottom: 0.5rem;
   border-radius:25px;
   
+  @media only screen and (min-width: 320px) {
+    float: right;
+    }
+}
+  
   @include media-query($on-palm) {
          width: 2.5rem;
          min-width: 5em;
