@@ -345,6 +345,11 @@ hr {
   margin: 1rem 0;
   text-align: center; }
 
+  @include media-query($on-palm) {
+        float:right;
+         }
+  }
+
 .sharing-button, .sharing-button:visited {
   display: inline-block;
   text-align: center;
@@ -360,7 +365,6 @@ hr {
          width: 2.5rem;
          min-width: 5em;
          padding: 5px;
-         padding-left:20px;
          }
   }
 
