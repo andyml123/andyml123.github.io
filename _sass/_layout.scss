@@ -510,3 +510,17 @@ padding-left:2
 content:" ►";
 font-size:10px;
 }
+
+.contentTop {
+margin-left: auto; 
+margin-right: auto; 
+width: 208px
+} @media (max-width: 1010px) { 
+.img1 {
+width: 80%; 
+margin-left: auto; 
+margin-right: auto
+} 
+.contentTop {
+width: auto
+} }
