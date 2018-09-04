@@ -12,6 +12,15 @@ Adsense ad here
 Here you will find the best get well soon wishes and quotes. They will express your desire for a sick friend or relative to feel better soon, hoping for their speedy recovery. When you're unwell a message from a friend can be a real boost and lift your spirits when you're feeling down.</p>
 
 <p>
+You might prefer to post something on Facebook or Twitter, where sharing get well soon quotes for friends is often done. It's a good way to let lots of people offer their messages and best wishes for the sick to get better soon.
+</p>
+
+<p>
+And if you know the person well who's ill or injured then you can consider using a funny get well message. Putting a smile or giving a laugh to those who are unwell can be a great way to make them feel a little better. 'Laughter is the greatest medicine', as they say!
+</p>
+
+
+<p>
  
   {% for page in site.pages %}
           {% if page.image %}
