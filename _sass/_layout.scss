@@ -536,3 +536,23 @@ font-size:10px;
         width: auto;
     }
 }
+
+
+div.jumbo {
+background-color: #fff;
+width: 100%; 
+margin: 6px auto; padding: 2px;
+text-align: center;
+}
+
+.jumbo img {
+padding: 8px;
+display: inline;
+}
+
+@media (max-width: 768px) { 
+.jumbo img {
+    display: block;
+    margin: 5px auto;
+}
+}
