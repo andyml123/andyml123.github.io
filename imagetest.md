@@ -65,7 +65,7 @@ If you're going to see the ill person at home or in hospital, or you want someth
     {% if page.image %}
  <div class="column">
           <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
-          <a href="{{ page.url | prepend: site.baseurl }}"> <img src="/img/{{ page.image }}" alt="" /></a>
+          <a href="{{ page.url | prepend: site.baseurl }}"> <img class="img" src="/img/{{ page.image }}" alt="" /></a>
           </div>
           {% endif %}
         {% endfor %}
