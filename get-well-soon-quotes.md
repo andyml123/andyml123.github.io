@@ -6,7 +6,7 @@ description: >-
   A huge range of inspirational, uplifiting and comforting get well quotes to
   let someone know you're thinking of them.
 tags: 'get well quotes, get well wishes, inspirational get well quotes, get well soon'
-image: feel-better-soon-message.png
+image: get-well-soon-quotes.png
 permalink: /get-well-soon-quotes/
 published: true
 ---
