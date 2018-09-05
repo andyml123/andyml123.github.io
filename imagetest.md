@@ -70,3 +70,15 @@ If you're going to see the ill person at home or in hospital, or you want someth
           {% endif %}
         {% endfor %}
 </div>
+
+<hr>
+
+<div class="jumbo">
+{% for page in site.pages %}
+    {% if page.image %}
+          <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
+          <a href="{{ page.url | prepend: site.baseurl }}"> <img class="jumbo" src="/img/{{ page.image }}" alt="" /></a>
+         
+          {% endif %}
+        {% endfor %}
+</div>
