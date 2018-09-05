@@ -60,12 +60,13 @@ If you're going to see the ill person at home or in hospital, or you want someth
   
   </p>
 <hr>
-
+<div class="row">
 {% for page in site.pages %}
     {% if page.image %}
- <div class="col">
+ <div class="column">
           <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
           <a href="{{ page.url | prepend: site.baseurl }}"> <img src="/img/{{ page.image }}" alt="" /></a>
           </div>
           {% endif %}
         {% endfor %}
+</div>
