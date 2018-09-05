@@ -519,8 +519,7 @@ font-size:10px;
 
 .column {
     float: left;
-    width: 33%;
-    margin-right: 5px;
+    width: 50%;
 }
 
 .row:after {
@@ -531,6 +530,7 @@ font-size:10px;
 img {
     max-width: 100%;
     height: auto;
+    margin-right:5px;
 }
 @media screen and (max-width: 680px) {
     .column {
