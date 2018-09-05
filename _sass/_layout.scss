@@ -517,8 +517,10 @@ content:" ►";
 font-size:10px;
 }
 
-.row {
-    display: flex;
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
 .column {
