@@ -6,5 +6,5 @@ description: Use one of these get well soon messages to let a friend know you're
 permalink: /get-well-soon-messages-for-a-friend/
 tags: get well soon messages, get well soon, get well messages for a friend
 image: get-well-soon-messages-for-a-friend.png
-published: true
+published: false
 ---
