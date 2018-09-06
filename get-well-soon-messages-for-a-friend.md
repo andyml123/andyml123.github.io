@@ -17,7 +17,7 @@ Send your friend an inspirational and uplifting message to brighten their day. Y
 
 
 <div class="poems">
-  <p>Hang In There</p>
+  <p><strong>Hang In There</strong></p>
   
 <p>Hello, my friend; You're on my mind,
 Because you're somehow ailing,
