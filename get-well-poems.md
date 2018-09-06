@@ -3,9 +3,9 @@ layout: page
 title: Get Well Poems: 21 Lovely Ways to say Get Better
 title2: Get Well Poems
 description:
-image: img/get-well-poems.png
+image: get-well-poems.png
 permalink: /get-well-poems/
-tags: poems, get well poems, get well verses 
+tags: 'poems, get well poems, get well verses'
 categories:
   - poems
 published: true
