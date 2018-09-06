@@ -113,16 +113,6 @@ There are a few things you should absolutley avoid saying in your get well soon 
           {% endif %}
         {% endfor %}
 </div>
-
-
- {% for page in site.categories.messages %}
-    {% if page.image %}
-          <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
-          <a href="{{ page.url | prepend: site.baseurl }}"> <img src="/img/{{ page.image }}" alt="" /></a>
-          
-     {% endif %}
-        {% endfor %}
-        
         
         {% for page in site.pages %}
   {% if page.categories contains 'messages' %}
