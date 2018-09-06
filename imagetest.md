@@ -120,6 +120,5 @@ There are a few things you should absolutley avoid saying in your get well soon 
         {{ page.title }}
       </a></h3>
       <p>{{page.description}}</p>  
-    </div>
   {% endif %}
   {% endfor %}
