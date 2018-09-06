@@ -18,8 +18,6 @@ Get well poems are a brilliant way to lift a sick friend or relatives spirits. U
 
 <h2>Get Well Poems</h2>
 
-<div class="poems">
-
 <p><strong>Get Well Soon</strong></p>
 
 <p>I hope you're feeling better;<br>
@@ -31,7 +29,7 @@ Get Well Soon!</p>
 
 <i>By Karl Fuchs</i>
 
-</div>
+
 
 <div class="poems">
 
