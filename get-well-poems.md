@@ -40,7 +40,7 @@ And I hope you'll soon be well!
 
 </div>
 
-<div class="poems>
+<div class="poems">
 
 If knowing that someone really cares 
 Helps healing along its way 
