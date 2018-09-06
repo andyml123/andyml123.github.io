@@ -10,6 +10,8 @@ image: get-well-soon-wishes.png
 permalink: /get-well-wishes/
 published: true
 category: messages
+categories:
+  - messages
 ---
 
 <p>
