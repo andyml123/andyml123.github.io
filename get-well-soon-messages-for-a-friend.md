@@ -16,18 +16,4 @@ published: true
 Send your friend an inspirational and uplifting message to brighten their day. You can send a card on its own, with a gift or even use the examples below to say in person if you're visiting your friend.</p>
 
 
-<div class="poems">
-  <p><strong>Hang In There</strong></p>
-  
-<p>Hello, my friend; You're on my mind,<br>
-Because you're somehow ailing,<br>
-But your response to any challenge<br>
-Has always been unfailing.</p>
-  
-<p>So I'm confident you'll win again;<br>
-Hang in there, and you'll see;<br>
-You'll be back on top in no time,<br>
-  Tackling life courageously.</p>
 
-<p><i>By Joanna Fuchs</i></p>
-</div>
