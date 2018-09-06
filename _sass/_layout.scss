@@ -566,3 +566,20 @@ display: inline;
   border-radius:5px;
   text-align:center;
 }
+
+.logo {
+display:block;
+overflow:hidden;
+text-align:center
+}
+
+.logo img {
+max-width:100%;
+min-height:95px
+}
+
+@media (min-width:45rem) {
+.logo img {
+max-width:80% 
+}
+}
