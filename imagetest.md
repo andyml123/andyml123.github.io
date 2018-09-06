@@ -116,9 +116,7 @@ There are a few things you should absolutley avoid saying in your get well soon 
         
         {% for page in site.pages %}
   {% if page.categories contains 'messages' %}
-      <h3><a href="{{ page.url }}">
-        {{ page.title }}
-      </a></h3>
-      <p>{{page.description}}</p>  
+   <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+<p>{{page.description}}</p>  
   {% endif %}
   {% endfor %}
