@@ -54,7 +54,7 @@ And keep improving, day by day </p>
 
 <div class="poems">
 
-<strong>Bad Bug</strong>
+<p><strong>Bad Bug</strong></p>
 
 <p>Has a bad bug gotten hold of you,
 Making you feel queasy?
@@ -119,22 +119,21 @@ Or I will be a grump!</p>
 
 <div class="poems">
   
-<strong>Bring Back Your Special Spark</strong>
+<p><strong>Bring Back Your Special Spark</strong></p>
 
-I hear you're feeling not so well;
+<p>I hear you're feeling not so well;
 It's no fun being sickly.
 Please know I care about you,
-And hope you get well quickly.
+And hope you get well quickly.</p>
 
-When you're gone, you're sorely missed;
+<p>When you're gone, you're sorely missed;
 A bit of my world turns dark.
 So take good care, recuperate,
-And bring back your special spark!
+And bring back your special spark!</p>
 
-<i>By Joanna Fuchs</i>
+<p><i>By Joanna Fuchs</i></p>
   
 </div>
-
 
 <h2>Inspirational Get Well Poems</h2>
 
@@ -198,37 +197,37 @@ You'll be back on top in no time,<br>
 
 <div class="poems">
   
-Behind You
+<p><strong>Behind You</strong></p>
 
-Soon, all this will be behind you.
+<p>Soon, all this will be behind you.
 At first, you'll look back briefly,
 truly understanding what a gift health is,
 how amazing it feels to be back to "normal."
 Then you'll forget...
 and resume skipping through a life
-filled with a kaleidoscope of blessings.
+filled with a kaleidoscope of blessings.</p>
 
-Get well soon!
+<p>Get well soon!</p>
 
-By Joanna Fuchs
+<p><i>By Joanna Fuchs</i></p>
 
 </div>
 
-<div class="">
+<div class="poems">
 
-<strong>Think Good Thoughts</strong>
+<p><strong>Think Good Thoughts</strong></p>
 
-Being sick has a mental part,
+<p>Being sick has a mental part,
 So use your head to cure you.
 Thinking good thoughts is the way to start,
-And smiling works, I assure you.
+And smiling works, I assure you.</p>
 
-Keep up your spirits to cheer yourself;
+<p>Keep up your spirits to cheer yourself;
 Don't let the gloomies win.
 A happy soul will get well fast,
-And right now is the time to begin.
+And right now is the time to begin.</p>
 
-<i>By Karl Fuchs</i>
+<p><i>By Karl Fuchs</i></p>
 
 </div>
 
@@ -237,40 +236,40 @@ And right now is the time to begin.
 
 <div class="poems">
   
-Get Back To Work!
+<p><strong>Get Back To Work!</strong></p>
 
-Get well quick, you lazy bum,
+<p>Get well quick, you lazy bum,
 There's lots of work to do.
 If you stay sick, it's more work for me,
-And I'd rather it was for you.
+And I'd rather it was for you.</p>
 
-<i>By Karl Fuchs</i>
+<p><i>By Karl Fuchs</i></p>
 
 </div>
 
 <div class="poems">
 
-<strong>All In Your Head</strong>
+<p><strong>All In Your Head</strong></p>
 
-Let's go, get up, stop faking it;
+<p>Let's go, get up, stop faking it;
 Get your sorry behind off that bed.
 Try positive thinking to get back to work.
-Your illness is all in your head!
+Your illness is all in your head!</p>
 
-At least that's what we hope. Looking forward to your return...
+<p>At least that's what we hope. Looking forward to your return...</p>
 
-<i>By Karl and Joanna Fuchs</i>
+<p><i>By Karl and Joanna Fuchs</i></p>
 
 </div>
 
 <div class="poems">
   
-This card, has health-giving powers 
+<p>This card, has health-giving powers 
 And I've made it, just for you
 I certainly feel much better 
-And I hope that you do, too!
+And I hope that you do, too!</p>
 
-<i>Jon Bratton</i>
+<p><i>Jon Bratton</i></p>
 
 </div>
   
