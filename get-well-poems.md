@@ -19,24 +19,24 @@ Get Well Soon!</p>
 
 <div class="poems">
 
-<strong>Magic Wand</strong>
+<p><strong>Magic Wand</strong></p>
 
-I wish I had a magic wand
+<p>I wish I had a magic wand
 To make it go away;
 I'd wave my scepter over you
-Until you were okay.
+Until you were okay.</p>
 
-I'd think good thoughts; I'd send you love;
+<p>I'd think good thoughts; I'd send you love;
 I'd transmit healing vibes;
 My wand and I would surely beat
-Whatever the doc prescribes.
+Whatever the doc prescribes.</p>
 
-But there is no magic scepter, so
+<p>But there is no magic scepter, so
 I cannot cast a spell;
 Just know you're often in my thoughts,
-And I hope you'll soon be well!
+And I hope you'll soon be well!</p>
 
-<i>By Joanna Fuchs</i>
+<p><i>By Joanna Fuchs</i></p>
 
 </div>
 
@@ -148,6 +148,7 @@ And you will have a good day,
 Just keep a positive frame of mind,
 Do what you feel don't stay confined,
 Get well soon dear!</p>
+
 </div>
 
 <div class="poems">
@@ -176,6 +177,7 @@ That's a reward that satisfies!<p>
 <p>I believe in you; You can do it!</p>
 
 <p><i>By Joanna Fuchs</i></p>
+
 </div>
 
 <div class="poems">
