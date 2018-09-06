@@ -113,3 +113,9 @@ There are a few things you should absolutley avoid saying in your get well soon 
           {% endif %}
         {% endfor %}
 </div>
+
+
+ {% for page in site.tags.get-well-soon %}
+    {% if page.image %}
+          <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
+          <a href="{{ page.url | prepend: site.baseurl }}"> <img class="jumbo" src="/img/{{ page.image }}" alt="" /></a>
