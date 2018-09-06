@@ -1,3 +1,16 @@
+---
+layout: page
+title: Get Well Poems: 21 Lovely Ways to say Get Better
+title2: Get Well Poems
+description:
+image: img/get-well-poems.png
+permalink: /get-well-poems/
+tags: poems, get well poems, get well verses 
+categories: [poems]
+published: true
+---
+
+
 Get well poems are a brilliant way to lift a sick friend or relatives spirits. Using a cheerful and upbeat verse can work wonders on their mood. Improving an unwell persons state of mind is essential for helping them to feel better. So feel free to use the get well soon poems and verses below in a card or with a gift. 
 
 <h2>Get Well Poems</h2>
