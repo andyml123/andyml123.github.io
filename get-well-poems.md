@@ -6,7 +6,8 @@ description:
 image: img/get-well-poems.png
 permalink: /get-well-poems/
 tags: poems, get well poems, get well verses 
-categories: [poems]
+categories:
+  - poems
 published: true
 ---
 
