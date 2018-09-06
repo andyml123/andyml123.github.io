@@ -9,6 +9,7 @@ tags: 'get well quotes, get well wishes, inspirational get well quotes, get well
 image: get-well-soon-quotes.png
 permalink: /get-well-soon-quotes/
 published: true
+category: messages
 ---
 
 <p>
