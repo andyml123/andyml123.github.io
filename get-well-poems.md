@@ -36,7 +36,7 @@ I cannot cast a spell;
 Just know you're often in my thoughts,
 And I hope you'll soon be well!</p>
 
-<p><i>By Joanna Fuchs</i></p>
+<i>By Joanna Fuchs</i>
 
 </div>
 
@@ -47,7 +47,7 @@ Helps healing along its way <br>
 Then I hope you now feel better <br>
 And keep improving, day by day </p>
 
-<p><i>Jon Bratton</i></p>
+<i>Jon Bratton</i>
 
 </div>
 
