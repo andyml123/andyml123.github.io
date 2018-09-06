@@ -209,7 +209,7 @@ filled with a kaleidoscope of blessings.</p>
 
 <p>Get well soon!</p>
 
-<p><i>By Joanna Fuchs</i></p>
+<i>By Joanna Fuchs</i>
 
 </div>
 
@@ -227,7 +227,7 @@ Don't let the gloomies win.
 A happy soul will get well fast,
 And right now is the time to begin.</p>
 
-<p><i>By Karl Fuchs</i></p>
+<i>By Karl Fuchs</i>
 
 </div>
 
@@ -243,7 +243,7 @@ There's lots of work to do.
 If you stay sick, it's more work for me,
 And I'd rather it was for you.</p>
 
-<p><i>By Karl Fuchs</i></p>
+<i>By Karl Fuchs</i>
 
 </div>
 
@@ -258,7 +258,7 @@ Your illness is all in your head!</p>
 
 <p>At least that's what we hope. Looking forward to your return...</p>
 
-<p><i>By Karl and Joanna Fuchs</i></p>
+<i>By Karl and Joanna Fuchs</i>
 
 </div>
 
@@ -269,16 +269,6 @@ And I've made it, just for you
 I certainly feel much better 
 And I hope that you do, too!</p>
 
-<p><i>Jon Bratton</i></p>
-
-</div>
-  
-  
-
-
-
-<div class="poems">
-  
-
+<i>Jon Bratton</i>
 
 </div>
