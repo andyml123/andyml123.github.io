@@ -18,16 +18,16 @@ Send your friend an inspirational and uplifting message to brighten their day. Y
 
 <div class="poems">
   <div class="poem-title">Hang In There</div>
-
+<p>
 Hello, my friend; You're on my mind,
 Because you're somehow ailing,
 But your response to any challenge
 Has always been unfailing.
-
-So I'm confident you'll win again;
+  </p>
+<p>So I'm confident you'll win again;
 Hang in there, and you'll see;
 You'll be back on top in no time,
-Tackling life courageously.
+  Tackling life courageously.</p>
 
-<i>By Joanna Fuchs</i>
+<p><i>By Joanna Fuchs</i></p>
 </div>
