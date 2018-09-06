@@ -42,12 +42,12 @@ And I hope you'll soon be well!</p>
 
 <div class="poems">
 
-If knowing that someone really cares 
-Helps healing along its way 
-Then I hope you now feel better 
-And keep improving, day by day 
+<p>If knowing that someone really cares <br>
+Helps healing along its way <br>
+Then I hope you now feel better <br>
+And keep improving, day by day </p>
 
-<i>Jon Bratton</i>
+<p><i>Jon Bratton</i></p>
 
 </div>
 
@@ -56,64 +56,64 @@ And keep improving, day by day
 
 <strong>Bad Bug</strong>
 
-Has a bad bug gotten hold of you,
+<p>Has a bad bug gotten hold of you,
 Making you feel queasy?
 You're energy's low, you're indisposed,
-Being sick's not easy!
+Being sick's not easy!</p>
 
-Just take this opportunity
+<p>Just take this opportunity
 To recuperate and rest,
 And then when you return to us
-You'll be your very best!
+You'll be your very best!</p>
 
-<i>By Joanna Fuchs</i>
+<p><i>By Joanna Fuchs</i></p>
 
 </div>
 
 <div class="poems">
   
-This little card is sent to say...
+<p>This little card is sent to say...
 I hope you feel better day by day
 So pop those pills and swig that tonic
-and I am sure you soon will be supersonic
+and I am sure you soon will be supersonic</p>
 
-<i>Margmax </i>
+<p><i>Margmax </i></p>
 
 </div>
 
 <div class="poems">
   
-<strong>My Ailing Friend</strong>
+<p><strong>My Ailing Friend</strong></p>
 
-Get well, get well, my ailing friend,
+<p>Get well, get well, my ailing friend,
 Whatever it is you've got;
 I'm sad and blue, thinking of you,
-And missing you a lot!
+And missing you a lot!</p>
 
-Rest in your bed, although you're bored;
+<p>Rest in your bed, although you're bored;
 Be sure to sleep more than eight;
 Get healed, get cured; come back to the world,
-Where all your fans await!
+Where all your fans await!</p>
 
-<i>By Joanna Fuchs</i>
+<p><i>By Joanna Fuchs</i></p>
   
 </div>
 
 <div class="poems">
   
-<strong>You Are Deeply Missed</strong>
+<p><strong>You Are Deeply Missed</strong></p>
 
-Get well real fast, my friend,
+<p>Get well real fast, my friend,
 That's what I wish for you,
 For while you're sick you're deeply missed,
-So I am sad and blue.
+So I am sad and blue.</p>
 
-So have some pity on me,
+<p>So have some pity on me,
 Don't leave me in the dump.
 Return to health real soon, my friend,
-Or I will be a grump!
+Or I will be a grump!</p>
 
-<i>By Karl Fuchs</i>
+<p><i>By Karl Fuchs</i></p>
   
 </div>
 
