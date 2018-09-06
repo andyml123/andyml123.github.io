@@ -124,10 +124,7 @@ There are a few things you should absolutley avoid saying in your get well soon 
         {% endfor %}
         
         
-        {% for page in site.categories.messages %}
-    <li>{{ page.title }}</li>
-{% endfor %}
-
-{% for page in site.categories.messages %}
- + [{{ page.title }}]({{ page.url }})
-{% endfor %}
+        {% for page in site.pages %}
+{% for category in page.categories %}
+{% if category == "messages" %}
+<li><a href="{{ page.permalink | prepend: site.baseurl }}">{{page.title}}
