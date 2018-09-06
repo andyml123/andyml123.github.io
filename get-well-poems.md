@@ -4,7 +4,22 @@ Get well poems are a brilliant way to lift a sick friend or relatives spirits. U
 
 <div class="poems">
 
-Magic Wand
+<strong>Get Well Soon</strong>
+
+I hope you're feeling better;
+I miss you every day.
+I'm always thinking of you,
+So this is what I say:
+
+Get Well Soon!
+
+<I>By Karl Fuchs</i>
+
+</div>
+
+<div class="poems">
+
+<strong>Magic Wand<strong>
 
 I wish I had a magic wand
 To make it go away;
@@ -23,12 +38,23 @@ And I hope you'll soon be well!
 
 <i>By Joanna Fuchs</i>
 
+</div>
+
+<div class="poems>
+
+If knowing that someone really cares 
+Helps healing along its way 
+Then I hope you now feel better 
+And keep improving, day by day 
+
+<i>Jon Bratton</i>
 
 </div>
 
+
 <div class="poems">
 
-Bad Bug
+<strong>Bad Bug</strong>
 
 Has a bad bug gotten hold of you,
 Making you feel queasy?
@@ -46,7 +72,66 @@ You'll be your very best!
 
 <div class="poems">
   
+This little card is sent to say...
+I hope you feel better day by day
+So pop those pills and swig that tonic
+and I am sure you soon will be supersonic
+
+<i>Margmax </i>
+
+</div>
+
+<div class="poems">
   
+<strong>My Ailing Friend</strong>
+
+Get well, get well, my ailing friend,
+Whatever it is you've got;
+I'm sad and blue, thinking of you,
+And missing you a lot!
+
+Rest in your bed, although you're bored;
+Be sure to sleep more than eight;
+Get healed, get cured; come back to the world,
+Where all your fans await!
+
+<i>By Joanna Fuchs</i>
+  
+</div>
+
+<div class="poems">
+  
+<strong>You Are Deeply Missed</strong>
+
+Get well real fast, my friend,
+That's what I wish for you,
+For while you're sick you're deeply missed,
+So I am sad and blue.
+
+So have some pity on me,
+Don't leave me in the dump.
+Return to health real soon, my friend,
+Or I will be a grump!
+
+<i>By Karl Fuchs</i>
+  
+</div>
+
+<div class="poems">
+  
+<strong>Bring Back Your Special Spark</strong>
+
+I hear you're feeling not so well;
+It's no fun being sickly.
+Please know I care about you,
+And hope you get well quickly.
+
+When you're gone, you're sorely missed;
+A bit of my world turns dark.
+So take good care, recuperate,
+And bring back your special spark!
+
+<i>By Joanna Fuchs</i>
   
 </div>
 
@@ -127,4 +212,72 @@ By Joanna Fuchs
 
 </div>
 
+<div class="">
+
+<strong>Think Good Thoughts</strong>
+
+Being sick has a mental part,
+So use your head to cure you.
+Thinking good thoughts is the way to start,
+And smiling works, I assure you.
+
+Keep up your spirits to cheer yourself;
+Don't let the gloomies win.
+A happy soul will get well fast,
+And right now is the time to begin.
+
+<i>By Karl Fuchs</i>
+
+</div>
+
 <h2>Funny Get Well Poems</h2>
+
+
+<div class="poems">
+  
+Get Back To Work!
+
+Get well quick, you lazy bum,
+There's lots of work to do.
+If you stay sick, it's more work for me,
+And I'd rather it was for you.
+
+<i>By Karl Fuchs</i>
+
+</div>
+
+<div class="poems">
+
+<strong>All In Your Head</strong>
+
+Let's go, get up, stop faking it;
+Get your sorry behind off that bed.
+Try positive thinking to get back to work.
+Your illness is all in your head!
+
+At least that's what we hope. Looking forward to your return...
+
+<i>By Karl and Joanna Fuchs</i>
+
+</div>
+
+<div class="poems">
+  
+This card, has health-giving powers 
+And I've made it, just for you
+I certainly feel much better 
+And I hope that you do, too!
+
+<i>Jon Bratton</i>
+
+</div>
+  
+  
+
+
+
+<div class="poems">
+  
+
+
+</div>
