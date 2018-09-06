@@ -1,6 +1,20 @@
 Get well poems are a brilliant way to lift a sick friend or relatives spirits. Using a cheerful and upbeat verse can work wonders on their mood. Improving an unwell persons state of mind is essential for helping them to feel better. So feel free to use the get well soon poems and verses below in a card or with a gift. 
 
+<h2>Get Well Poems</h2>
+
+
+
 <h2>Inspirational Get Well Poems</h2>
+
+<strong>Be healthy</strong>
+I prayed for your speedy recovery today,
+I hope you have a healthy day,
+Soon everything will be okay,
+And you will have a good day,
+Just keep a positive frame of mind,
+Do what you feel don't stay confined,
+Get well soon dear! 
+
 
 <div class="poems">
   <p><strong>I Care</strong></p>
@@ -46,3 +60,5 @@ You'll be back on top in no time,<br>
 
 <p><i>By Joanna Fuchs</i></p>
 </div>
+
+<h2>Funny Get Well Poems</h2>
