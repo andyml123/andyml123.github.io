@@ -54,7 +54,7 @@ If you're going to see the ill person at home or in hospital, or you want someth
 <p>
 Not being confident about writing a get well message is common. You may be unsure of the best words to use or having trouble expressing exactly what the ill friend or loved one mesns to you.
 </p>
-<ul>
+<ul class="heart">
 <li></li>
 <li></li>
 <li></li>
@@ -69,7 +69,7 @@ Not being confident about writing a get well message is common. You may be unsur
 <p>
 There are a few things you should absolutley avoid saying in your get well soon message. These phrases and choice of words could upset or cause the recipient to feel even worse.
 </p>
-<ul>
+<ul class="heart">
 <li></li>
 <li></li>
 <li></li>
@@ -78,6 +78,8 @@ There are a few things you should absolutley avoid saying in your get well soon 
 </ul>  
 </div>
 </div>
+
+<p>
  
   {% for page in site.pages %}
           {% if page.image %}
