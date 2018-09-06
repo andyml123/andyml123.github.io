@@ -122,3 +122,12 @@ There are a few things you should absolutley avoid saying in your get well soon 
           
      {% endif %}
         {% endfor %}
+        
+        
+        {% for page in site.categories.messages %}
+    <li>{{ page.title }}</li>
+{% endfor %}
+
+{% for page in site.categories.messages %}
+ + [{{ page.title }}]({{ page.url }})
+{% endfor %}
