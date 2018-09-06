@@ -24,9 +24,9 @@ Because you're somehow ailing,
 But your response to any challenge
 Has always been unfailing.</p>
   
-<p>So I'm confident you'll win again;
-Hang in there, and you'll see;
-You'll be back on top in no time,
+<p>So I'm confident you'll win again;  
+Hang in there, and you'll see;  
+You'll be back on top in no time,  
   Tackling life courageously.</p>
 
 <p><i>By Joanna Fuchs</i></p>
