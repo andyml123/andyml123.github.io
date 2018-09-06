@@ -8,7 +8,7 @@ description: >-
 permalink: /get-well-soon-messages-for-a-friend/
 tags: 'get well soon messages, get well soon, get well messages for a friend'
 image: get-well-soon-messages-for-a-friend.png
-published: true
+published: false
 ---
 <p>Have a friend that's ill, sick or injured? Need the right words to let them know you're thinking about and wishing them to feel better? Our selection of get well soon messages for a friend are perfect for helping with what to write in a get well soon card.</p>
 
