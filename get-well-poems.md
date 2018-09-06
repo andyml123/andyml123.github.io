@@ -151,6 +151,28 @@ And bring back your special spark!</p>
   
 </div>
 
+<div class="poems">
+  
+<p><strong>The Flu</strong></p>
+
+<p>You have the flu.
+You’re breathing glue
+And feeling kind of hot.
+Your fever’s high
+And though you try
+Your nose stays full of snot.
+So drink some tea
+And think of me.
+As far as I can tell,
+You’ll get no hug
+Or see my mug
+Until you’re feeling well.
+Get well soon!</p>
+
+<i>by Denise Rodgers</i>
+
+</div>
+
 <h2>Inspirational Get Well Poems</h2>
 
 <div class="poems">
