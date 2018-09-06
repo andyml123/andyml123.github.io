@@ -171,7 +171,7 @@ Remember that I care.</p>
 <p>And when you're well and flourishing,
 Look back and realize,
 You learned what you were made of;
-That's a reward that satisfies!<p>
+That's a reward that satisfies!</p>
 
 <p>I believe in you; You can do it!</p>
 
