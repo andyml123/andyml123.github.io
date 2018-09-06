@@ -52,7 +52,7 @@ If you're going to see the ill person at home or in hospital, or you want someth
 
 <h2>What to Say in a Get Well Card</h2>
 <p>
-Not being confident about writing a get well message is common. You may be unsure of the best words to use or having trouble expressing exactly what the ill friend or loved one mesns to you.
+Not being confident about writing a get well message is common. You may be unsure of the best words to use or having trouble expressing exactly what the ill friend or loved one means to you.
 </p>
 <ul class="heart">
 <li></li>
