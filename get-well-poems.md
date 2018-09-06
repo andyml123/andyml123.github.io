@@ -139,14 +139,15 @@ And bring back your special spark!
 <h2>Inspirational Get Well Poems</h2>
 
 <div class="poems">
-<strong>Be healthy</strong>
-I prayed for your speedy recovery today,
+  <p><strong>Be healthy</strong></p>
+  
+<p>I prayed for your speedy recovery today,
 I hope you have a healthy day,
 Soon everything will be okay,
 And you will have a good day,
 Just keep a positive frame of mind,
 Do what you feel don't stay confined,
-Get well soon dear! 
+Get well soon dear!</p>
 </div>
 
 <div class="poems">
@@ -175,7 +176,6 @@ That's a reward that satisfies!<p>
 <p>I believe in you; You can do it!</p>
 
 <p><i>By Joanna Fuchs</i></p>
-  
 </div>
 
 <div class="poems">
