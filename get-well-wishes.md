@@ -9,6 +9,7 @@ tags: 'get well messages, get well wishes, compassionate get well messages, get 
 image: get-well-soon-wishes.png
 permalink: /get-well-wishes/
 published: true
+category: messages
 ---
 
 <p>
