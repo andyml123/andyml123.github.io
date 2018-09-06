@@ -2,7 +2,7 @@
 layout: default
 published: true
 ---
-<p>When a friend or loved one is ill the thing we want most is for them get well soon. We may not be able to help speed up their recovery but we can let them know they're in our thoughts. So sending a gift and card with a touching or inspirational get well message is the least we can do. </p>
+<p>When someone close to us is unwell the thing we want most is for them get well soon. We may not be able to help speed up their recovery but we can let them know they're in our thoughts. So sending a gift and card with a touching or inspirational get well message is the least we can do. </p>
 
 <p>
 Adsense ad here
