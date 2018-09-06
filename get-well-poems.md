@@ -19,7 +19,7 @@ Get Well Soon!
 
 <div class="poems">
 
-<strong>Magic Wand<strong>
+<strong>Magic Wand</strong>
 
 I wish I had a magic wand
 To make it go away;
