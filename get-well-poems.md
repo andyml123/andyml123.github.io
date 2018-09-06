@@ -4,7 +4,7 @@ Get well poems are a brilliant way to lift a sick friend or relatives spirits. U
 
 <div class="poems">
 
-<strong>Get Well Soon</strong>
+<p><strong>Get Well Soon</strong></p>
 
 <p>I hope you're feeling better;<br>
 I miss you every day.<br>
