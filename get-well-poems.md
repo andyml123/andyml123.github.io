@@ -6,14 +6,14 @@ Get well poems are a brilliant way to lift a sick friend or relatives spirits. U
 
 <strong>Get Well Soon</strong>
 
-I hope you're feeling better;
-I miss you every day.
-I'm always thinking of you,
-So this is what I say:
+<p>I hope you're feeling better;<br>
+I miss you every day.<br>
+I'm always thinking of you,<br>
+So this is what I say:<br></p>
+<p>
+Get Well Soon!</p>
 
-Get Well Soon!
-
-<I>By Karl Fuchs</i>
+<i>By Karl Fuchs</i>
 
 </div>
 
