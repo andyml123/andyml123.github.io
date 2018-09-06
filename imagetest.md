@@ -125,9 +125,13 @@ There are a few things you should absolutley avoid saying in your get well soon 
         
         
         {% for page in site.pages %}
-{% for category in page.categories %}
-{% if category == "messages" %}
-<h2><a href="{{ page.permalink | prepend: site.baseurl }}">{{page.title}}</a></h2>
+  {% if page.categories contains 'messages' %}
+    <div class="item">
+      <h3><a href="{{ page.url }}">
+        {{ page.title }}
+      </a></h3>
+
+      <p>{{page.description}}</p>  
+    </div>
   {% endif %}
-{% endfor %}
-{% endfor %}
+{% endif %}
