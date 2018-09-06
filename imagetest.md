@@ -47,8 +47,37 @@ We understand writing a get well message can be tricky. You want your words to m
 If you're going to see the ill person at home or in hospital, or you want something to go with your get well card, a small gift is a good option. Choosing the right present can be tough though. Try our get well gift ideas or top get well gifts to help make that decision easier.
 </p>
 
+<div class="row">
+  <div class="column">
 
+<h2>What to Say in a Get Well Card</h2>
 <p>
+Not being confident about writing a get well message is common. You may be unsure of the best words to use or having trouble expressing exactly what the ill friend or loved one mesns to you.
+</p>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+</div>
+ 
+<div class="column"> 
+<h2>What NOT to say in a Get Well Card</h2>
+<p>
+There are a few things you should absolutley avoid saying in your get well soon message. These phrases and choice of words could upset or cause the recipient to feel even worse.
+</p>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>  
+</div>
+</div>
  
   {% for page in site.pages %}
           {% if page.image %}
