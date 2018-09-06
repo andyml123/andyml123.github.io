@@ -1,13 +1,4 @@
----
-title: Get Well Poems: {no.} Lovely Ways to say Get Better
-title2: Get Well Poems
-description:
-tags:
-image:
-permalink: /get-well-poems/
-published: false
----
-
+<h2>Inspirational Get Well Poems</h2>
 
 <div class="poems">
   <p><strong>Hang In There</strong></p>
