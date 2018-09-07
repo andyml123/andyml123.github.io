@@ -105,9 +105,9 @@ There are a few things you should absolutley avoid saying in your get well soon 
 </div>
 
 <hr>
-a
+
 {% for page in site.pages limit:6 %}
-  {% if spage.url != page.url %} 
+  {% if apage.url != page.url %} 
     {% if forloop.index < 6 or found %}
       <h3>
         <a href="{{ page.url }}">{{ page.title }}</a>
