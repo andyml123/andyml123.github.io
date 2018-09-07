@@ -133,9 +133,11 @@ There are a few things you should absolutley avoid saying in your get well soon 
 <hr>
 
 {% for onepage in site.pages %}
+  {% if page.categories contains 'messages' %}
 {% unless page.id == onepage.id %}
  <h3>
  <a href="{{ page.url }}">{{ page.title }}</a>
  </h3>
 {% endunless%}
+{% endif %}
 {% endfor %}
