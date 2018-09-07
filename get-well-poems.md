@@ -223,6 +223,16 @@ Giving life hell</p>
   
 </div>
 
+<div class="row">
+ <div class="column">
+     <img class="img" src="/img/get-well-poem-1.png" alt="" />
+ </div>
+  
+  <div class="column">
+     <img class="img" src="/img/get-well-poem-2.png" alt="" />
+ </div>
+</div>
+
 <h2>Inspirational Get Well Poems</h2>
 
 <div class="poems">
@@ -319,6 +329,17 @@ And right now is the time to begin.</p>
 
 </div>
 
+<div class="row">
+ <div class="column">
+     <img class="img" src="/img/inspirational-get-well-poem-1.png" alt="" />
+ </div>
+  
+  <div class="column">
+     <img class="img" src="/img/inspirational-get-well-poem-2.png" alt="" />
+ </div>
+</div>
+
+
 <h2>Funny Get Well Poems</h2>
 
 
@@ -375,4 +396,14 @@ Packed along with love and kishes.</p>
 
 <i>by Denise Rodgers</i>
 
+</div>
+
+<div class="row">
+ <div class="column">
+     <img class="img" src="/img/funny-get-well-poem-1.png" alt="" />
+ </div>
+  
+  <div class="column">
+     <img class="img" src="/img/funny-get-well-poem-2.png" alt="" />
+ </div>
 </div>
