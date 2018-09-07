@@ -47,6 +47,7 @@ category: messages
 <li>"Fear knocked on my door.. I opened it and there was nobody there" Unknown</li>
 <li>"It isn’t always easy, but when you’re not feeling well – hope it helps to know others are thinking of you – and hoping that you’ll be better very soon. Take good care of yourself" –Unknown</li>
 <li>"It is never too late to live happily ever after" – Unknown</li>
+<li>A bowl of warmth, a soft face, a new day. Some get-well thoughts sent your way. Feel better soon</li>
 </ol>
 
 <h2>Funny Get Well Soon Quotes</h2>
@@ -66,4 +67,5 @@ Johann Paul Friedrich Richter</li>
 <li>"You never know how much they care until you are under the weather" – C. Kohler</li>
 <li>"If I had my way I’d make health catching instead of disease" –
 Robert Ingersoll</li>
+<li>In case you’re wondering, I sent those flowers for the nurse, not for you! Just kidding! Hope you get well soon by seeing them!</li>
 </ol>
