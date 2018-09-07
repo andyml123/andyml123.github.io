@@ -4,7 +4,7 @@
     {% if apage.categories contains 'navbottom' %}
         {% if page.url != apage.url %}
   <p><ul class="bottom-nav">
-                <li><a href="{{ apage.url | prepend: site.baseurl }}">{{ apage.title }}</a></li>
+  <li><a href="{{ apage.url | prepend: site.baseurl }}">{{ apage.title }}</a></li>
 </ul></p>                                               
         {% endif %}
     {% endif %}
