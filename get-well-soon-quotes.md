@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Get Well Soon Quotes: 46 Touching and Uplifting Recovery Quotes'
+title: 'Get Well Soon Quotes: 41 Touching and Uplifting Recovery Quotes'
 title2: Get Well Soon Quotes
 description: >-
   A huge range of inspirational, uplifiting and comforting get well quotes to
