@@ -62,7 +62,7 @@ Henry Youngman</li>
 <li>"I know God will not give me anything I can’t handle. I just wish He didn’t trust me so much" – Mother Teresa</li>
 <li>"Sleep, riches, and health to be truly enjoyed must be interrupted" –
 Johann Paul Friedrich Richter</li>
-<li></li>
-<li></li>
-
+<li>"You never know how much they care until you are under the weather" – C. Kohler</li>
+<li>"If I had my way I’d make health catching instead of disease" –
+Robert Ingersoll</li>
 </ol>
