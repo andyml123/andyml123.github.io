@@ -32,6 +32,7 @@ category: messages
 <li>"Fall seven times, stand up eight" – Japanese Proverb</li>
 <li>We know you will overcome this kind of situation. There is nothing we ever wanted right now, but your healing and fast recovery. Get better soon!</li>
 <li>It isn’t always easy, but when you’re not feeling well, I hope it helps to know others are thinking of you, and hoping that you’ll be better very soon. Take good care of yourself</li>
+<li>Recovery is hard work – but you’re not alone. Not a day goes by that you aren’t thought of and wished well</li>
 </ol>
 
 <h2>Uplifting Get Well Quotes</h2>
@@ -49,6 +50,7 @@ category: messages
 <li>"It is never too late to live happily ever after" – Unknown</li>
 <li>A bowl of warmth, a soft face, a new day. Some get-well thoughts sent your way. Feel better soon</li>
 <li>Little flowers are blooming and telling you to get well soon, so listen to them!</li>
+<li>Look outside - the sun is shining and spurring you on to get well!</li>
 </ol>
 
 <h2>Funny Get Well Soon Quotes</h2>
