@@ -105,7 +105,7 @@ There are a few things you should absolutley avoid saying in your get well soon 
 </div>
 
 <hr>
-
+<p>
 {% for apage in site.pages %}
     {% if apage.categories contains 'messages' %}
         {% if page.url != apage.url %}
@@ -115,6 +115,5 @@ There are a few things you should absolutley avoid saying in your get well soon 
         {% endif %}
     {% endif %}
 {% endfor %}     
-
+</p>
 <hr>
-
