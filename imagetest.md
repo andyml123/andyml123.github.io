@@ -118,15 +118,8 @@ There are a few things you should absolutley avoid saying in your get well soon 
   {% endif %}
 {% endfor %}
 
-
-{% for post in site.posts limit:6 %}
-  {% if post.url != page.url %} 
-    {% if forloop.index < 6 or found %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-    {% endif %}
-  {% else %}
-    {% assign found = true %} 
-  {% endif %}
-{% endfor %}
+ {% for page in site.pages limit:5 %}
+     <li>
+    < a href="{{ page.url }}">{{ page.title }}</a>
+     </li>
+   {% endfor %}
