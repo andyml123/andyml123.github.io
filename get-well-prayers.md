@@ -6,7 +6,7 @@ description:
 image:
 tags:
 category: [prayers, navbottom]
-published: false
+published: true
 ---
 
 <strong>Get Well Prayer</strong>
