@@ -106,11 +106,11 @@ There are a few things you should absolutley avoid saying in your get well soon 
 
 <hr>
 
-          {% for page in site.pages %}
-  {% if page.categories contains 'messages' %}
-  {% unless page.id == onepage.id %}
-   <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
- <a href="{{ page.url | prepend: site.baseurl }}"> <img src="/img/{{ page.image }}" alt="" /></a>
+          {% for apage in site.pages %}
+  {% if apage.categories contains 'messages' %}
+  {% unless page.id == apage.id %}
+   <h2><a class="page-link" href="{{ apage.url | prepend: site.baseurl }}">{{ apage.title }}</a></h2>
+ <a href="{{ apage.url | prepend: site.baseurl }}"> <img src="/img/{{ page.image }}" alt="" /></a>
 {% endunless%}
   {% endif %}
   {% endfor %}
