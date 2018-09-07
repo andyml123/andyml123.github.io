@@ -19,7 +19,7 @@ Here you will find the best get well soon wishes and quotes. They will express y
 
 <div class="column">
 <h2><a class="page-link" href="/get-well-soon-messages-for-a-friend">Get Well Soon Messages for a Friend</a></h2>
-<a href="/get-well-wishes"> <img class="img" src="/img/get-well-soon-messages-for-a-friend.png" alt="" /></a>
+<a href="/get-well-wishes"> <img class="img" src="/img/get-well-soonmessages-for-a-friend.png" alt="" /></a>
 </div>
 </div>
 
@@ -125,6 +125,6 @@ There are a few things you should absolutley avoid saying in your get well soon 
 {% if page.url != apage.url %}
    <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
  <a href="{{ page.url | prepend: site.baseurl }}"> <img src="/img/{{ page.image }}" alt="" /></a>
-
+{% endif %}
   {% endif %}
   {% endfor %}
