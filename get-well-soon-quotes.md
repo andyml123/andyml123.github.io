@@ -51,6 +51,7 @@ category: messages
 <li>A bowl of warmth, a soft face, a new day. Some get-well thoughts sent your way. Feel better soon</li>
 <li>Little flowers are blooming and telling you to get well soon, so listen to them!</li>
 <li>Look outside - the sun is shining and spurring you on to get well!</li>
+<li>Just remember how everyione is looking forward to seeing you well again</li>
 </ol>
 
 <h2>Funny Get Well Soon Quotes</h2>
