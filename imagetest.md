@@ -120,12 +120,11 @@ There are a few things you should absolutley avoid saying in your get well soon 
 
 <hr>
 
- {% for apage in site.pages %}
-    {% if apage.category == 'messages' %}
-        {% if page.url != apage.url %}
- <h3>
- <a href="{{ page.url }}">{{ page.title }}</a>
-      </h3>
-        {% endif %}
-    {% endif %}
-{% endfor %}
+         {% for apage in site.pages %}
+  {% if apage.categories contains 'messages' %}
+{% if page.url != apage.url %}
+   <h2><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
+ <a href="{{ page.url | prepend: site.baseurl }}"> <img src="/img/{{ page.image }}" alt="" /></a>
+
+  {% endif %}
+  {% endfor %}
