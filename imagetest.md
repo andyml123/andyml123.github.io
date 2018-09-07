@@ -118,11 +118,13 @@ There are a few things you should absolutley avoid saying in your get well soon 
   {% endif %}
 {% endfor %}
 
+<hr>
+
  {% for apage in site.pages %}
     {% if apage.category == 'messages' %}
         {% if page.url != apage.url %}
-        <h3>
-        <a href="{{ page.url }}">{{ page.title }}</a>
+ <h3>
+ <a href="{{ page.url }}">{{ page.title }}</a>
       </h3>
         {% endif %}
     {% endif %}
