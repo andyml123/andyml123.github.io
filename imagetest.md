@@ -73,7 +73,7 @@ There are a few things you should absolutley avoid saying in your get well soon 
 </p>
 <ul class="cross">
 <li>Don't be negative. Stay upbeat and use encouraging words to make them feel more positive</li>
-<li>Don't act or talk differently. They will want you to be as normal as possible with them. So write to them as you usyally would</li>
+<li>Don't act or talk differently. They will want you to be as normal as possible with them. So write to them as you usually would</li>
 <li>Don't be too religious in your message unless you know they will appreciate it. If you're in any doubt then err on the side of caution and stick with a regular message</li>
 <li>Don't mention death! This should be obvious but all you will do is terrify and them. Avoid any mention of their mortality.</li>
 <li>Don't use phrases like "everything happens for a reason" or "God has a plan". These sorts of sentiments can be offensive and not what someone who is ill will want to hear.</li>
