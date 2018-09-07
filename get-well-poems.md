@@ -173,6 +173,29 @@ Get well soon!</p>
 
 </div>
 
+<div class="poems">
+  
+<strong>In Bed All Day</strong>
+
+<p>You get to stay in bed all day.
+You get to watch TV
+Or lay around or read a book.
+Your time is really free.</p>
+
+<p>Forget your work, your empty desk
+With files stacked to the ceiling
+And loads of e-mails to be read.
+We know how you are feeling.</p>
+
+<p>Just settle back and rest a while.
+We promise you no flack.
+But when your rest is over, well,
+We really need you back!</p>
+
+<i>by Denise Rodgers</i>
+  
+</div>
+
 <h2>Inspirational Get Well Poems</h2>
 
 <div class="poems">
@@ -308,5 +331,21 @@ I certainly feel much better
 And I hope that you do, too!</p>
 
 <i>Jon Bratton</i>
+
+</div>
+
+<div class="poems">
+  
+<p>We Hope That It's Not Serious
+We hope that it’s not serious.
+We hope you’re not delirious.
+We hope that you’re not feeling blue.
+We hope it’s not a nasty flu.
+We hope your butt’s not in a sling.
+We wish you only best of things.
+We send you all our get-well wishes
+Packed along with love and kishes.</p>
+
+<i>by Denise Rodgers</i>
 
 </div>
