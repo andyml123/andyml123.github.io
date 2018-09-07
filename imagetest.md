@@ -106,20 +106,6 @@ There are a few things you should absolutley avoid saying in your get well soon 
 
 <hr>
 
-{% for page in site.pages limit:6 %}
-  {% if apage.url != page.url %} 
-    {% if forloop.index < 6 or found %}
- <h3>
- <a href="{{ page.url }}">{{ page.title }}</a>
- </h3>
-    {% endif %}
-  {% else %}
-    {% assign found = true %} 
-  {% endif %}
-{% endfor %}
-
-<hr>
-
   {% for apage in site.pages %}
     {% if apage.categories == 'messages' %}
         {% if page.url != apage.url %}
