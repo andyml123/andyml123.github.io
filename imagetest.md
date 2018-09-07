@@ -107,7 +107,7 @@ There are a few things you should absolutley avoid saying in your get well soon 
 <hr>
 
 {% for apage in site.pages %}
-    {% if apage.categories == 'messages' %}
+    {% if apage.categories contains 'messages' %}
         {% if page.url != apage.url %}
             <ul>
                 <li><a href="{{ apage.title }}">{{ apage.title }}</a></li>
