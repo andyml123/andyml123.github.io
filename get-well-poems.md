@@ -12,7 +12,7 @@ categories:
   - poems
 published: true
 ---
-Get well poems are a brilliant way to lift a sick friend or relatives spirits. Using a cheerful and upbeat verse can work wonders on their mood. Improving an unwell persons state of mind is essential for helping them to feel better. So feel free to use the get well soon poems and verses below in a card or with a gift. 
+<p>Get well poems are a brilliant way to lift a sick friend or relatives spirits. Using a cheerful and upbeat verse can work wonders on their mood. Improving an unwell persons state of mind is essential for helping them to feel better. So feel free to use the get well soon poems and verses below in a card or with a gift. </p>
 
 <h2>Get Well Poems</h2>
 
