@@ -1,5 +1,17 @@
 <h3>Get Well Resources</h3>  
   
+{% for apage in site.pages %}
+    {% if apage.categories contains 'messages' %}
+        {% if page.url != apage.url %}
+            <ul class="bottom-nav">
+                <li><a href="{{ apage.title }}">{{ apage.title }}</a></li>
+            </ul>                                               
+        {% endif %}
+    {% endif %}
+{% endfor %}     
+ 
+
+
 <ul class="bottom-nav">
   <li><a href="/">Get Well FAQ: Guide to Writing a Get Well Message</a></li>  
   <li><a href="/">Get Well Gifts</a></li>
