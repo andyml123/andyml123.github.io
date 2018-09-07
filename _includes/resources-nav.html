@@ -4,12 +4,15 @@
     {% if apage.categories contains 'messages' %}
         {% if page.url != apage.url %}
             <ul class="bottom-nav">
-                <li><a href="{{ apage.title }}">{{ apage.title }}</a></li>
+                <li><a href="{{ apage.url | prepend: site.baseurl }}">{{ apage.title }}</a></li>
             </ul>                                               
         {% endif %}
     {% endif %}
 {% endfor %}     
  
+
+
+
 
 
 <ul class="bottom-nav">
