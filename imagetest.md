@@ -11,15 +11,17 @@ Adsense ad here
 <p>
 Here you will find the best get well soon wishes and quotes. They will express your desire for a sick friend or relative to feel better soon, hoping for their speedy recovery. When you're unwell a message from a friend can be a real boost and lift your spirits when you're feeling down.</p>
 
-<p>
+<div class="row">
+  <div class="column">
 <h2><a class="page-link" href="/get-well-wishes">Top 100 Get Well Wishes</a></h2>
 <a href="/get-well-wishes"> <img class="img" src="/img/get-well-soon-wishes.png" alt="" /></a>
-</p>
+</div>
 
-<p>
+<div class="column">
 <h2><a class="page-link" href="/get-well-soon-messages-for-a-friend">Get Well Soon Messages for a Friend</a></h2>
 <a href="/get-well-wishes"> <img class="img" src="/img/get-well-soon-messages-for-a-friend.png" alt="" /></a>
-</p>
+</div>
+</div>
 
 <p>
 You might prefer to post something on Facebook or Twitter, where sharing get well soon quotes for friends is often done. It's a good way to let lots of people offer their messages and best wishes for the sick to get better soon.
