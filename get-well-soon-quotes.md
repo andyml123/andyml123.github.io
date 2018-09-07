@@ -29,6 +29,7 @@ category: messages
 <li>"Our greatest glory is not in never failing but in rising up every time we fail" – Ralph Waldo Emerson</li>
 <li>"Believe you can and you’re halfway there" – Theodore Roosevelt</li>
 <li>"The best time to plant a tree was 20 years ago. The second best time is now" – Chinese Proverb</li>
+<li>"Fall seven times, stand up eight" – Japanese Proverb</li>
 </ol>
 
 
