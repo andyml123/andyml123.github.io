@@ -68,4 +68,5 @@ Johann Paul Friedrich Richter</li>
 <li>"If I had my way I’d make health catching instead of disease" –
 Robert Ingersoll</li>
 <li>In case you’re wondering, I sent those flowers for the nurse, not for you! Just kidding! Hope you get well soon by seeing them!</li>
+<li>Pain, pain go away! Come again another day!
 </ol>
