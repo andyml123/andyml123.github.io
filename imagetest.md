@@ -109,9 +109,9 @@ There are a few things you should absolutley avoid saying in your get well soon 
 {% for page in site.pages limit:6 %}
   {% if page.url != page.url %} 
     {% if forloop.index < 6 or found %}
-      <li>
+      <h3>
         <a href="{{ page.url }}">{{ page.title }}</a>
-      </li>
+      </h3>
     {% endif %}
   {% else %}
     {% assign found = true %} 
