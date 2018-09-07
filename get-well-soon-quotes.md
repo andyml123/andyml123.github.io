@@ -31,6 +31,7 @@ category: messages
 <li>"The best time to plant a tree was 20 years ago. The second best time is now" – Chinese Proverb</li>
 <li>"Fall seven times, stand up eight" – Japanese Proverb</li>
 <li>We know you will overcome this kind of situation. There is nothing we ever wanted right now, but your healing and fast recovery. Get better soon!</li>
+<li>It isn’t always easy, but when you’re not feeling well, I hope it helps to know others are thinking of you, and hoping that you’ll be better very soon. Take good care of yourself
 </ol>
 
 <h2>Uplifting Get Well Quotes</h2>
@@ -68,5 +69,5 @@ Johann Paul Friedrich Richter</li>
 <li>"If I had my way I’d make health catching instead of disease" –
 Robert Ingersoll</li>
 <li>In case you’re wondering, I sent those flowers for the nurse, not for you! Just kidding! Hope you get well soon by seeing them!</li>
-<li>Pain, pain go away! Come again another day!
+<li>Pain, pain go away! Come again another day!</li>
 </ol>
