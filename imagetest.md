@@ -55,11 +55,11 @@ If you're going to see the ill person at home or in hospital, or you want someth
 Not being confident about writing a get well message is common. You may be unsure of the best words to use or having trouble expressing exactly what the ill friend or loved one means to you.
 </p>
 <ul class="heart">
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Wishing you a full and speedy recovery</li>
+<li>My thoughts and prayers for you to feel better soon</li>
+<li>Sending love and positive thoughts your way. Get better soon!</li>
+<li>Wishing you to feel better every day</li>
+<li>Hoping you feel better very soon and I can't wait to see you again</li>
 </ul>
 
 </div>
