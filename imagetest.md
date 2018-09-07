@@ -103,17 +103,3 @@ There are a few things you should absolutley avoid saying in your get well soon 
           {% endif %}
         {% endfor %}
 </div>
-
-<hr>
-<p>
-{% for apage in site.pages %}
-    {% if apage.categories contains 'navbottom' %}
-        {% if page.url != apage.url %}
-            <ul>
-                <li><a href="{{ apage.url }}">{{ apage.title }}</a></li>
-            </ul>                                               
-        {% endif %}
-    {% endif %}
-{% endfor %}     
-</p>
-<hr>
