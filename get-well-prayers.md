@@ -5,7 +5,7 @@ title2: Get Well Prayers
 description:
 image:
 tags:
-category: 
+category: [prayers, navbottom]
 published: false
 ---
 
