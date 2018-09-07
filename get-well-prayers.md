@@ -1,7 +1,7 @@
 ---
 layout: page
 title: '15 Get Well Soon Prayers: Christian Ways to say Feel Better'
-title2: Get Well Prayers
+title2: Get Well Soon Prayers
 description:
 image:
 tags:
