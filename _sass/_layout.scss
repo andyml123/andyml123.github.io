@@ -480,6 +480,30 @@ ul.heart li {
 text-indent: -10px;
 }
 
+ul.cross{
+list-style:none;
+}
+
+ul.cross li:before{
+content:'\2718'
+}
+
+ul.cross li {
+text-indent: -10px;
+}
+
+ul.tick{
+list-style:none;
+}
+
+ul.tick li:before{
+content:'\2714'
+}
+
+ul.tick li {
+text-indent: -10px;
+}
+
 .center-image {
     margin: 0 auto;
     display: block;
