@@ -19,7 +19,7 @@ Here you will find the best get well soon wishes and quotes. They will express y
 
 <div class="column">
 <h2><a class="page-link" href="/get-well-soon-messages-for-a-friend">Get Well Soon Messages for a Friend</a></h2>
-<a href="/get-well-wishes"> <img class="img" src="/img/get-well-soonmessages-for-a-friend.png" alt="" /></a>
+<a href="/get-well-wishes"> <img class="img" src="/img/get-well-soon-messages-for-a-friend.png" alt="" /></a>
 </div>
 </div>
 
