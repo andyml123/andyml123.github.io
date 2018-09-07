@@ -28,7 +28,7 @@ You might prefer to post something on Facebook or Twitter, where sharing get wel
 </p>
 
 <p>
-And if you know the person well who's ill or injured then you can consider using a funny get well message. Putting a smile or giving a laugh to those who are unwell can be a great way to make them feel a little better. 'Laughter is the greatest medicine', as they say!
+And if you know the person well who's ill or injured then you can consider using a funny get well message. Putting a smile on the face of or giving a laugh to those who are unwell can be a great way to make them feel a little better. 'Laughter is the greatest medicine', as they say!
 </p>
 
 <p>
