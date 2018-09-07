@@ -106,3 +106,14 @@ There are a few things you should absolutley avoid saying in your get well soon 
 
 <hr>
 
+{% for page in site.pages limit:6 %}
+  {% if page.url != page.url %} 
+    {% if forloop.index < 6 or found %}
+      <li>
+        <a href="{{ post.url }}">{{ page.title }}</a>
+      </li>
+    {% endif %}
+  {% else %}
+    {% assign found = true %} 
+  {% endif %}
+{% endfor %}
