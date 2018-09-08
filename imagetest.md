@@ -33,13 +33,11 @@ And if you know the person well who's ill or injured then you can consider using
 
 <div class="row">
   <div class="column">
-<h2><div class="titlewrapper"><a class="page-link" href="/get-well-soon-quotes/">Get Well Soon Quotes: 41 Touching and Uplifting Recovery Quotes</a></div></h2>
-<a href="/get-well-wishes"> <img class="img" src="/img/get-well-soon-quotes.png" alt="" /></a>
+<a href="/get-well-wishes"> <img class="img" src="/img/get-well-soon-quotes.png" alt="" /></a><h2><a class="page-link" href="/get-well-soon-quotes/">Get Well Soon Quotes: 41 Touching and Uplifting Recovery Quotes</a></h2>
 </div>
 
 <div class="column">
-<h2><div class="titlewrapper"><a class="page-link" href="/get-well-wishes">Funny Get Well Soon Wishes and Messages</a></div></h2>
-<a href="/funny-get-well-soon-wishes"> <img class="img" src="/img/funny-get-well-wishes.png" alt="" /></a>
+<a href="/funny-get-well-soon-wishes"> <img class="img" src="/img/funny-get-well-wishes.png" alt="" /></a><h2><a class="page-link" href="/get-well-wishes">Funny Get Well Soon Wishes and Messages</a></h2>
 </div>
 </div>
 
