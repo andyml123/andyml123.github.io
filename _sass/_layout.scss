@@ -498,7 +498,8 @@ list-style:none;
 }
 
 ul.tick li:before{
-content:'\2714'
+content:'\2714';
+color: yellow;
 }
 
 ul.tick li {
