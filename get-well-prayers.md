@@ -68,9 +68,30 @@ May they know our love and care,
 On us they can depend.
 </div>
 
+<div class="prayers">
+Think, o God, of our friend who is ill, whom we now commend to Your compassionate regard.
 
+Comfort him upon his sickbed, and ease his suffering. We beg for deliverance, and submit
+that no healing is too hard for the Lord, if it be His will.
 
+We therefore pray that You bless our friend with Your loving care, renew his strength,
+and heal what ails him in Your loving name.
 
+Thank You, Lord.
+</div>
+
+<div class="prayers">
+Dear God,
+
+I pray that my dear friend will fully and completely, accept the divine idea of radiant health in body and mind. Not as hopeful thinking, but as reality that will continue for the rest of life. Regenerate. Reinvigorate. Renew.
+Amen
+</div>
+
+<div class="prayers">
+Dear God, 
+As he lays in bed to rest, I pray my sick friend will be blessed. God, watch over him this night, bless him with Your love so bright. The angels they will dance and sing, and to him, sweet healing bring. When he wakes to greet the day, God I know you'll guide his way.
+Amen
+</div>
 
 
 
