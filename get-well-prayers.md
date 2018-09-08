@@ -38,7 +38,7 @@ Amen.</li>
 <h2>Get Well Prayers for a Friend</h2>
 
 
-<div class="prayer">
+<div class="prayers">
 Merciful God,
 
 I offer prayers for my friend who is ill. Bless her with healing. Change her circumstances. Cause wholeness and wellness to come in abundance. I, who have a healthy spirit, pray that I may share the vibrancy of my soul, as I share my heart in prayer.  
@@ -46,7 +46,7 @@ Amen
 </div>
 
 
-<div class="prayer">
+<div class="prayers">
 O Lord, my friend is so special,
 They mean so much to me.
 We've walked together for so long,
