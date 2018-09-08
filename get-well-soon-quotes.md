@@ -13,10 +13,12 @@ category: messages
 ---
 
 <p>
-  
+A friend or loved one becoming ill can be a really tough time. Seeing someone you care deeply about unwell or injured is hard to handle. But they need all your support and help during their period of recovery. Making sure they know you're thinking of and are there for them is really important. A good way to do so is by sending them your best wishes. So use these get well soon quotes 
 </p>
   
 <h2>Inspirational Get Well Soon Quotes</h2>
+
+Sometimes the person who is sick needs some inspiration or motivation to feel better. Having some encouraging words from someone they trust and love can help to keep them fighting and be a good reminder of how they'll overcome whatever it is theyre syffering with. So use one of the get well quotes below to inspire a loved one back to health.
 
 <ol>
 <li>“Although the world is full of suffering, it’s full also of the overcoming it.” – Helen Keller </li>
@@ -37,6 +39,8 @@ category: messages
 
 <h2>Uplifting Get Well Quotes</h2>
 
+Being injured or sick is pretty much always miserable. No one ever has fun when theyre feeling under the weather. So receiving a few words to raise the spirits and be reminded of how much people are thinking of you can be a real boost. You can use these uplifiting get well quotes in a card or say in person to hopefully make whoever is feeling ill a little more positive about everything.
+
 <ol>
 <li>"Your never know how much they care until you are under the weather.” – C. Kohler</li>
 <li>"The best of healers is good cheer" – Pindus</li>
@@ -55,6 +59,9 @@ category: messages
 </ol>
 
 <h2>Funny Get Well Soon Quotes</h2>
+
+Laughter is known as the best medicine. So what better way to help someone in their recovery than with a funny get well quote! Bring a little bit of fun to their day and hopefully make them
+feel a bit better by having a laugh with you.
 
 <ol>
 <li>"Get well cards have become so humorous that if you don’t get sick you’re missing half the fun" – Flip Wilson</li>
