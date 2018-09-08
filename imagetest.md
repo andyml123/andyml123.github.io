@@ -32,7 +32,7 @@ And if you know the person well who's ill or injured then you can consider using
 </p>
 
 <p>
-<h2><a class="page-link" href="/get-well-soon-quotes/">Get Well Soon Quotes: 46 Touching and Uplifting Recovery Quotes</a></h2>
+<h2><a class="page-link" href="/get-well-soon-quotes/">Get Well Soon Quotes: 41 Touching and Uplifting Recovery Quotes</a></h2>
 <a href="/get-well-wishes"> <img class="img" src="/img/get-well-soon-quotes.png" alt="" /></a>
 </p>
 
