@@ -64,7 +64,7 @@ Not being confident about writing a get well message is common. You may be unsur
 <li>Sending love and positive thoughts your way. Get better soon!</li>
 <li>Wishing you to feel better every day</li>
 <li>Hoping you feel better very soon and I can't wait to see you again</li>
-<li></li>
+<li>I know you're strong enough to beat this and will be back on your feet in no time</li>
 <li></li>
 <li></li>
 <li></li>
