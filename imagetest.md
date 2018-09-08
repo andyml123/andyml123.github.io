@@ -66,7 +66,7 @@ Not being confident about writing a get well message is common. You may be unsur
 <li>Hoping you feel better very soon and I can't wait to see you again</li>
 <li>I know you're strong enough to beat this and will be back on your feet in no time</li>
 <li>We're here for you if you need anything. Big hugs and hopefully you'll feel your old self soon</li>
-<li>Enjoy the flowers and we're hoping they brighten your day and help speed your recovery</li>
+<li>Enjoy the flowers and hope they brighten your day and help speed your recovery</li>
 <li>Remember to rest, take it slowly and you'll be back to your brilliant self in extra quick time!</li>
 </ul>
 
