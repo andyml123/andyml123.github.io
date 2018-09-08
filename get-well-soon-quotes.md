@@ -39,11 +39,11 @@ Sometimes the person who is sick needs some inspiration or motivation to feel be
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/inspirational-get-well-soon-quotes-1.png" alt="" />
+     <img class="img" src="/img/inspirational-get-well-soon-quotes-1.png" alt="Bernard Williams Resilient Human Spirit Inspirational Get Well Soon Quote" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/inspirational-get-well-soon-quotes-2.png" alt="" />
+     <img class="img" src="/img/inspirational-get-well-soon-quotes-2.png" alt="CS Lewis Inspirational Get Well Quote" />
  </div>
 </div>
 
@@ -70,11 +70,11 @@ Being injured or sick is pretty much always miserable. No one ever has fun when 
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/uplifting-get-well-soon-quotes-1.png" alt="" />
+     <img class="img" src="/img/uplifting-get-well-soon-quotes-1.png" alt="Friendship and Love Uplifting Get Well Soon Quote" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/uplifting-get-well-soon-quotes-2.png" alt="" />
+     <img class="img" src="/img/uplifting-get-well-soon-quotes-2.png" alt="Uplifting Get Well Soon Quote" />
  </div>
 </div>
 
