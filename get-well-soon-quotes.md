@@ -37,6 +37,16 @@ Sometimes the person who is sick needs some inspiration or motivation to feel be
 <li>Recovery is hard work – but you’re not alone. Not a day goes by that you aren’t thought of and wished well</li>
 </ol>
 
+<div class="row">
+ <div class="column">
+     <img class="img" src="/img/inspirational-get-well-soon-quotes-1.png" alt="" />
+ </div>
+  
+  <div class="column">
+     <img class="img" src="/img/inspirational-get-well-soon-quotes-2.png" alt="" />
+ </div>
+</div>
+
 <h2>Uplifting Get Well Quotes</h2>
 
 Being injured or sick is pretty much always miserable. No one ever has fun when theyre feeling under the weather. So receiving a few words to raise the spirits and be reminded of how much people are thinking of you can be a real boost. You can use these uplifiting get well quotes in a card or say in person to hopefully make whoever is feeling ill a little more positive about everything.
@@ -57,6 +67,16 @@ Being injured or sick is pretty much always miserable. No one ever has fun when 
 <li>Look outside - the sun is shining and spurring you on to get well!</li>
 <li>Just remember how everyione is looking forward to seeing you well again</li>
 </ol>
+
+<div class="row">
+ <div class="column">
+     <img class="img" src="/img/uplifting-get-well-soon-quotes-1.png" alt="" />
+ </div>
+  
+  <div class="column">
+     <img class="img" src="/img/uplifting-get-well-soon-quotes-2.png" alt="" />
+ </div>
+</div>
 
 <h2>Funny Get Well Soon Quotes</h2>
 
