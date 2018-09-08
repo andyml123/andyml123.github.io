@@ -130,6 +130,12 @@ Help me heal the sick today. Clear the way to recovery with the lightness of You
 Amen
 </div>
 
+<div class="prayers">
+Dear God, 
+
+Dispel my fear. End my anxiety. Wipe worry from my mind. May the one I care about find good health and complete recovery. Make known the healing power of Your hands. Give comfort and shelter beneath Your wings. Grant restorative sleep tonight and safe passage to tomorrow.   
+Amen
+</div>
 
 
 
