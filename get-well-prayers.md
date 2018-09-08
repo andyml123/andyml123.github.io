@@ -230,6 +230,3 @@ Amen
 “Confess your faults one to another, and pray one for another that you may be healed. The fervent prayer of a righteous man is effective and has great strength.”
 
 (JAS 5:16)
-
-
-
