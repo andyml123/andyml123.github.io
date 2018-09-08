@@ -35,6 +35,47 @@ I dwell within your gentle embrace.
 Amen.</li>
 </ul>
 
+<h2>Get Well Soon Prayers</h2>
+
+
+
+<div class="prayers">
+Lord, hear our heartfelt prayer
+for the healing of our Christian brother/sister.
+We pray for your mercy,
+Your compassion, Your grace and Your love,
+in making him whole and well again.
+Make the work of those treating and helping him
+full of Your perfection,
+and grant him a quick and complete recovery.
+Lead and guide those around him
+to provide what he needs: encouragement,
+assistance and support.
+Lord, we pray that you will
+wrap Your loving arms around him,
+giving him comfort, strength and peace,
+drawing him ever closer to You,
+as you lead him through this trying time.
+In Jesus' name we pray; Amen
+
+<i>By Joanna Fuchs</i>
+</div>
+
+
+<div class="prayers">
+May you have rest and peace in your heart.
+May angels surround your bed through the night.
+May each day bring healing with the dawn,
+Restore your energy, and heal your wounds.
+May hope remain within your heart,
+As you find new strength and make a new start.
+I pray you'll soon be well, 
+To love and live and enjoy life again.
+
+Amen
+</div>
+
+
 <h2>Get Well Prayers for a Friend</h2>
 
 
@@ -173,24 +214,3 @@ Amen
 
 
 
-<strong>Get Well Prayer</strong>
-
-Lord, hear our heartfelt prayer
-for the healing of our Christian brother/sister.
-We pray for your mercy,
-Your compassion, Your grace and Your love,
-in making him whole and well again.
-Make the work of those treating and helping him
-full of Your perfection,
-and grant him a quick and complete recovery.
-Lead and guide those around him
-to provide what he needs: encouragement,
-assistance and support.
-Lord, we pray that you will
-wrap Your loving arms around him,
-giving him comfort, strength and peace,
-drawing him ever closer to You,
-as you lead him through this trying time.
-In Jesus' name we pray; Amen.
-
-<i>By Joanna Fuchs</i>
