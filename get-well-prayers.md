@@ -23,9 +23,58 @@ published: true
 <li>May God’s unfailing love and care surround you while you recuperate.</li>
 <li>May the peace and comfort from God surround during your time of recovery. Get Well Soon.</li>
 <li>Praying for a very quick recovery. God Bless you as you heal in the coming days.</li>
-<li></li>
-<li></li>
+<li>Lord of Heaven,
+I rest underneath your mighty wings of love.
+I dwell within your gentle heart.
+I know there is healing in your touch.
+Through the sufferings of Christ I can ask for restoration 
+And trust in your goodness.
+You are my Lord, my Saviour, 
+My healer and my friend.
+I dwell within your gentle embrace.
+Amen.</li>
 </ul>
+
+<h2>Get Well Prayers for a Friend</h2>
+
+
+<div class="prayer">
+Merciful God,
+
+I offer prayers for my friend who is ill. Bless her with healing. Change her circumstances. Cause wholeness and wellness to come in abundance. I, who have a healthy spirit, pray that I may share the vibrancy of my soul, as I share my heart in prayer.  
+Amen
+</div>
+
+
+<div class="prayer">
+O Lord, my friend is so special,
+They mean so much to me.
+We've walked together for so long,
+No closer could we be.
+
+O Lord, please give them healing,
+Restore them day by day.
+Renew their hope and dry their tears,
+Answer them when they pray.
+
+O Lord, you are our Saviour,
+Our strength when we are weak.
+Your light is hope within our hearts,
+When the day is bleak.
+
+O Lord, I put my faith in you,
+I trust you'll heal my friend.
+May they know our love and care,
+On us they can depend.
+</div>
+
+
+
+
+
+
+
+
 
 
 <strong>Get Well Prayer</strong>
