@@ -225,7 +225,7 @@ Amen
 
 "But he endured the suffering that should have been ours, the pain that we should have borne. All the while we thought that his suffering was punishment sent by God. But because of our sins he was wounded, beaten because of the evil we did. We are healed by the punishment he suffered, made whole by the blows he received".
 
-(Isaiah 53:4-5, GNT)
+(Isaiah 53:4-5)
 
 “Confess your faults one to another, and pray one for another that you may be healed. The fervent prayer of a righteous man is effective and has great strength.”
 
