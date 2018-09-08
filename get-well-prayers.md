@@ -93,9 +93,42 @@ As he lays in bed to rest, I pray my sick friend will be blessed. God, watch ove
 Amen
 </div>
 
+<h2>Prayers for Healing and Comfort</h2>
 
+<div class="prayers">
+O Lord,
+Only you know how hard life has been for me.
+Only you have seen each moment of my day and night.
+Only you feel my pain and understand my discomfort.
+Only you are beside me through my grief and sorrow.
+Only you have been within each moment to comfort me.
+O Lord, break through the loneliness of my suffering.
+You have encountered sorrow and laid a glorious path 
+Of hope, healing and the promise of heaven in my heart.
 
+Amen
+</div>
 
+<div class="prayers">
+Jesus,
+With just one touch from your Almighty creative hand,
+You have healed the sick and raised the dead.
+How amazing is your Lordship over all the earth,
+How powerful is your redeeming love.
+How great was your sacrifice to go before us and bring forgiveness and hope.
+By your stripes I ask for healing.
+Standing within your reign and rule I ask for restoration.
+May life and wellness grow in fullness until it overflows. 
+
+Amen
+</div>
+
+<div class="prayers">
+Lord, 
+
+Help me heal the sick today. Clear the way to recovery with the lightness of Your Presence. Guide my hands to give comfort when I cannot give hope, that I may give relief when I do not have a cure, and that I may radiate Your healing peace when the limits of science, time, and the human body overwhelm us all.
+Amen
+</div>
 
 
 
