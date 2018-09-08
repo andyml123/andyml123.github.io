@@ -178,9 +178,28 @@ Dispel my fear. End my anxiety. Wipe worry from my mind. May the one I care abou
 Amen
 </div>
 
+<h2>Get Well Soon Prayer for a Child</h2>
 
+<div class="prayers">
+O Lord,
 
+Touch this precious one with your healing wings,
+Come carry them, protect them though everything.
+Tickle them with happiness,
+Move their hearts to joy,
+Surround them with goodness,
+Teddies, books and toys.
+Come wrap them in safety,
+With hugs and love and care.
+Stand by when they're sleeping,
+Walk with them everywhere.
+Restore his/her little body,
+To leap and dance again.
+Most of all Lord,
+Be my little ones best friend. 
 
+Amen
+</div>
 
 <h2>Get Well Bible Verses</h2>
 
