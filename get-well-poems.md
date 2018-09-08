@@ -5,7 +5,7 @@ title2: Get Well Poems
 description: >-
   Cheer up a sick friend or loved one with one of these touching, inspiring and
   funny get well poems
-image: get-well-poem-1.png
+image: get-well-poems.png
 permalink: /get-well-poems/
 tags: 'poems, get well poems, get well verses'
 categories:
