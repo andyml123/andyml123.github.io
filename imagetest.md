@@ -31,15 +31,16 @@ You might prefer to post something on Facebook or Twitter, where sharing get wel
 And if you know the person well who's ill or injured then you can consider using a funny get well message. Putting a smile on the face of or giving a laugh to those who are unwell can be a great way to make them feel a little better. 'Laughter is the greatest medicine', as they say!
 </p>
 
-<p>
+<div class="row">
+  <div class="column">
 <h2><a class="page-link" href="/get-well-soon-quotes/">Get Well Soon Quotes: 41 Touching and Uplifting Recovery Quotes</a></h2>
 <a href="/get-well-wishes"> <img class="img" src="/img/get-well-soon-quotes.png" alt="" /></a>
-</p>
 
-<p>
+<div class="column">
 <h2><a class="page-link" href="/get-well-wishes">Funny Get Well Soon Wishes and Messages</a></h2>
 <a href="/funny-get-well-soon-wishes"> <img class="img" src="/img/funny-get-well-wishes.png" alt="" /></a>
-</p>
+</div>
+</div>
 
 <p>
 We understand writing a get well message can be tricky. You want your words to make those ill feel better, to lift their mood, and express exactly what they mean to you. Rest assured that a get well card or gift will be warmly received by those recovering. And as long as you're sincere and speak from the heart whatever you say will be greatly appreciated. But if you're still unsure then try our guide to writing the perfect get well message.
