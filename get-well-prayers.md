@@ -98,6 +98,42 @@ Amen
 
 
 
+
+
+
+
+<h2>Get Well Bible Verses</h2>
+
+“And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospelof the kingdom, and healing all manner of sickness and all manner of disease among the people.”
+
+(Matthew 4:23)
+
+"Heal me, Lord, and I will be healed; save me and I will be saved, for you are the one I praise."
+
+(Jeremiah 17:14)
+
+“And the people, when they knew it, followed him: and he received them, and spoke unto them of the kingdom of God, and healed them that had need of healing.”
+
+(Luke 9:11)
+
+"Let all that I am praise the Lord; may I never forget the good things he does for me. He forgives all my sins and heals all my diseases. He redeems me from death and crowns me with love and tender mercies."
+
+(Psalm 103:2-4)
+
+“Behold, blessed is the one whom God reproves; therefore despise not the discipline of the Almighty. For he wounds, but he binds up; he shatters, but his hands heal.”
+
+(Job 5:17-18)
+
+"But he endured the suffering that should have been ours, the pain that we should have borne. All the while we thought that his suffering was punishment sent by God. But because of our sins he was wounded, beaten because of the evil we did. We are healed by the punishment he suffered, made whole by the blows he received".
+
+(Isaiah 53:4-5, GNT)
+
+“Confess your faults one to another, and pray one for another that you may be healed. The fervent prayer of a righteous man is effective and has great strength.”
+
+(JAS 5:16)
+
+
+
 <strong>Get Well Prayer</strong>
 
 Lord, hear our heartfelt prayer
