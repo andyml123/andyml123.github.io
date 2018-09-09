@@ -44,7 +44,7 @@ published: true
 <li>I know you wanted some time off work but this was a bit extreme!</li>
 <li>Folks who think laughter is the best medicine apparently have never had morphine.</li>
 <li>Get well cards are great at keeping you from having to shake hands or hug a sick person. That's why you are getting a card from me.</li>
-<li></li>
+<li>Lying in bed for days on end gives you the chance to reflect on what's important in life.. not to mention count little cracks in the ceilin.g</li>
 <li></li>
 </ul>
 
