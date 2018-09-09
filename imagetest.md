@@ -96,7 +96,6 @@ There are a few things you should absolutley avoid saying in your get well soon 
 </div>
 </div>
 
-
 <p>
  
   {% for page in site.pages %}
