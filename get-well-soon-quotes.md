@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Get Well Soon Quotes: 41 Touching and Uplifting Recovery Quotes'
+title: 'Get Well Soon Quotes: 46 Touching and Uplifting Recovery Quotes'
 title2: Get Well Soon Quotes
 description: >-
   A huge range of inspirational, uplifiting and comforting get well quotes to
@@ -34,6 +34,7 @@ Sometimes the person who is sick needs some inspiration or motivation to feel be
 <li>“In the middle of every difficulty lies opportunity.” - Albert Einstein</li>
 <li>"Fall seven times, stand up eight" – Japanese Proverb</li>
 <li>“Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.” – Helen Keller</li>
+<li>“Life is 10% what happens to you and 90% how you react to it.” - Charles R. Swendoll</li>
 <li>We know you will overcome this kind of situation. There is nothing we ever wanted right now, but your healing and fast recovery. Get better soon!</li>
 <li>It isn’t always easy, but when you’re not feeling well, I hope it helps to know others are thinking of you, and hoping that you’ll be better very soon. Take good care of yourself</li>
 <li>Recovery is hard work – but you’re not alone. Not a day goes by that you aren’t thought of and wished well</li>
