@@ -1,6 +1,6 @@
 ---
 layout: page
-title: '{no.} Funny Get Well Wishes and Messages'
+title: 41 Funny Get Well Wishes and Messages
 title2: Funny Get Well Wishes
 description: >-
   Put a smile on a sick friend or family members face with one of these
@@ -18,7 +18,7 @@ published: true
 
 <h2>Funny Get Well Messages</h2>
 
-<ul class="hearts">
+<ul class="heart">
 <li>If I told you to “Get Well Soon,” it wouldn’t be soon enough. Get Well Now!</li>
 <li>Please get well soon. I can only be nice to you for so long.</li>
 <li>Laughter is the best medicine, or gin.. whatever</li>
