@@ -103,7 +103,6 @@ If the sick or injured person is religious then a prayer may be the perfect way 
 </div>
 </div>
 
-
 Other Get Well Resources:
 <div class="row">
 <div class="column">
