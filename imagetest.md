@@ -89,7 +89,7 @@ There are a few things you should absolutley avoid saying in your get well soon 
 </p>
 
 <p>
-If the sick or injured person is religious then a prayer may be the perfect way to wish them a healthy recuperation. 
+If the sick or injured person is religious then a prayer may be the perfect way to wish them a healthy recuperation. Someone with a strong faith will appreciate a prayer that reaches out and offers them comfort, strength and a sense of inclusion amongst their friends or family. Showing their well being is important to you will be warmly received, so try our get well prayers for a heart warming way to wish them well.
 </p>
 
 <div class="row">
