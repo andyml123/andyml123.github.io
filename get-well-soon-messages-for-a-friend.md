@@ -45,6 +45,7 @@ In no time, you’ll be laughing and smiling away. Get well soon!</li>
 <li>To my best friend in the world - please get better soon! I miss you so much.</li>
 </ul>
 
+<h2>Inspirational Messages for a Sick Friend</h2>
 
 <ul class="heart">
 <li>I know you're feeling ill and probably a bit blue, but remember that everyone is wishing you well and sending you loving thoughts. Get well soon</li>
