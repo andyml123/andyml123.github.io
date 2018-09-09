@@ -2,7 +2,7 @@
 layout: page
 title: '34 Get Well Soon Prayers: Christian Ways to say Feel Better'
 title2: Get Well Soon Prayers
-description: null
+description: Use these get well prayers to say a healing prayer for a friend or loved one to find the strength to overcome an injury or illness
 image: /get-well-prayers.png
 tags: get well prayers, get well soon prayers, feel better prayers
 categories:
