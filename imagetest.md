@@ -13,13 +13,13 @@ Here you will find the best get well soon wishes and quotes. They will express y
 
 <div class="row">
   <div class="column">
-<h2><div class="titlewrapper"><a class="page-link" href="/get-well-wishes">Top 100 Get Well Wishes</a></div></h2>
 <a href="/get-well-wishes"> <img class="img" src="/img/get-well-soon-wishes.png" alt="" /></a>
+<h2><a class="page-link" href="/get-well-wishes">Top 100 Get Well Wishes</a></h2>
 </div>
 
 <div class="column">
-<h2><div class="titlewrapper"><a class="page-link" href="/get-well-soon-messages-for-a-friend">Get Well Soon Messages for a Friend</a></div></h2>
 <a href="/get-well-essages-for-a-friend"> <img class="img" src="/img/get-well-soon-messages-for-a-friend.png" alt="" /></a>
+<h2><a class="page-link" href="/get-well-soon-messages-for-a-friend">Get Well Soon Messages for a Friend</a></h2>
 </div>
 </div>
 
