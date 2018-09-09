@@ -85,6 +85,13 @@ There are a few things you should absolutley avoid saying in your get well soon 
 </div>
 </div>
 
+<p>If a standard get well message doesn't feel like enough for you then there are a few alternatives. You can make a get well card more interesting by including  . A beautiful poem or verse that says in rhyme how you feel is a sweet way to wish someome 'get well'. Writing poetry can be challenging so our example get well poems are ideal for you to use as inspiration or copy as they are.
+</p>
+
+<p>
+If the sick or injured person is religious then a prayer may be the perfect way to wish them a speedy recovery. 
+</p>
+
 <div class="row">
   <div class="column">
     <a href="/get-well-poems"> <img class="img" src="/img/get-well-poems.png" alt="" /></a><h2><a class="page-link" href="/get-well-poems">Get Well Soon Poems: 21 Lovely Ways to Say Get Better</a></h2>
