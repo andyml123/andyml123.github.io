@@ -3,8 +3,8 @@ layout: page
 title: '34 Get Well Soon Prayers: Christian Ways to say Feel Better'
 title2: Get Well Soon Prayers
 description: null
-image: null
-tags: null
+image: /get-well-prayers.png
+tags: get well prayers, get well soon prayers, feel better prayers
 categories:
   - prayers
   - navbottom
