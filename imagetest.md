@@ -85,6 +85,18 @@ There are a few things you should absolutley avoid saying in your get well soon 
 </div>
 </div>
 
+<div class="row">
+  <div class="column">
+    <a href="/get-well-poems"> <img class="img" src="/img/get-well-poems.png" alt="" /></a><h2><a class="page-link" href="/get-well-poems">Get Well Soon Poems: 21 Lovely Ways to Say Get Better</a></h2>
+</div>
+
+<div class="row">
+  <div class="column">
+    <a href="/get-well-prayers"> <img class="img" src="/img/funny-get-well-prayers.png" alt="" /></a><h2><a class="page-link" href="/get-well-prayers">34 Get Well Soon Prayers: Christian Ways to say 'Feel Better'</a></h2>
+</div>
+</div>
+
+
 <p>
  
   {% for page in site.pages %}
