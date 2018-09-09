@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 41 Funny Get Well Wishes and Messages
+title: 43 Funny Get Well Wishes and Messages
 title2: Funny Get Well Wishes
 description: >-
   Put a smile on a sick friend or family members face with one of these
@@ -45,7 +45,7 @@ published: true
 <li>Folks who think laughter is the best medicine apparently have never had morphine.</li>
 <li>Get well cards are great at keeping you from having to shake hands or hug a sick person. That's why you are getting a card from me.</li>
 <li>Lying in bed for days on end gives you the chance to reflect on what's important in life.. not to mention count little cracks in the ceilin.g</li>
-<li></li>
+<li>Getting back to health is easy enough.. it's getting back to work that's tough! Get well soon.</li>
 </ul>
 
 <h2>Rude/Offensive Get Well Messages</h2>
