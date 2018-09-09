@@ -104,3 +104,9 @@ If the sick or injured person is religious then a prayer may be the perfect way 
 </div>
 
 
+Other Get Well Messages:
+<div class="row">
+Get Well Soon Text Messages
+Get Well Soon Messages for a Pet
+
+</div>
