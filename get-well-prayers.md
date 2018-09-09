@@ -1,6 +1,6 @@
 ---
 layout: page
-title: '28 Get Well Soon Prayers: Christian Ways to say Feel Better'
+title: '34 Get Well Soon Prayers: Christian Ways to say Feel Better'
 title2: Get Well Soon Prayers
 description: null
 image: null
@@ -207,6 +207,10 @@ Amen
 
 (Matthew 4:23)
 
+"His compassions, they fail not. They are new every morning: great is Thy faithfulness."
+
+(Lamentations 3:22-23)
+
 "Heal me, Lord, and I will be healed; save me and I will be saved, for you are the one I praise."
 
 (Jeremiah 17:14)
@@ -215,18 +219,38 @@ Amen
 
 (Luke 9:11)
 
+"He gives strength to the weary and increases the power of the weak."
+
+(Isaiah 40:29)
+
 "Let all that I am praise the Lord; may I never forget the good things he does for me. He forgives all my sins and heals all my diseases. He redeems me from death and crowns me with love and tender mercies."
 
 (Psalm 103:2-4)
+
+"The Lord is my strength and my shield; my heart trusted in him and I am helped." 
+
+(Psalm 28:7)
 
 “Behold, blessed is the one whom God reproves; therefore despise not the discipline of the Almighty. For he wounds, but he binds up; he shatters, but his hands heal.”
 
 (Job 5:17-18)
 
+"God is our refuge and strength, a very present help in trouble."
+
+(Psalm 46:1)
+
 "But he endured the suffering that should have been ours, the pain that we should have borne. All the while we thought that his suffering was punishment sent by God. But because of our sins he was wounded, beaten because of the evil we did. We are healed by the punishment he suffered, made whole by the blows he received".
 
 (Isaiah 53:4-5)
 
+"I leave with you; my peace I give to you."
+
+(John 14:27)
+
 “Confess your faults one to another, and pray one for another that you may be healed. The fervent prayer of a righteous man is effective and has great strength.”
 
 (JAS 5:16)
+
+"Call unto Me, and I will answer you… 
+
+(Jeremiah 33:3)
