@@ -31,7 +31,9 @@ Sometimes the person who is sick needs some inspiration or motivation to feel be
 <li>"Our greatest glory is not in never failing but in rising up every time we fail" – Ralph Waldo Emerson</li>
 <li>"Believe you can and you’re halfway there" – Theodore Roosevelt</li>
 <li>"The best time to plant a tree was 20 years ago. The second best time is now" – Chinese Proverb</li>
+<li>“In the middle of every difficulty lies opportunity.” - Albert Einstein</li>
 <li>"Fall seven times, stand up eight" – Japanese Proverb</li>
+<li>“Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.” – Helen Keller</li>
 <li>We know you will overcome this kind of situation. There is nothing we ever wanted right now, but your healing and fast recovery. Get better soon!</li>
 <li>It isn’t always easy, but when you’re not feeling well, I hope it helps to know others are thinking of you, and hoping that you’ll be better very soon. Take good care of yourself</li>
 <li>Recovery is hard work – but you’re not alone. Not a day goes by that you aren’t thought of and wished well</li>
@@ -62,7 +64,9 @@ Being injured or sick is pretty much always miserable. No one ever has fun when 
 <li>"Fear knocked on my door.. I opened it and there was nobody there" Unknown</li>
 <li>"It isn’t always easy, but when you’re not feeling well – hope it helps to know others are thinking of you – and hoping that you’ll be better very soon. Take good care of yourself" –Unknown</li>
 <li>"It is never too late to live happily ever after" – Unknown</li>
+<li>“Tough times don’t last, tough people do.” - Anonymous</li>
 <li>A bowl of warmth, a soft face, a new day. Some get-well thoughts sent your way. Feel better soon</li>
+<li>“Be strong because things will get better. It may be stormy now, but it never rains forever.” - Anonymous</li>
 <li>Little flowers are blooming and telling you to get well soon, so listen to them!</li>
 <li>Look outside - the sun is shining and spurring you on to get well!</li>
 <li>Just remember how everyione is looking forward to seeing you well again</li>
