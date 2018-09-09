@@ -104,7 +104,7 @@ If the sick or injured person is religious then a prayer may be the perfect way 
 </div>
 
 
-Other Get Well Messages:
+Other Get Well Resources:
 <div class="row">
 <div class="column">
   <a href="/get-well-text-messages"> <img class="img" src="/img/get-well-text-messages-150x150.png" alt="" /></a>
