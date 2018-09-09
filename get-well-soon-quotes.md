@@ -70,7 +70,7 @@ Being injured or sick is pretty much always miserable. No one ever has fun when 
 <li>“Be strong because things will get better. It may be stormy now, but it never rains forever.” - Anonymous</li>
 <li>Little flowers are blooming and telling you to get well soon, so listen to them!</li>
 <li>Look outside - the sun is shining and spurring you on to get well!</li>
-<li>Just remember how everyione is looking forward to seeing you well again</li>
+<li>Just remember how everyone is looking forward to seeing you well again</li>
 </ol>
 
 <div class="row">
