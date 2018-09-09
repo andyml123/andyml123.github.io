@@ -43,3 +43,20 @@ In no time, you’ll be laughing and smiling away. Get well soon!</li>
 <li>As you are healing, may you feel warmth and compassion from all who care about you. Best wishes that you will soon be back to doing all the things you love.</li>
 <li>Friends are there for one another, and I'm here for you now. Get well soon pal!</li>
 <li>To my best friend in the world - please get better soon! I miss you so much.</li>
+</ul>
+
+
+<ul class="heart">
+<li>I know you're feeling ill and probably a bit blue, but remember that everyone is wishing you well and sending you loving thoughts. Get well soon</li>
+<li>You can beat this! Stay strong and you'll be well again in no time</li>
+<li>Like all the obstacles you've faced you can overcome this one as well. Stay positive and you will be feeling better really soon</li>
+<li>With time and rest this will pass. You just need to keep your head up and take strength from us - your friends</li>
+<li>Your courage in facing this is inspiring. Know that we are all thinking of you so much and sending loving thoughts</li>
+<li>Your spirit is strong and you have the resilient nature to take on anything. The friend I know won't let this illness beat them and I can't wait to see you fighting fit again</li>
+<li>The way your dealing with your illness is such an inspiration to everyone. We're all wishing for a speedy recovery back to full health</li>
+<li>Get well soon pal and take some comfort from knowing all your friends, including me of course, will be visiting soon</li>
+<li>I love you so much and hope you know how much I care. Get well soon</li>
+<li>It may seem tough now but you're going to get through this and come out the other side stronger</li>
+<li>This won't last forever, I promise. Rely on your friends to help through it whilst it dies though. We'll be here for you no matter what</li>
+<li>I can't wait to see you well again! It won't be long now and you'll be fighting fit</li>
+</ul>
