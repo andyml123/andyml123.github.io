@@ -1,10 +1,10 @@
 ---
 layout: page
-title: {no.} Funny Get Well Wishes and Messages
+title: '{no.} Funny Get Well Wishes and Messages'
 title2: Funny Get Well Wishes
 description: Put a smile on a sick friend or family members face with one of these hilarious get well messages 
 permalink: /funny-get-well-wishes/
-image: /funny-get-well-
+image: funny-get-well-wishes.png
 tags: funny get well wishes, funny get well soon messages, funny get well messages
 categories: messages
 published: true
