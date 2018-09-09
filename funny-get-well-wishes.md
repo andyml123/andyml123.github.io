@@ -2,10 +2,12 @@
 layout: page
 title: '{no.} Funny Get Well Wishes and Messages'
 title2: Funny Get Well Wishes
-description: Put a smile on a sick friend or family members face with one of these hilarious get well messages 
+description: >-
+  Put a smile on a sick friend or family members face with one of these
+  hilarious get well messages
 permalink: /funny-get-well-wishes/
 image: funny-get-well-wishes.png
-tags: funny get well wishes, funny get well soon messages, funny get well messages
+tags: 'funny get well wishes, funny get well soon messages, funny get well messages'
 categories: messages
 published: true
 ---
@@ -44,4 +46,25 @@ published: true
 <li>Get well cards are great at keeping you from having to shake hands or hug a sick person. That's why you are getting a card from me.</li>
 <li></li>
 <li></li>
+</ul>
+
+<h2>Rude/Offensive Get Well Messages</h2>
+
+<ul class="heart">
+<li>Get well soon – headstones are really expensive!</li>
+<li>Get well soon! Unless I’m the beneficiary of your life insurance, in which case I think you should stop fighting it and let yourself be at peace.</li>
+<li>I hope you get better soon, I reeeaaally don’t have time to attend a funeral at the moment.</li>
+<li>Look on the bright side, at least it’s not herpes [or insert other embarrassing disease].</li>
+<li>Get well soon – your cough is absolutely disgusting.</li>
+<li>Feel better soon. I would visit, but I don’t want what you have. Also I’m kinda busy!</li>
+<li>An apple a day will keep anyone away... if thrown hard enough.</li>
+<li>Here’s hoping the worst part of your surgery will be wiping with the other hand... </li>
+<li>You better get better – I’m sick of you being sick!</li>
+<li>I hope you’re soon feeling yourself again! Not in that way...</li>
+<li>Get well soon. It’s too bad there’s no cure for being a [insert rude word here].</li>
+<li>Well, it can’t all be sunshine and hookers. Get well soon!</li>
+<li>Please get well soon so I find you attractive again.</li>
+<li>I always knew you were sick… but not in this way</li>
+<li>Sorry you feel like s***.</li>
+<li>I wish I could take away your pain. Or at least take away the people who compare it to the time their hamster died.</li>
 </ul>
