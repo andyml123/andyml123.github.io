@@ -60,6 +60,7 @@ Adsense ad here
 <div class="row">
 <div class="column">
 <img src="/img/get-well-soon-messages.png" class="center-image" alt="get well soon message flower basket" />
+</div>
 <div class="column">
 <img src="/img/feel-better-soon-message.png" class="center-image" alt="funny get well message bee well quick recovery and good health" />
 </div>
