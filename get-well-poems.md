@@ -173,7 +173,7 @@ Get well soon!</p>
 
 <div class="poems">
   
-<strong>In Bed All Day</strong>
+<p><strong>In Bed All Day</strong></p>
 
 <p>You get to stay in bed all day.<br>
 You get to watch TV<br>
