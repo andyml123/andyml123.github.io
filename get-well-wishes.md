@@ -154,6 +154,7 @@ We aim to make writing a get well card much simpler and allow you to help your s
 If you want to make the recipient of your card smile or have a laugh then try our funny get well wishes. A funny message can improve their mood and help them stay positive whilst they're unwell, which is key to getting better.   
 </p>
 </div>
+</div>
 
 <hr>
 
