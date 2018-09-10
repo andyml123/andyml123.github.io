@@ -72,7 +72,7 @@ As you find new strength and make a new start.<br>
 I pray you'll soon be well, <br>
 To love and live and enjoy life again.<br>
 
-Amen
+<p>Amen</p>
 </div>
 
 
@@ -83,30 +83,31 @@ Amen
 Merciful God,
 
 I offer prayers for my friend who is ill. Bless her with healing. Change her circumstances. Cause wholeness and wellness to come in abundance. I, who have a healthy spirit, pray that I may share the vibrancy of my soul, as I share my heart in prayer.  
-Amen
+
+<p>Amen</p>
 </div>
 
 
 <div class="prayers">
-O Lord, my friend is so special,
-They mean so much to me.
-We've walked together for so long,
-No closer could we be.
+O Lord, my friend is so special,<br>
+They mean so much to me.<br>
+We've walked together for so long,<br>
+No closer could we be.<br>
 
-O Lord, please give them healing,
-Restore them day by day.
-Renew their hope and dry their tears,
-Answer them when they pray.
+O Lord, please give them healing,<br>
+Restore them day by day.<br>
+Renew their hope and dry their tears,<br>
+Answer them when they pray.<br>
 
-O Lord, you are our Saviour,
-Our strength when we are weak.
-Your light is hope within our hearts,
-When the day is bleak.
+O Lord, you are our Saviour,<br>
+Our strength when we are weak.<br>
+Your light is hope within our hearts,<br>
+When the day is bleak.<br>
 
-O Lord, I put my faith in you,
-I trust you'll heal my friend.
-May they know our love and care,
-On us they can depend.
+O Lord, I put my faith in you,<br>
+I trust you'll heal my friend.<br>
+May they know our love and care,<br>
+On us they can depend.<br>
 </div>
 
 <div class="prayers">
