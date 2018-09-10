@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 title2: Privacy Policy
-permalink: /privacy-policy
+permalink: /privacy-policy/
 published: true
 ---
 
@@ -118,4 +118,4 @@ published: true
 <ul>
         <li>By email: hello@getwellmessages.net</li>
           
-        </ul>                                
+        </ul>
