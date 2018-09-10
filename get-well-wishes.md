@@ -139,18 +139,21 @@ We've put together this list of 100 get well wishes to help you get the best mes
   
 <hr>
 
+<div class="row">
+<div class="column">
 <h2>Sample Get Well Message</h2>
 
 <p>
 We aim to make writing a get well card much simpler and allow you to help your sick friend or family member in whatever way they need. A good way to make your card that extra bit special is by adding your own touches to it. Try personalizing our get well notes with a <a href="/get-well-soon-quotes/">get well soon quote</a> for more inspirational words.
 </p>
-  
+</div>
+<div class="column">
 <h2>Funny Feel Better Messages</h2>
 
-  
 <p>
 If you want to make the recipient of your card smile or have a laugh then try our funny get well wishes. A funny message can improve their mood and help them stay positive whilst they're unwell, which is key to getting better.   
 </p>
+</div>
 
 <hr>
 
