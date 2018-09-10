@@ -18,7 +18,7 @@ Here you will find the best get well soon wishes and quotes. They will express y
 </div>
 
 <div class="column">
-<a href="/get-well-essages-for-a-friend"> <img class="img" src="/img/get-well-soon-messages-for-a-friend.png" alt="" /></a>
+<a href="/get-well-messages-for-a-friend"> <img class="img" src="/img/get-well-soon-messages-for-a-friend.png" alt="" /></a>
 <h2><a class="page-link" href="/get-well-soon-messages-for-a-friend">Get Well Soon Messages for a Friend</a></h2>
 </div>
 </div>
@@ -33,11 +33,11 @@ And if you know the person well who's ill or injured then you can consider using
 
 <div class="row">
   <div class="column">
-<a href="/get-well-wishes"> <img class="img" src="/img/get-well-soon-quotes.png" alt="" /></a><h2><a class="page-link" href="/get-well-soon-quotes/">Get Well Soon Quotes: 41 Touching and Uplifting Recovery Quotes</a></h2>
+<a href="/get-well-soon-quotes"> <img class="img" src="/img/get-well-soon-quotes.png" alt="" /></a><h2><a class="page-link" href="/get-well-soon-quotes/">Get Well Soon Quotes: 41 Touching and Uplifting Recovery Quotes</a></h2>
 </div>
 
 <div class="column">
-<a href="/funny-get-well-soon-wishes"> <img class="img" src="/img/funny-get-well-wishes.png" alt="" /></a><h2><a class="page-link" href="/get-well-wishes">Funny Get Well Soon Wishes and Messages</a></h2>
+<a href="/funny-get-well-wishes"> <img class="img" src="/img/funny-get-well-wishes.png" alt="" /></a><h2><a class="page-link" href="/get-well-wishes">Funny Get Well Soon Wishes and Messages</a></h2>
 </div>
 </div>
 
