@@ -89,35 +89,35 @@ Amen
 
 
 <div class="prayers">
-O Lord, my friend is so special,<br>
+<p>O Lord, my friend is so special,<br>
 They mean so much to me.<br>
 We've walked together for so long,<br>
-No closer could we be.<br>
+  No closer could we be.<br></p>
 
-O Lord, please give them healing,<br>
+<p>O Lord, please give them healing,<br>
 Restore them day by day.<br>
 Renew their hope and dry their tears,<br>
-Answer them when they pray.<br>
+Answer them when they pray.<br></p>
 
-O Lord, you are our Saviour,<br>
+<p>O Lord, you are our Saviour,<br>
 Our strength when we are weak.<br>
 Your light is hope within our hearts,<br>
-When the day is bleak.<br>
+When the day is bleak.<br></p>
 
-O Lord, I put my faith in you,<br>
+<p>O Lord, I put my faith in you,<br>
 I trust you'll heal my friend.<br>
 May they know our love and care,<br>
-On us they can depend.<br>
+On us they can depend.<br></p>
 </div>
 
 <div class="prayers">
-Think, o God, of our friend who is ill, whom we now commend to Your compassionate regard.
+  <p>Think, o God, of our friend who is ill, whom we now commend to Your compassionate regard.</p>
 
-Comfort him upon his sickbed, and ease his suffering. We beg for deliverance, and submit
-that no healing is too hard for the Lord, if it be His will.
+<p>Comfort him upon his sickbed, and ease his suffering. We beg for deliverance, and submit
+that no healing is too hard for the Lord, if it be His will.</p>
 
-We therefore pray that You bless our friend with Your loving care, renew his strength,
-and heal what ails him in Your loving name.
+<p>We therefore pray that You bless our friend with Your loving care, renew his strength,
+and heal what ails him in Your loving name.</p>
 
 Thank You, Lord.
 </div>
@@ -125,28 +125,33 @@ Thank You, Lord.
 <div class="prayers">
 Dear God,
 
-I pray that my dear friend will fully and completely, accept the divine idea of radiant health in body and mind. Not as hopeful thinking, but as reality that will continue for the rest of life. Regenerate. Reinvigorate. Renew.
+<p>I pray that my dear friend will fully and completely, accept the divine idea of radiant health in body and mind. Not as hopeful thinking, but as reality that will continue for the rest of life. Regenerate. Reinvigorate. Renew.</p>
+
 Amen
 </div>
 
 <div class="prayers">
 Dear God, 
-As he lays in bed to rest, I pray my sick friend will be blessed. God, watch over him this night, bless him with Your love so bright. The angels they will dance and sing, and to him, sweet healing bring. When he wakes to greet the day, God I know you'll guide his way.
+<p>As he lays in bed to rest, I pray my sick friend will be blessed. God, watch over him this night, bless him with Your love so bright. The angels they will dance and sing, and to him, sweet healing bring. When he wakes to greet the day, God I know you'll guide his way.</p>
+
 Amen
 </div>
 
 <h2>Prayers for Healing and Comfort</h2>
 
 <div class="prayers">
-O Lord,
+<p>O Lord,
 Only you know how hard life has been for me.
-Only you have seen each moment of my day and night.
-Only you feel my pain and understand my discomfort.
-Only you are beside me through my grief and sorrow.
-Only you have been within each moment to comfort me.
-O Lord, break through the loneliness of my suffering.
-You have encountered sorrow and laid a glorious path 
-Of hope, healing and the promise of heaven in my heart.
+Only you have seen each moment of my day and night.</p>
+  
+<p>Only you feel my pain and understand my discomfort.
+Only you are beside me through my grief and sorrow.</p>
+
+<p>Only you have been within each moment to comfort me.
+O Lord, break through the loneliness of my suffering.</p>
+
+<p>You have encountered sorrow and laid a glorious path 
+Of hope, healing and the promise of heaven in my heart.</p>
 
 Amen
 </div>
@@ -168,7 +173,8 @@ Amen
 <div class="prayers">
 Lord, 
 
-Help me heal the sick today. Clear the way to recovery with the lightness of Your Presence. Guide my hands to give comfort when I cannot give hope, that I may give relief when I do not have a cure, and that I may radiate Your healing peace when the limits of science, time, and the human body overwhelm us all.
+<p>Help me heal the sick today. Clear the way to recovery with the lightness of Your Presence. Guide my hands to give comfort when I cannot give hope, that I may give relief when I do not have a cure, and that I may radiate Your healing peace when the limits of science, time, and the human body overwhelm us all.</p>
+
 Amen
 </div>
 
