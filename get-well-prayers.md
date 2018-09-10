@@ -54,9 +54,11 @@ to provide what he needs: encouragement,
 assistance and support.<br>
 Lord, we pray that you will wrap Your loving arms around him, giving him comfort, strength and peace, drawing him ever closer to You, <br>
 as you lead him through this trying time.
-In Jesus' name we pray; Amen
+In Jesus' name we pray; 
+  
+<p>Amen</p>
 
-<i>By Joanna Fuchs</i>
+<p><i>By Joanna Fuchs</i></p>
 </div>
 
 
