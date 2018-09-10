@@ -17,6 +17,8 @@ Send your friend an inspirational and uplifting message to brighten their day. Y
 
 <h2>Get Well Soon Messages for a Friend</h2>
 
+These get well card messages can be used in most situations for a friend. Be that recovering from an illness, sickness or even an injury or surgery. They would work well in a card or get well note, especially alongside flowers. You can also use them to say in person if you visit your friend, either at home or in hospital.  
+
 <ul class="heart">
 <li>I haven't been able to stop thinking of you since I heard you were sick. Life just isn't the same without you, get well soon!</li>
 <li>To my best friend - I'm hoping you find strength with each new day and begin to feel better soon.</li>
@@ -47,6 +49,8 @@ In no time, you’ll be laughing and smiling away. Get well soon!</li>
 
 <h2>Inspirational Messages for a Sick Friend</h2>
 
+Sometimes friends need the people close to them to give them a lift. Being ill can take its toll and make you negative or unhappy. So sending or saying to a friend something inspirational to remind them they will recover soon and be back to normal eventually can be a big boost. So if you think your friend could do with their spirits lifting or have been feeling a bit down in the dumps then use one of these inspirational get well messages.  
+
 <ul class="heart">
 <li>I know you're feeling ill and probably a bit blue, but remember that everyone is wishing you well and sending you loving thoughts. Get well soon</li>
 <li>You can beat this! Stay strong and you'll be well again in no time</li>
@@ -61,3 +65,5 @@ In no time, you’ll be laughing and smiling away. Get well soon!</li>
 <li>This won't last forever, I promise. Rely on your friends to help through it whilst it dies though. We'll be here for you no matter what</li>
 <li>I can't wait to see you well again! It won't be long now and you'll be fighting fit</li>
 </ul>
+
+Taking the time to wish a friend the best and improved health is the least you should be doing when they're unwell. Try to make the effort to visit them, maybe bring a small gift or their favourite food, and be there if they need anything. And whichever way you choose to say get well remember that your friend will appreciate the effort and gesture behind it. 
