@@ -2,9 +2,11 @@
 layout: page
 title: '34 Get Well Soon Prayers: Christian Ways to say Feel Better'
 title2: Get Well Soon Prayers
-description: Use these get well prayers to say a healing prayer for a friend or loved one to find the strength to overcome an injury or illness
+description: >-
+  Use these get well prayers to say a healing prayer for a friend or loved one
+  to find the strength to overcome an injury or illness
 image: /get-well-prayers.png
-tags: get well prayers, get well soon prayers, feel better prayers
+tags: 'get well prayers, get well soon prayers, feel better prayers'
 categories:
   - prayers
   - navbottom
@@ -40,21 +42,17 @@ Amen.</li>
 
 
 <div class="prayers">
-Lord, hear our heartfelt prayer
-for the healing of our Christian brother/sister.
+Lord, hear our heartfelt prayer for the healing of our Christian brother/sister.<br>
 We pray for your mercy,
 Your compassion, Your grace and Your love,
-in making him whole and well again.
+in making him whole and well again.<br>
 Make the work of those treating and helping him
 full of Your perfection,
-and grant him a quick and complete recovery.
+and grant him a quick and complete recovery.<br>
 Lead and guide those around him
 to provide what he needs: encouragement,
-assistance and support.
-Lord, we pray that you will
-wrap Your loving arms around him,
-giving him comfort, strength and peace,
-drawing him ever closer to You,
+assistance and support.<br>
+Lord, we pray that you will wrap Your loving arms around him, giving him comfort, strength and peace, drawing him ever closer to You, <br>
 as you lead him through this trying time.
 In Jesus' name we pray; Amen
 
@@ -63,14 +61,14 @@ In Jesus' name we pray; Amen
 
 
 <div class="prayers">
-May you have rest and peace in your heart.
-May angels surround your bed through the night.
-May each day bring healing with the dawn,
-Restore your energy, and heal your wounds.
-May hope remain within your heart,
-As you find new strength and make a new start.
-I pray you'll soon be well, 
-To love and live and enjoy life again.
+May you have rest and peace in your heart.<br>
+May angels surround your bed through the night.<br>
+May each day bring healing with the dawn,<br>
+Restore your energy, and heal your wounds.<br>
+May hope remain within your heart,<br>
+As you find new strength and make a new start.<br>
+I pray you'll soon be well, <br>
+To love and live and enjoy life again.<br>
 
 Amen
 </div>
