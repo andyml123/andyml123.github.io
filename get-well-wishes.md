@@ -57,10 +57,13 @@ Adsense ad here
 Adsense ad here
 </p>
 
-<p>
+<div class="row">
+<div class="column">
 <img src="/img/get-well-soon-messages.png" class="center-image" alt="get well soon message flower basket" />
-</p>
-  
+<div class="column">
+<img src="/img/feel-better-soon-message.png" class="center-image" alt="funny get well message bee well quick recovery and good health" />
+</div>
+</div>
 <hr>
   
 <h2>Get Well Soon Messages</h2> 
@@ -88,10 +91,6 @@ Adsense ad here
 <li>I’m Florence Nightingale and you’re my patient. We will get through this together</li>
 <li>Wishing I could take away all your pain, and sending all my love</li>
 </ul>
-  
-<p>
-<img src="/img/feel-better-soon-message.png" class="center-image" alt="funny get well message bee well quick recovery and good health" />
-</p>
 
 <h2>What to Write in a Get Well Card</h2>
 
