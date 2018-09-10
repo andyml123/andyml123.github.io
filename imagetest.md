@@ -105,13 +105,13 @@ If the sick or injured person is religious then a prayer may be the perfect way 
 
 Other Get Well Resources:
 <div class="row">
-<div class="column">
+<div class="column3">
   <a href="/get-well-text-messages"> <img class="img" src="/img/get-well-text-messages-150x150.png" alt="" /></a>
   <h3>Get Well Soon Text Messages</h3>
   <a href="/get-well-soon-messages-for-a-pet"> <img class="img" src="/img/get-well-soon-messages-for-a-pet-150x150.png" alt="" /></a>
   <h3>Get Well Soon Messages for a Pet</h3>
 </div>
-<div class="column">
+<div class="column3">
   <a href="/get-well-gifts"> <img class="img" src="/img/get-well-gifts-150x150.png" alt="" /></a>
   <h3>Get Well Gift Ideas</h3>
   <a href="/get-well-flowers"> <img class="img" src="/img/get-well-flowers-150x150.png" alt="" /></a>
