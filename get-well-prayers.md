@@ -80,9 +80,9 @@ To love and live and enjoy life again.<br></p>
 
 
 <div class="prayers">
-Merciful God,
+<p>Merciful God,</p>
 
-I offer prayers for my friend who is ill. Bless her with healing. Change her circumstances. Cause wholeness and wellness to come in abundance. I, who have a healthy spirit, pray that I may share the vibrancy of my soul, as I share my heart in prayer.  
+<p>I offer prayers for my friend who is ill. Bless her with healing. Change her circumstances. Cause wholeness and wellness to come in abundance. I, who have a healthy spirit, pray that I may share the vibrancy of my soul, as I share my heart in prayer.</p> 
 
 <p>Amen</p>
 </div>
