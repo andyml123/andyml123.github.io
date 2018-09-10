@@ -49,7 +49,7 @@ In no time, you’ll be laughing and smiling away. Get well soon!</li>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-messages-for-friend-1.png" alt="friends are there for one another quote get well messages for a friend" />
+     <img class="img" src="/img/get-well-messages-for-a-friend-1.png" alt="friends are there for one another quote get well messages for a friend" />
  </div>
   
   <div class="column">
