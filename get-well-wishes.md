@@ -151,7 +151,7 @@ We aim to make writing a get well card much simpler and allow you to help your s
 <h2>Funny Feel Better Messages</h2>
 
 <p>
-If you want to make the recipient of your card smile or have a laugh then try our funny get well wishes. A funny message can improve their mood and help them stay positive whilst they're unwell, which is key to getting better.   
+If you want to make the recipient of your card smile or have a laugh then try our funny get well wishes. A funny message can improve their mood and help them stay positive whilst they're unwell, which is key to getting better. So 
 </p>
 </div>
 </div>
@@ -188,7 +188,7 @@ A poem is a great way to express your feelings and really show you care, and you
 <h3>Get Well Prayers</h3>
 
 <p>
-
+Saying a prayer for whoever is ill is another really good way to let someone know you're thinking of them. A prayer to find strength, have courage to face their illness or take comfort in God during such trying times 
 </p>
 </div>
 </div>
