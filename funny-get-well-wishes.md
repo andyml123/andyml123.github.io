@@ -17,7 +17,7 @@ When someone is ill or injured it can be a frustrating, miserable and often lone
 </p>
 
 <p>
-However, you must be certain that the recipient of your message or card is going to be able to laugh and themselves and be part of the joke. There is a real chance they may not find being ill funny and could take offence. So be mindful of that and try to be 100% sure the person the message is intended for is the type who will be open to having their illness/injury poked fun at.
+However, you must be certain that the recipient of your message or card is going to be able to laugh at themselves and be part of the joke. There is a real chance they may not find being ill funny and could take offence. So be mindful of that and try to be 100% sure the person the message is intended for is the type who will be open to having their illness/injury poked fun at.
 </p>
 
 <h2>Funny Get Well Messages</h2>
