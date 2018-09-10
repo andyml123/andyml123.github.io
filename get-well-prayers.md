@@ -42,7 +42,7 @@ Amen.</li>
 
 
 <div class="prayers">
-Lord, hear our heartfelt prayer for the healing of our Christian brother/sister.<br>
+<p>Lord, hear our heartfelt prayer for the healing of our Christian brother/sister.<br>
 We pray for your mercy,
 Your compassion, Your grace and Your love,
 in making him whole and well again.<br>
@@ -54,7 +54,7 @@ to provide what he needs: encouragement,
 assistance and support.<br>
 Lord, we pray that you will wrap Your loving arms around him, giving him comfort, strength and peace, drawing him ever closer to You, <br>
 as you lead him through this trying time.
-In Jesus' name we pray;<br>
+  In Jesus' name we pray;</p>
   
 <p>Amen</p>
 
@@ -63,14 +63,14 @@ In Jesus' name we pray;<br>
 
 
 <div class="prayers">
-May you have rest and peace in your heart.<br>
+<p>May you have rest and peace in your heart.<br>
 May angels surround your bed through the night.<br>
 May each day bring healing with the dawn,<br>
 Restore your energy, and heal your wounds.<br>
 May hope remain within your heart,<br>
 As you find new strength and make a new start.<br>
 I pray you'll soon be well, <br>
-To love and live and enjoy life again.<br>
+To love and live and enjoy life again.<br></p>
 
 <p>Amen</p>
 </div>
