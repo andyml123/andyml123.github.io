@@ -47,6 +47,16 @@ In no time, you’ll be laughing and smiling away. Get well soon!</li>
 <li>To my best friend in the world - please get better soon! I miss you so much.</li>
 </ul>
 
+<div class="row">
+ <div class="column">
+     <img class="img" src="/img/get-well-messages-for-friend-1.png" alt="friends are there for one another quote get well messages for a friend" />
+ </div>
+  
+  <div class="column">
+     <img class="img" src="/img/get-well-messages-for-a-friend-2.png" alt="friendship quote get well messages for a friend" />
+ </div>
+</div>
+
 <h2>Inspirational Messages for a Sick Friend</h2>
 
 Sometimes friends need the people close to them to give them a lift. Being ill can take its toll and make you negative or unhappy. So sending or saying to a friend something inspirational to remind them they will recover soon and be back to normal eventually can be a big boost. So if you think your friend could do with their spirits lifting or have been feeling a bit down in the dumps then use one of these inspirational get well messages.  
@@ -66,4 +76,4 @@ Sometimes friends need the people close to them to give them a lift. Being ill c
 <li>I can't wait to see you well again! It won't be long now and you'll be fighting fit</li>
 </ul>
 
-Taking the time to wish a friend the best and improved health is the least you should be doing when they're unwell. Try to make the effort to visit them, maybe bring a small gift or their favourite food, and be there if they need anything. And whichever way you choose to say get well remember that your friend will appreciate the effort and gesture behind it. 
+Taking the time to wish a friend the best and improved health is the least you should be doing when they're unwell. Try to make the effort to visit them, maybe bring a small gift or their favourite food, and be there if they need anything. And whichever way you choose to say get well remember that your friend will appreciate the effort and gesture behind it.
