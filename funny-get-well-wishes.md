@@ -54,11 +54,11 @@ However, you must be certain that the recipient of your message or card is going
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/funny-get-well-wishes-1.png" alt="" />
+     <img class="img" src="/img/funny-get-well-wishes-1.png" alt="funny get well wishes message" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/funny-get-well-wishes-2.png" alt="" />
+     <img class="img" src="/img/funny-get-well-wishes-2.png" alt="sick day funny get well message joke" />
  </div>
 </div>
 
