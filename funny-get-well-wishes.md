@@ -52,6 +52,16 @@ However, you must be certain that the recipient of your message or card is going
 <li>Getting back to health is easy enough.. it's getting back to work that's tough! Get well soon.</li>
 </ul>
 
+<div class="row">
+ <div class="column">
+     <img class="img" src="/img/funny-get-well-wishes-1.png" alt="" />
+ </div>
+  
+  <div class="column">
+     <img class="img" src="/img/funny-get-well-wishes-2.png" alt="" />
+ </div>
+</div>
+
 <h2>Rude/Offensive Get Well Messages</h2>
 
 These funny messages are a lot more risque and in some cases downright rude! They will only be suitable for a small group of people with a certain sense of humour. So be extra careful when deciding on whether to use them.
