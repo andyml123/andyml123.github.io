@@ -234,7 +234,7 @@ Giving life hell</p>
 <h2>Inspirational Get Well Poems</h2>
 
 <div class="poems">
-  <p><strong>Be healthy</strong></p>
+  <p><strong>Be Healthy</strong></p>
   
 <p>I prayed for your speedy recovery today,<br>
 I hope you have a healthy day,<br>
