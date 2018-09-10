@@ -72,7 +72,7 @@ As you find new strength and make a new start.<br>
 I pray you'll soon be well, <br>
 To love and live and enjoy life again.<br></p>
 
-<p>Amen</p>
+Amen
 </div>
 
 
