@@ -176,17 +176,22 @@ If you want to make the recipient of your card smile or have a laugh then try ou
 
 <hr>
 
+<div class="row">
+<div class="column">
 <h3>Get Well Poems</h3>
 
 <p>
 A poem is a great way to express your feelings and really show you care, and you can find a whole range of get well soon poems right here. Send them in your card or share them on Facebook to let others join in wishing someone a fast recovery.
 </p>
-
-<h3> </h3>
+</div>
+<div class="column">
+<h3>Get Well Prayers</h3>
 
 <p>
 
 </p>
+</div>
+</div>
   
 <ul class="heart">
 <li>We know you're feeling a bit under the weather but we hope you get back right up! We Miss you!</li>
