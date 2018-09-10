@@ -74,3 +74,6 @@ These funny messages are a lot more risque and in some cases downright rude! The
 <li>Sorry you feel like s***.</li>
 <li>I wish I could take away your pain. Or at least take away the people who compare it to the time their hamster died.</li>
 </ul>
+
+Laughter is a great way to
+improve someones mood and brighten their spirits. When someone is ill they need all the cheering up they can get so if the situation is right, a funny get well message and card could be just the thing they need. So whilst you should be wary of offending or upsetting them, if you feel confident then a funny message could be the best way to wish someone a quick recovery.
