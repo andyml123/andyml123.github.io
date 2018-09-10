@@ -54,7 +54,7 @@ to provide what he needs: encouragement,
 assistance and support.<br>
 Lord, we pray that you will wrap Your loving arms around him, giving him comfort, strength and peace, drawing him ever closer to You, <br>
 as you lead him through this trying time.
-  In Jesus' name we pray;</p>
+In Jesus' name we pray;</p>
   
 <p>Amen</p>
 
@@ -84,7 +84,7 @@ Amen
 
 <p>I offer prayers for my friend who is ill. Bless her with healing. Change her circumstances. Cause wholeness and wellness to come in abundance. I, who have a healthy spirit, pray that I may share the vibrancy of my soul, as I share my heart in prayer.</p> 
 
-<p>Amen</p>
+Amen
 </div>
 
 
