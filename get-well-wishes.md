@@ -188,7 +188,7 @@ A poem is a great way to express your feelings and really show you care, and you
 <h3>Get Well Prayers</h3>
 
 <p>
-Saying a prayer for whoever is ill is another really good way to let someone know you're thinking of them. A prayer to find strength, have courage to face their illness or take comfort in God during such trying times 
+Saying a prayer for whoever is ill is another really good way to let someone know you're thinking of them. A prayer to find strength, have courage to face their illness or take comfort in God during such trying times will be warmly appreciated.
 </p>
 </div>
 </div>
