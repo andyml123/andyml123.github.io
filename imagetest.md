@@ -37,7 +37,7 @@ And if you know the person well who's ill or injured then you can consider using
 </div>
 
 <div class="column">
-<a href="/funny-get-well-wishes"> <img class="img" src="/img/funny-get-well-wishes.png" alt="" /></a><h2><a class="page-link" href="/get-well-wishes">Funny Get Well Soon Wishes and Messages</a></h2>
+<a href="/funny-get-well-wishes"> <img class="img" src="/img/funny-get-well-wishes.png" alt="" /></a><h2><a class="page-link" href="/funny-get-well-wishes">Funny Get Well Soon Wishes and Messages</a></h2>
 </div>
 </div>
 
