@@ -45,8 +45,6 @@ Amen.</li>
 
 <h2>Get Well Soon Prayers</h2>
 
-
-
 <div class="prayers">
 <p>Lord, hear our heartfelt prayer for the healing of our Christian brother/sister.<br>
 We pray for your mercy,
@@ -114,6 +112,8 @@ When the day is bleak.<br></p>
 I trust you'll heal my friend.<br>
 May they know our love and care,<br>
 On us they can depend.</p>
+
+Amen
 </div>
 
 <div class="prayers">
