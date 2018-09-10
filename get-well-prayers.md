@@ -107,7 +107,7 @@ When the day is bleak.<br></p>
 <p>O Lord, I put my faith in you,<br>
 I trust you'll heal my friend.<br>
 May they know our love and care,<br>
-On us they can depend.<br></p>
+On us they can depend.</p>
 </div>
 
 <div class="prayers">
@@ -157,15 +157,15 @@ Amen
 </div>
 
 <div class="prayers">
-Jesus,
-With just one touch from your Almighty creative hand,
+<p>Jesus,
+With just one touch from your Almighty creative hand,<br>
 You have healed the sick and raised the dead.
-How amazing is your Lordship over all the earth,
+How amazing is your Lordship over all the earth,<br>
 How powerful is your redeeming love.
-How great was your sacrifice to go before us and bring forgiveness and hope.
+How great was your sacrifice to go before us and bring forgiveness and hope.<br>
 By your stripes I ask for healing.
-Standing within your reign and rule I ask for restoration.
-May life and wellness grow in fullness until it overflows. 
+Standing within your reign and rule I ask for restoration.<br>
+May life and wellness grow in fullness until it overflows. </p>
 
 Amen
 </div>
@@ -181,7 +181,8 @@ Amen
 <div class="prayers">
 Dear God, 
 
-Dispel my fear. End my anxiety. Wipe worry from my mind. May the one I care about find good health and complete recovery. Make known the healing power of Your hands. Give comfort and shelter beneath Your wings. Grant restorative sleep tonight and safe passage to tomorrow.   
+<p>Dispel my fear. End my anxiety. Wipe worry from my mind. May the one I care about find good health and complete recovery. Make known the healing power of Your hands. Give comfort and shelter beneath Your wings. Grant restorative sleep tonight and safe passage to tomorrow.</p>
+
 Amen
 </div>
 
@@ -190,20 +191,20 @@ Amen
 <div class="prayers">
 O Lord,
 
-Touch this precious one with your healing wings,
+<p>Touch this precious one with your healing wings,
 Come carry them, protect them though everything.
-Tickle them with happiness,
+Tickle them with happiness,<br>
 Move their hearts to joy,
-Surround them with goodness,
+Surround them with goodness,<br>
 Teddies, books and toys.
 Come wrap them in safety,
 With hugs and love and care.
-Stand by when they're sleeping,
+Stand by when they're sleeping,<br>
 Walk with them everywhere.
-Restore his/her little body,
+Restore his/her little body,<br>
 To leap and dance again.
 Most of all Lord,
-Be my little ones best friend. 
+Be my little ones best friend. </p>
 
 Amen
 </div>
