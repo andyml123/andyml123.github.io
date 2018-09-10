@@ -14,7 +14,7 @@ published: true
 ---
 <h2>Short Get Well Prayers</h2>
 
-
+These are very short and concise prayers that would fit perfectly in a card or on a note. 
 
 <ul class="hearts">
 <li>At no time, nor in any way, will God ever fail His Children. May God keep you in his care as you recover.</li>
