@@ -35,19 +35,19 @@ Get Well Soon!</p>
 
 <p><strong>Magic Wand</strong></p>
 
-<p>I wish I had a magic wand
-To make it go away;
-I'd wave my scepter over you
+<p>I wish I had a magic wand<br>
+To make it go away;<br>
+I'd wave my scepter over you<br>
 Until you were okay.</p>
 
-<p>I'd think good thoughts; I'd send you love;
-I'd transmit healing vibes;
-My wand and I would surely beat
+<p>I'd think good thoughts; I'd send you love;<br>
+I'd transmit healing vibes;<br>
+My wand and I would surely beat<br>
 Whatever the doc prescribes.</p>
 
 <p>But there is no magic scepter, so
-I cannot cast a spell;
-Just know you're often in my thoughts,
+I cannot cast a spell;<br>
+Just know you're often in my thoughts,<br>
 And I hope you'll soon be well!</p>
 
 <i>By Joanna Fuchs</i>
@@ -70,14 +70,14 @@ And keep improving, day by day </p>
 
 <p><strong>Bad Bug</strong></p>
 
-<p>Has a bad bug gotten hold of you,
-Making you feel queasy?
-You're energy's low, you're indisposed,
+<p>Has a bad bug gotten hold of you,<br>
+Making you feel queasy?<br>
+You're energy's low, you're indisposed,<br>
 Being sick's not easy!</p>
 
-<p>Just take this opportunity
-To recuperate and rest,
-And then when you return to us
+<p>Just take this opportunity<br>
+To recuperate and rest,<br>
+And then when you return to us<br>
 You'll be your very best!</p>
 
 <p><i>By Joanna Fuchs</i></p>
@@ -86,9 +86,9 @@ You'll be your very best!</p>
 
 <div class="poems">
   
-<p>This little card is sent to say...
-I hope you feel better day by day
-So pop those pills and swig that tonic
+<p>This little card is sent to say...<br>
+I hope you feel better day by day<br>
+So pop those pills and swig that tonic<br>
 and I am sure you soon will be supersonic</p>
 
 <p><i>Margmax </i></p>
@@ -99,14 +99,14 @@ and I am sure you soon will be supersonic</p>
   
 <p><strong>My Ailing Friend</strong></p>
 
-<p>Get well, get well, my ailing friend,
-Whatever it is you've got;
-I'm sad and blue, thinking of you,
+<p>Get well, get well, my ailing friend,<br>
+Whatever it is you've got;<br>
+I'm sad and blue, thinking of you,<br>
 And missing you a lot!</p>
 
-<p>Rest in your bed, although you're bored;
-Be sure to sleep more than eight;
-Get healed, get cured; come back to the world,
+<p>Rest in your bed, although you're bored;<br>
+Be sure to sleep more than eight;<br>
+Get healed, get cured; come back to the world,<br>
 Where all your fans await!</p>
 
 <p><i>By Joanna Fuchs</i></p>
@@ -117,14 +117,14 @@ Where all your fans await!</p>
   
 <p><strong>You Are Deeply Missed</strong></p>
 
-<p>Get well real fast, my friend,
-That's what I wish for you,
-For while you're sick you're deeply missed,
+<p>Get well real fast, my friend,<br>
+That's what I wish for you,<br>
+For while you're sick you're deeply missed,<br>
 So I am sad and blue.</p>
 
-<p>So have some pity on me,
-Don't leave me in the dump.
-Return to health real soon, my friend,
+<p>So have some pity on me,<br>
+Don't leave me in the dump.<br>
+Return to health real soon, my friend,<br>
 Or I will be a grump!</p>
 
 <p><i>By Karl Fuchs</i></p>
@@ -135,14 +135,14 @@ Or I will be a grump!</p>
   
 <p><strong>Bring Back Your Special Spark</strong></p>
 
-<p>I hear you're feeling not so well;
-It's no fun being sickly.
-Please know I care about you,
+<p>I hear you're feeling not so well;<br>
+It's no fun being sickly.<br>
+Please know I care about you,<br>
 And hope you get well quickly.</p>
 
-<p>When you're gone, you're sorely missed;
-A bit of my world turns dark.
-So take good care, recuperate,
+<p>When you're gone, you're sorely missed;<br>
+A bit of my world turns dark.<br>
+So take good care, recuperate,<br>
 And bring back your special spark!</p>
 
 <p><i>By Joanna Fuchs</i></p>
@@ -153,18 +153,18 @@ And bring back your special spark!</p>
   
 <p><strong>The Flu</strong></p>
 
-<p>You have the flu.
-You’re breathing glue
-And feeling kind of hot.
-Your fever’s high
-And though you try
-Your nose stays full of snot.
-So drink some tea
-And think of me.
-As far as I can tell,
-You’ll get no hug
-Or see my mug
-Until you’re feeling well.
+<p>You have the flu.<br>
+You’re breathing glue<br>
+And feeling kind of hot.<br>
+Your fever’s high<br>
+And though you try<br>
+Your nose stays full of snot.<br>
+So drink some tea<br>
+And think of me.<br>
+As far as I can tell,<br>
+You’ll get no hug<br>
+Or see my mug<br>
+Until you’re feeling well.<br>
 Get well soon!</p>
 
 <i>by Denise Rodgers</i>
@@ -175,19 +175,19 @@ Get well soon!</p>
   
 <strong>In Bed All Day</strong>
 
-<p>You get to stay in bed all day.
-You get to watch TV
-Or lay around or read a book.
+<p>You get to stay in bed all day.<br>
+You get to watch TV<br>
+Or lay around or read a book.<br>
 Your time is really free.</p>
 
-<p>Forget your work, your empty desk
-With files stacked to the ceiling
-And loads of e-mails to be read.
+<p>Forget your work, your empty desk<br>
+With files stacked to the ceiling<br>
+And loads of e-mails to be read.<br>
 We know how you are feeling.</p>
 
-<p>Just settle back and rest a while.
-We promise you no flack.
-But when your rest is over, well,
+<p>Just settle back and rest a while.<br>
+We promise you no flack.<br>
+But when your rest is over, well,<br>
 We really need you back!</p>
 
 <i>by Denise Rodgers</i>
@@ -196,13 +196,13 @@ We really need you back!</p>
 
 <div class="poems">
 
-<p>From being with you all day long
-To getting you your favorite movies
-From calling you every single night
-To sharing some of our best memories
-Anything I can do to make you feel better
-Just ask, please don’t hesitate
-No favor is too small or too big
+<p>From being with you all day long<br>
+To getting you your favorite movies<br>
+From calling you every single night<br>
+To sharing some of our best memories<br>
+Anything I can do to make you feel better<br>
+Just ask, please don’t hesitate<br>
+No favor is too small or too big<br>
 After all, I am your best mate</p>
 
 <p>Get well soon</p>
@@ -211,11 +211,11 @@ After all, I am your best mate</p>
 
 <div class="poems">
   
-<p>I am sorry to hear
-That you’re unwell my dear
-So take your time and get your rest
-In no time you’ll be back at your best
-Sleep and relax until you are well
+<p>I am sorry to hear<br>
+That you’re unwell my dear<br>
+So take your time and get your rest<br>
+In no time you’ll be back at your best<br>
+Sleep and relax until you are well<br>
 Soon we’ll be back at it
 Giving life hell</p>
   
@@ -236,12 +236,12 @@ Giving life hell</p>
 <div class="poems">
   <p><strong>Be healthy</strong></p>
   
-<p>I prayed for your speedy recovery today,
-I hope you have a healthy day,
-Soon everything will be okay,
-And you will have a good day,
-Just keep a positive frame of mind,
-Do what you feel don't stay confined,
+<p>I prayed for your speedy recovery today,<br>
+I hope you have a healthy day,<br>
+Soon everything will be okay,<br>
+And you will have a good day,<br>
+Just keep a positive frame of mind,<br>
+Do what you feel don't stay confined,<br>
 Get well soon dear!</p>
 
 </div>
@@ -249,24 +249,24 @@ Get well soon dear!</p>
 <div class="poems">
   <p><strong>I Care</strong></p>
 
-<p>I'm sending this to let you know
-I think of you each day,
-And pray for your recovery,
+<p>I'm sending this to let you know<br>
+I think of you each day,<br>
+And pray for your recovery,<br>
 Hoping soon you'll be okay.</p>
 
-<p>You're going through a lot right now;
-You're treatments can be trying;
-Remember while you do them
+<p>You're going through a lot right now;<br>
+You're treatments can be trying;<br>
+Remember while you do them<br>
 It's your problem you're defying.</p>
 
-<p>Hold on to your positive attitude,
-And when things get hard to bear,
-Know that I am here for you;
+<p>Hold on to your positive attitude,<br>
+And when things get hard to bear,<br>
+Know that I am here for you;<br>
 Remember that I care.</p>
 
-<p>And when you're well and flourishing,
-Look back and realize,
-You learned what you were made of;
+<p>And when you're well and flourishing,<br>
+Look back and realize,<br>
+You learned what you were made of;<br>
 That's a reward that satisfies!</p>
 
 <p>I believe in you; You can do it!</p>
@@ -295,12 +295,12 @@ You'll be back on top in no time,<br>
   
 <p><strong>Behind You</strong></p>
 
-<p>Soon, all this will be behind you.
-At first, you'll look back briefly,
-truly understanding what a gift health is,
-how amazing it feels to be back to "normal."
-Then you'll forget...
-and resume skipping through a life
+<p>Soon, all this will be behind you.<br>
+At first, you'll look back briefly,<br>
+truly understanding what a gift health is,<br>
+how amazing it feels to be back to "normal."<br>
+Then you'll forget...<br>
+and resume skipping through a life<br>
 filled with a kaleidoscope of blessings.</p>
 
 <p>Get well soon!</p>
@@ -313,14 +313,14 @@ filled with a kaleidoscope of blessings.</p>
 
 <p><strong>Think Good Thoughts</strong></p>
 
-<p>Being sick has a mental part,
-So use your head to cure you.
-Thinking good thoughts is the way to start,
+<p>Being sick has a mental part,<br>
+So use your head to cure you.<br>
+Thinking good thoughts is the way to start,<br>
 And smiling works, I assure you.</p>
 
-<p>Keep up your spirits to cheer yourself;
-Don't let the gloomies win.
-A happy soul will get well fast,
+<p>Keep up your spirits to cheer yourself;<br>
+Don't let the gloomies win.<br>
+A happy soul will get well fast,<br>
 And right now is the time to begin.</p>
 
 <i>By Karl Fuchs</i>
@@ -345,9 +345,9 @@ And right now is the time to begin.</p>
   
 <p><strong>Get Back To Work!</strong></p>
 
-<p>Get well quick, you lazy bum,
-There's lots of work to do.
-If you stay sick, it's more work for me,
+<p>Get well quick, you lazy bum,<br>
+There's lots of work to do.<br>
+If you stay sick, it's more work for me,<br>
 And I'd rather it was for you.</p>
 
 <i>By Karl Fuchs</i>
@@ -358,9 +358,9 @@ And I'd rather it was for you.</p>
 
 <p><strong>All In Your Head</strong></p>
 
-<p>Let's go, get up, stop faking it;
-Get your sorry behind off that bed.
-Try positive thinking to get back to work.
+<p>Let's go, get up, stop faking it;<br>
+Get your sorry behind off that bed.<br>
+Try positive thinking to get back to work.<br>
 Your illness is all in your head!</p>
 
 <p>At least that's what we hope. Looking forward to your return...</p>
@@ -371,9 +371,9 @@ Your illness is all in your head!</p>
 
 <div class="poems">
   
-<p>This card, has health-giving powers 
-And I've made it, just for you
-I certainly feel much better 
+<p>This card, has health-giving powers <br>
+And I've made it, just for you<br>
+I certainly feel much better <br>
 And I hope that you do, too!</p>
 
 <i>Jon Bratton</i>
@@ -382,14 +382,15 @@ And I hope that you do, too!</p>
 
 <div class="poems">
   
-<p>We Hope That It's Not Serious
-We hope that it’s not serious.
-We hope you’re not delirious.
-We hope that you’re not feeling blue.
-We hope it’s not a nasty flu.
-We hope your butt’s not in a sling.
-We wish you only best of things.
-We send you all our get-well wishes
+<p><strong>We Hope That It's Not Serious</strong></p>
+
+<p>We hope that it’s not serious.<br>
+We hope you’re not delirious.<br>
+We hope that you’re not feeling blue.<br>
+We hope it’s not a nasty flu.<br>
+We hope your butt’s not in a sling.<br>
+We wish you only best of things.<br>
+We send you all our get-well wishes<br>
 Packed along with love and kishes.</p>
 
 <i>by Denise Rodgers</i>
