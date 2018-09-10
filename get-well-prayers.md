@@ -58,7 +58,7 @@ In Jesus' name we pray;
   
 <p>Amen</p>
 
-<p><i>By Joanna Fuchs</i></p>
+<i>By Joanna Fuchs</i>
 </div>
 
 
@@ -72,7 +72,7 @@ As you find new strength and make a new start.<br>
 I pray you'll soon be well, <br>
 To love and live and enjoy life again.<br>
 
-Amen
+<p>Amen</p>
 </div>
 
 
