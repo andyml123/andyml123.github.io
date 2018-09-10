@@ -13,7 +13,11 @@ published: true
 ---
 
 <p>
+When someone is ill or injured it can be a frustrating, miserable and often lonely place to be. They could do with being cheered up or having a laugh. That's why funny get well wishes can be so great. If a loved one or friend is unwell then you can send them a funny message or joke, maybe gently making fun of their situation. Putting a smile on their face when they're feeling down or fed up will be hugely appreciated and could brighten their boring or unhappy day. 
+</p>
 
+<p>
+However, you must be certain that the recipient of your message or card is going to be able to laugh and themselves and be part of the joke. There is a real chance they may not find being ill funny and could take offence. So be mindful of that and try to be 100% sure the person the message is intended for is the type who will be open to having their illness/injury poked fun at.
 </p>
 
 <h2>Funny Get Well Messages</h2>
@@ -49,6 +53,8 @@ published: true
 </ul>
 
 <h2>Rude/Offensive Get Well Messages</h2>
+
+These funny messages are a lot more risque and in some cases downright rude! They will only be suitable for a small group of people with a certain sense of humour. So be extra careful when deciding on whether to use them.
 
 <ul class="heart">
 <li>Get well soon – headstones are really expensive!</li>
