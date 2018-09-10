@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy
 title2: Privacy Policy
+tags: privacy policy
 permalink: /privacy-policy/
 published: true
 ---
