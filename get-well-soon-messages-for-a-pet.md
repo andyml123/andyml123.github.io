@@ -27,10 +27,10 @@ If you aren't sure what to write in a pet get well card then take a look at the 
 <li>I'm sure after a little rest _____ will be  back up and racing around in no time</li>
 <li>I heard that your little guy was sick and thought how pets probably never receive a get well card. So here's one for _____ - and I hope he/she is up and causing mischief again soon</li>
 <li>I thought I'd send over some of ____'s favourite treats while he gets better!</li>
-<li></li>
+<li>Sending big hugs to your special little ball of fur and hoping he's back on his/her paws soon</li>
 <li>Hope you get your wag back soon</li>
-<li></li>
-<li></li>
+<li>If you need any help taking care of _____ just ask. No one that cute should get ill!</li>
+<li>There isn't an owner who loves and cares for her pet like you do. I know he/she will make a quick recovery with you by their side</li>
 <li></li>
 <li></li>
 <li></li>
