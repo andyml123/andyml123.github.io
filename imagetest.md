@@ -108,16 +108,24 @@ Other Get Well Resources:
 <div class="column3">
   <a href="/get-well-text-messages"> <img class="img" src="/img/get-well-text-messages-150x150.png" alt="" /></a>
   <h3>Get Well Soon Text Messages</h3>
+  </div>
+  <div class="column3">
   <a href="/get-well-soon-messages-after-surgery"> <img class="img" src="/img/get-well-soon-messages-after-surgery-150x150.png" alt="" /></a>
   <h3>Get Well Soon Messages after Surgery</h3>
+  </div>
+  <div class="column3">
   <a href="/get-well-soon-messages-for-a-pet"> <img class="img" src="/img/get-well-soon-messages-for-a-pet-150x150.png" alt="" /></a>
   <h3>Get Well Soon Messages for a Pet</h3>
 </div>
 <div class="column3">
   <a href="/get-well-gifts"> <img class="img" src="/img/get-well-gifts-150x150.png" alt="" /></a>
   <h3>Get Well Gift Ideas</h3>
+  </div>
+  <div class="column3">
   <a href="/get-well-flowers"> <img class="img" src="/img/get-well-flowers-150x150.png" alt="" /></a>
   <h3>Get Well Flowers</h3>
+  </div>
+  <div class="column3">
   <a href="/get-well-jokes"> <img class="img" src="/img/get-well-jokes-150x150.png" alt="" /></a>
   <h3>Get Well Jokes</h3>
 </div>
