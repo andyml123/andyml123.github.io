@@ -25,8 +25,8 @@ If you aren't sure what to write in a pet get well card then take a look at the 
 <li>Get back on your paws soon!</li>
 <li>We know how much joy a pet brings to your life, so  our thoughts are with you as _____ recovers from his surgery</li>
 <li>I'm sure after a little rest _____ will be  back up and racing around in no time</li>
-<li></li>
-<li></li>
+<li>I heard that your little guy was sick and thought how pets probably never receive a get well card. So here's one for _____ - and I hope he/she is up and causing mischief again soon</li>
+<li>I thought I'd send over some of ____'s favourite treats while he gets better!</li>
 <li></li>
 <li>Hope you get your wag back soon</li>
 <li></li>
