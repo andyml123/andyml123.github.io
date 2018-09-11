@@ -20,11 +20,11 @@ If you aren't sure what to write in a pet get well card then take a look at the 
 <h2>Get Well Wishes for Pets</h2>
 
 <ul class="heart">
-<li></li>
-<li></li>
+<li>I'm praying your furry friend gets better soon!</li>
+<li>I heard _____ had to go to the vets. Here's hoping he/she makes a speedy recovery.</li>
 <li>Get back on your paws soon!</li>
-<li></li>
-<li></li>
+<li>We know how much joy a pet brings to your life, so  our thoughts are with you as _____ recovers from his surgery</li>
+<li>I'm sure after a little rest _____ will be  back up and racing around in no time</li>
 <li></li>
 <li></li>
 <li></li>
