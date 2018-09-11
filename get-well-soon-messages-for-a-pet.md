@@ -31,9 +31,9 @@ If you aren't sure what to write in a pet get well card then take a look at the 
 <li>Hope you get your wag back soon</li>
 <li>If you need any help taking care of _____ just ask. No one that cute should get ill!</li>
 <li>There isn't an owner who loves and cares for her pet like you do. I know he/she will make a quick recovery with you by their side</li>
-<li></li>
-<li></li>
-<li></li>
+<li>Sending the biggest get well wishes to such a special friend</li>
+<li>If an apple a day keeps the doctor away for humans, then what keeps the vet away for pets?</li>
+<li>I know how important _____ has been to you over the years and helped when you've been feeling down. Now it's our turn to help him/her when they need us</li>
 <li></li>
 </ul>
 
