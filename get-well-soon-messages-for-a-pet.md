@@ -34,7 +34,7 @@ If you aren't sure what to write in a pet get well card then take a look at the 
 <li>Sending the biggest get well wishes to such a special friend</li>
 <li>If an apple a day keeps the doctor away for humans, then what keeps the vet away for pets?</li>
 <li>I know how important _____ has been to you over the years and helped when you've been feeling down. Now it's our turn to help him/her when they need us</li>
-<li></li>
+<li>Something as cute and innocent as _____ shouldn't get sick! It just doesn't seem right</li>
 </ul>
 
 <h2>Get Well Messages for a Dog</h2>
