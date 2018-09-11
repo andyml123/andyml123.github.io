@@ -151,7 +151,7 @@ We aim to make writing a get well card much simpler and allow you to help your s
 <h2>Funny Feel Better Messages</h2>
 
 <p>
-If you want to make the recipient of your card smile or have a laugh then try our funny get well wishes. A funny message can improve their mood and help them stay positive whilst they're unwell, which is key to getting better. So crack a joke and have some fun to take their mind off being unwell.
+If you want to make the recipient of your card smile or have a laugh then try our <a href="/funny-get-well-wishes/">funny get well wishes</a>. A funny message can improve their mood and help them stay positive whilst they're unwell, which is key to getting better. So crack a joke and have some fun to take their mind off being unwell.
 </p>
 </div>
 </div>
@@ -181,14 +181,14 @@ If you want to make the recipient of your card smile or have a laugh then try ou
 <h3>Get Well Poems</h3>
 
 <p>
-A poem is a great way to express your feelings and really show you care, and you can find a whole range of get well soon poems right here. Send them in your card or share them on Facebook to let others join in wishing someone a fast recovery.
+A poem is a great way to express your feelings and really show you care, and you can find a whole range of <a href="/get-wellpoems/">get well soon poems</a> right here. Send them in your card or share them on Facebook to let others join in wishing someone a fast recovery.
 </p>
 </div>
 <div class="column">
 <h3>Get Well Prayers</h3>
 
 <p>
-Saying a prayer for whoever is ill is another really good way to let someone know you're thinking of them. A prayer to find strength, have courage to face their illness or take comfort in God during such trying times will be warmly appreciated.
+  Saying a <a href="/get-well-prayers/">prayer for whoever is ill</a> is another really good way to let someone know you're thinking of them. A prayer to find strength, have courage to face their illness or take comfort in God during such trying times will be warmly appreciated.
 </p>
 </div>
 </div>
