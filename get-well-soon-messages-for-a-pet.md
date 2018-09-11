@@ -22,13 +22,13 @@ If you aren't sure what to write in a pet get well card then take a look at the 
 <ul class="heart">
 <li></li>
 <li></li>
+<li>Get back on your paws soon!</li>
 <li></li>
 <li></li>
 <li></li>
 <li></li>
 <li></li>
-<li></li>
-<li></li>
+<li>Hope you get your wag back soon</li>
 <li></li>
 <li></li>
 <li></li>
