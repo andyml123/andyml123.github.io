@@ -2,7 +2,9 @@
 layout: page
 title: Get Well Soon Messages for a Pet
 title2: Get Well Soon Messages for a Pet
-description: Wish a someone with an ill or injured pet well with one of these sweet, touching or funny pet get well messages
+description: >-
+  Wish a someone with an ill or injured pet well with one of these sweet,
+  touching or funny pet get well messages
 permalink: /get-well-soon-messages-for-a-pet/
 image: get-well-soon-messages-for-a-pet.png
 categories: messages
@@ -16,6 +18,47 @@ Get well cards for pets are a great way to acknowledge the illness or injury the
 If you aren't sure what to write in a pet get well card then take a look at the examples below. You can either use them as inspiration for writing your own message or copy them directly to your card.
 
 <h2>Get Well Wishes for Pets</h2>
+
+<ul class="heart">
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+<h2>Get Well Messages for a Dog</h2>
+
+<ul class="heart">
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+
+<h2>Get Well Messages for a Cat</h2>
 
 <ul class="heart">
 <li></li>
