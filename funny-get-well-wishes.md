@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 43 Funny Get Well Wishes and Messages
+title: 46 Funny Get Well Wishes and Messages
 title2: Funny Get Well Wishes
 description: >-
   Put a smile on a sick friend or family members face with one of these
