@@ -50,6 +50,8 @@ However, you must be certain that the recipient of your message or card is going
 <li>Get well cards are great at keeping you from having to shake hands or hug a sick person. That's why you are getting a card from me.</li>
 <li>Lying in bed for days on end gives you the chance to reflect on what's important in life.. not to mention count little cracks in the ceilin.g</li>
 <li>Getting back to health is easy enough.. it's getting back to work that's tough! Get well soon.</li>
+<li>Feel better! But in the meantime, keep a safe distance please.</li>
+<li>Here's hoping your recovery from surgery goes down as smoothly as the painkillers and comfort food will</li>
 </ul>
 
 <div class="row">
@@ -83,6 +85,7 @@ These funny messages are a lot more risque and in some cases downright rude! The
 <li>I always knew you were sick… but not in this way</li>
 <li>Sorry you feel like s***.</li>
 <li>I wish I could take away your pain. Or at least take away the people who compare it to the time their hamster died.</li>
+<li>Get well soon so I can have the rest of your Vicodin</li> 
 </ul>
 
 Laughter is a great way to
