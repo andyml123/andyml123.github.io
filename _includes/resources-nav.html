@@ -1,15 +1,14 @@
 <h3>Get Well Resources</h3>  
 
+<ul class="bottom-nav">
 {% for apage in site.pages %}
     {% if apage.categories contains 'navbottom' %}
         {% if page.url != apage.url %}
-  <ul class="bottom-nav">
- <li><a href="{{ apage.url | prepend: site.baseurl }}">{{ apage.title2 }}</a></li>
-</ul>                                             
+ <li><a href="{{ apage.url | prepend: site.baseurl }}">{{ apage.title2 }}</a></li>                                             
         {% endif %}
     {% endif %}
 {% endfor %}     
-
+</ul>
 
 <ul class="bottom-nav">
   <li><a href="/">Get Well FAQ: Guide to Writing a Get Well Message</a></li>  
