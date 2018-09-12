@@ -20,7 +20,7 @@ So if you're looking for the perfect bouquet of flowers for a sick friend or rel
 </p>
 
 <div class="product-cta-box">
-<img src="/img/get-well-flowers.png" />
+<img src="/img/get-well-flowers-300x200.png" />
 <div class="product-cta-heading">
 <a href="https://www.amazon.com"> Get Well Flower Bouquet</a>
 </div>
