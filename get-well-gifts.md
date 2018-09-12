@@ -21,8 +21,18 @@ Stuff here
 <a href="https://www.amazon.com"> Get Well Flower Bouquet</a>
 </div>
 <p>Lovely flowers etc.</p>
-
 <a href="https://www.amazon.com">
 <div class="product-cta-button-centre">
 <button type="button" class="product-cta-button">Buy</button>
+</div>
+
+<div class="product-cta-box">
+<img src="/img/get-well-flowers.png" />
+<div class="product-cta-heading">
+<a href="https://www.amazon.com"> More Get Well Flower Bouquet</a>
+</div>
+<p>More flowers etc.</p>
+<a href="https://www.amazon.com">
+<div class="product-cta-button-centre">
+<button type="button" class="product-cta-button">Buy Flowers</button>
 </div>
