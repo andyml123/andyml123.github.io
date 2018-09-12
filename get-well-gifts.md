@@ -25,6 +25,4 @@ Stuff here
 <a href="https://www.amazon.com">
 <div class="product-cta-button-centre">
 <button type="button" class="product-cta-button">Buy</button>
-    </a>
-</div>
 </div>
