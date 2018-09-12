@@ -25,6 +25,8 @@ Stuff here
 <div class="product-cta-button-centre">
 <button type="button" class="product-cta-button">Buy</button>
 </div>
+  
+</div>
 
 <div class="product-cta-box">
 <img src="/img/get-well-flowers.png" />
