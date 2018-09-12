@@ -20,8 +20,6 @@ Stuff here
 <div class="product-cta-heading">
 <a href="https://www.amazon.com"> Get Well Flower Bouquet</a>
 </div>
-<p>Lovely flowers etc.</p>
-<a href="https://www.amazon.com">
 </div>
  
 <div class="product-cta-box">
