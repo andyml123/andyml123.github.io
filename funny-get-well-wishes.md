@@ -50,6 +50,7 @@ However, you must be certain that the recipient of your message or card is going
 <li>Get well cards are great at keeping you from having to shake hands or hug a sick person. That's why you are getting a card from me.</li>
 <li>Lying in bed for days on end gives you the chance to reflect on what's important in life.. not to mention count little cracks in the ceilin.g</li>
 <li>Getting back to health is easy enough.. it's getting back to work that's tough! Get well soon.</li>
+<li>If all the doctors are as hot as yours, I'd choose to be sick every day!</li>
 <li>Feel better! But in the meantime, keep a safe distance please.</li>
 <li>Here's hoping your recovery from surgery goes down as smoothly as the painkillers and comfort food will</li>
 </ul>
