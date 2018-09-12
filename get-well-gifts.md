@@ -12,7 +12,11 @@ published: true
 ---
 
 <p>
-Stuff here
+Sending get well flowers when someone is ill or injured is the most common way to show you're thinking of them. Flowers are beautiful and can help to improve the mood of the recipient. They're bright and fresh, making any room they're in seem a more alive and vibrant. They also often lift the spirits of whoever receives them. 
+</p>
+
+<p>
+So if you're looking for the perfect bouquet of flowers for a sick friend or relative try our favourite get well flowers below.  
 </p>
 
 <div class="product-cta-box">
@@ -25,13 +29,4 @@ Stuff here
 </div>
 </div>
  
-<div class="product-cta-box">
-<img src="/img/get-well-flowers.png" />
-<div class="product-cta-heading">
-<a href="https://www.amazon.com"> More Get Well Flower Bouquet</a>
-</div>
-<p>More flowers etc.</p>
-<a href="https://www.amazon.com">
-<div class="product-cta-button-centre">
-<button type="button" class="product-cta-button">Buy Flowers</button>
-</div>
+ 
