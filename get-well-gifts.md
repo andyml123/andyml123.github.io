@@ -16,11 +16,15 @@ Stuff here
 </p>
 
 <div class="product-cta-box">
-<img src="'/img/get-well-flowers.png">
+<img src="/img/get-well-flowers.png" />
 <div class="product-cta-heading">
 <a href="https://www.amazon.com"> Get Well Flower Bouquet</a>
 </div>
 <p>Lovely flowers etc.</p>
-<a href="https://www.amazon.com"><div class="product-cta-button-centre"><button type="button" class="product-cta-button">Buy</button></a>
+
+<a href="https://www.amazon.com">
+<div class="product-cta-button-centre">
+<button type="button" class="product-cta-button">Buy</button>
+    </a>
 </div>
 </div>
