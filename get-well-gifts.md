@@ -8,6 +8,7 @@ image: /img/get-well-gifts.png
 tags: 'get well gifts, get well soon gifts, gifts'
 categories:
   - gifts
+  - navbottom
 published: true
 ---
 
