@@ -49,26 +49,20 @@ If you aren't sure what to write in a pet get well card then take a look at the 
 <li>I can just picture _____'s sad little face whilst he/she recovers from her illness. Make sure to give him/her a big squeeze from me</li>
 <li>I hope that doggoned injury heals quickly!</li>
 <li>Wishing the quickest of recovery for your baby pup.</li>
-<li></li>
 </ul>
 
 
 <h2>Get Well Messages for a Cat</h2>
 
 <ul class="heart">
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>I wouldn't worry about _____ - remember, cats have nine lives!</li>
+<li>Cats always land on their feet and no doubt bounce back from illness in the same way</li>
+<li>Did your little kittie need a CAT- scan? Only kidding! Hope she gets better soon</li>
+<li>It almost seems like all cats are injured. That's why they say "Me-Ow."</li>
+<li>Give your kittie lots of love and affection and she'll be out catching mice again in no time</li>
+<li>I hope _____ makes a full recovery and is feeling much better very soon</li>
+<li>Cats are fighters. That's why they come with claws, fast reflexes, and sharp teeth. I hope your cat fights through this with feline frenzy!</li>
+<li>Cats may act aloof but during illness they need as much care as any other pet. Give her/him lots of strokes and treats from me!</li>
+<li>A bit of your loving care and I'm certain little _____ will be feeling purr-felt again real soon</li>
 </ul>
+
