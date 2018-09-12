@@ -66,3 +66,14 @@ If you aren't sure what to write in a pet get well card then take a look at the 
 <li>A bit of your loving care and I'm certain little _____ will be feeling purr-felt again real soon</li>
 </ul>
 
+<h2>What Not to Write in a Pet Get Well Card</h2>
+
+There are a few things you will want to avoid saying in your message as it could cause offence or just be very inappropriate.
+
+<ul>
+<li><strong>He/she lived a long life</strong> - whilst this may be true in terms of the average lift expectancy of that animal, but when is any time long enough? You wouldn't say that to someone about their wife/husband/dad/mom etc. if they were ill, even if they'd lived to 100! You always want more time and whilst a pet having lived a long and good life is welcomed, them being ill isn't the time to bring that up.</li>
+<li><strong>You can always replace them</strong> - saying that a beloved pet could be replaced with just a click of the fingers is deeply insulting. Pets are incredibly special and the bond that is formed with their owners is as strong as with members of their family. So suggesting they could just go and get another one would be extremely offensive.</li>
+<li><strong>Are you going to put him/her down?</strong> - in fact any talk of putting them down or to sleep is very inappropriate. An owner will cling on to any hope they're beloved pet will recover. Avoid mentioning anything like this.</li>
+<li><strong>Don't compare their illness with your pets</strong> - you may feel like your helping or empathising but unless it could be beneficial in the treatment of their sick pet then it's best avoid any comparisons. It can seem like your trying to take attention away from their situation.</li>
+<li><strong>Nothing</strong> - don't be silent. It doesn't take much effort to reach out and offer some support. Even a few words saying you hope they recover or feel better is going to be appreciated.</li>
+</ul>
