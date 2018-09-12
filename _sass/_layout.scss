@@ -635,3 +635,56 @@ height: 100px;
 text-align:center;
 display:block;
 }
+
+/**
+* CTA's
+*/
+
+.product-cta-heading {
+  font-size: 20px;
+	font-weight: bold;
+  text-align: center;
+	margin-bottom: 10px;
+}
+
+.product-cta-heading a {
+	
+}
+
+.product-cta-button {
+	display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 18px;
+	font-weight: bold;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.product-cta-button-centre {
+	text-align:center;
+  margin:auto;
+}
+
+.product-cta-box {
+	border-style: solid;
+	border-width: 0px;
+  border-color: #D3D3D3;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 20px 20px 20px 20px;
+	margin-bottom: 20px;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+.product-cta-box img {
+	margin-bottom:20px;
+	margin-left:auto;
+	margin-right:auto;
+}
