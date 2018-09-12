@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get Well Jokes: 42 Hilarious Health Jokes
+title: 'Get Well Jokes: 42 Hilarious Health Jokes & One Liners'
 title2: Get Well Jokes
 description:
 permalink: /get-well-jokes/
