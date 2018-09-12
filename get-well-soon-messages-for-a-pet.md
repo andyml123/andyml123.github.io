@@ -40,20 +40,15 @@ If you aren't sure what to write in a pet get well card then take a look at the 
 <h2>Get Well Messages for a Dog</h2>
 
 <ul class="heart">
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Can you translate into dog? If so wish _____ a speedy recovery from me.</li>
+<li>Hoping _____ gets better soon and give him/her an extra long petting for me!</li>
+<li>'Bark bark bark!' - roughly translated: get well soon!</li>
+<li>I'm sure little _____ will be wagging his/her tail again in no time </li>
+<li>A bit of rest and recuperation and you can let _____ get back to the important things: like chasing sticks and digging up your garden!</li>
+<li>Give your furry friend lots of love and attention while she/he's getting well</li>
+<li>I can just picture _____'s sad little face whilst he/she recovers from her illness. Make sure to give him/her a big squeeze from me</li>
+<li>I hope that doggoned injury heals quickly!</li>
+<li>Wishing the quickest of recovery for your baby pup.</li>
 <li></li>
 </ul>
 
