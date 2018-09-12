@@ -19,6 +19,7 @@ Stuff here
 <img src="/img/get-well-flowers.png" />
 <div class="product-cta-heading">
 <a href="https://www.amazon.com"> Get Well Flower Bouquet</a>
+</div>
 <p>Lovely flowers etc.</p>
 <div class="product-cta-button-centre"><a href="'https://www.amazon.com"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
