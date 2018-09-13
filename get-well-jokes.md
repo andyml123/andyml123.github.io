@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Get Well Jokes: 42 Hilarious Health Jokes & One Liners'
+title: 'Get Well Jokes: 31 Hilarious Health Jokes & One Liners'
 title2: Get Well Jokes
 description: null
 permalink: /get-well-jokes/
@@ -9,6 +9,11 @@ tags: get well jokes
 categories: jokes
 published: true
 ---
+Being made to laugh or hearing something funny when you're feeling ill can be a real lift. Just that moment of the dam breaking when you've felt miserable for so long and the laughter comes almost a release. 
+
+And being ill is no fun. So whoever it is that is under the weather usually can do with a laugh to raise their spirits. That's what this list of jokes is intended to do. You can use them in a card or tell in person if you're visiting someone.
+
+These jokes and one-liners focus on medicine, doctors and medical matters in general. They're not really about getting well per se, but anyone who has been into hospital or seen a doctor regularly will 
 
 <ul>
 <li>A healthy sleep not only makes your life longer, but also shortens the workday.</li>
