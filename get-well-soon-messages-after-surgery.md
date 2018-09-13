@@ -34,6 +34,11 @@ published: true
 <li>Just a quick note to send you my best wishes after your surgery. You're so brace. I'm hoping you feel back your old self as soon as possible 
  </li>
 <li>If you need anything then we're all here for you. We know how tough this can be so don't hesitate to ask. Please get well soon</li>
+<li>Looking forward to seeing you smile again after your surgery. Get well soon!</li>
+<li>You're always in my thoughts and am so pleased to see you're getting better. Keep up the good work and you'll be back to good as new rally soon.</li>
+<li>Hoping my prayers bring you a full recovery and good health for many years to come.</li>
+<li>I care about you so much, and am wishing you all the best on your recovery from surgery</li>
+<li>Great news to hear your surgery went so well. Take care and feel better soon!</li>  
 </ul>
 
 <h2>Get Well Wishes After Heart Surgery</h2>
