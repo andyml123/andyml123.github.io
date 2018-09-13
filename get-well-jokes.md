@@ -38,5 +38,10 @@ published: true
 <li>I told my doctor I wanna stop aging, he gave me a gun!</li>
 <li>Somewhere in the world is… the world’s worst doctor… and he could be yours.</li>
 <li>I went to a doctor, and all he did is suck blood from my neck; don't go see Dr. Acula.</li>  
-
+<li>First the doctor told me the good news: I was going to have a disease named after me.</li>
+<li>If your condition seems to be getting better, it's probably your doctor getting sick.</li>
+<li>What's the Difference Between God and a Surgeon?
+God doesn’t think he's a surgeon. </li>
+<li>What Did the Man Who Swallowed a Bag of Nickels Say to the Doctor Reading His X-Ray?
+Any change?</li>
 </ul>
