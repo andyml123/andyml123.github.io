@@ -2,16 +2,18 @@
 layout: page
 title: Get Well Soon Messages after Surgery
 title2: Get Well Soon Messages after Surgery
-description:
+description: null
 image: /img/get-well-soon-messages-after-surgery.png
 permalink: /get-well-soon-messages-after-surgery/
-tags: Get Well Soon Messages after Surgery, get well surgery wishes, 
-categories: [messages]
+tags: 'Get Well Soon Messages after Surgery, get well surgery wishes,'
+categories:
+  - messages
 published: true
 ---
 
 <p>What do you write in a card for some who's just had surgery? It can be tricky. Especially after something like significant or major surgery. You want to comfort and reassure without causing any offence or saying the wrong thing. If you're struggling then follow the guide below to write the perfect get well soon message for someone that's just had surgery. Or use one of our prewritten examples in your card.
 </p>
+
 <h2>Get Well Messages for After Surgery</h2>
 
 <ul class="heart">
