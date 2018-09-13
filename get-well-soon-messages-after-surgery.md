@@ -29,7 +29,9 @@ published: true
 <li>I heard the surgery went ahead perfectly. So glad to hear that and can't wait to see you soon. All the best.</li>
 <li>If you need anything at all then I'm here for you. Just ask. Take care.</li>
 <li>It's done! You did it! We're all so proud of you. Now focus entirely on recuperating. We'll be here when you're ready for visitors</li>
-<li></li>
-<li></li>
-<li></li>
+<li>All our prayers are going out to you for a speedy recovery from your surgery. Get well soon.
+</li>
+<li>Just a quick note to send you my best wishes after your surgery. You're so brace. I'm hoping you feel back your old self as soon as possible 
+ </li>
+<li>If you need anything then we're all here for you. We know how tough this can be so don't hesitate to ask. Please get well soon</li>
 </ul>
