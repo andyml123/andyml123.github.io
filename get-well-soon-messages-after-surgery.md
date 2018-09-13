@@ -56,3 +56,14 @@ published: true
 <li>Wishing you all the best, a quick and full recovery, and many years of good health.</li>
 <li>Get your strength back after the surgery and I'll visit soon! So happy you're feeling better.</li>
 </ul>
+
+<h2>Get Well Messages for After Hip Replacement</h2>
+
+<ul class="heart">
+<li>Wishing you all the best after your hip replacement. I know surgery can be tough so rest up and you'll be good as new real soon.</li>
+<li>A hip operation is a big deal and you're doing amazingly well to get over it so quickly.</li>
+<li>Heres hoping for an extra quick recovery and you back on your feet (literally!) soon</li>
+<li>Wishing you a speedy recovery after your hip operation.</li>
+<li>My thoughts are only if you after your surgery. So glad it was a big success and you're feeling better</li>
+<li>Now you've got your new hip there will be no stopping you! </li>
+</ul>
