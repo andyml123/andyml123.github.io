@@ -20,7 +20,7 @@ So if you're looking for the perfect bouquet of flowers for a sick friend or rel
 </p>
 
 <div class="product-cta-box">
-<img src="/img/flowers/benchmark-bouquets-signature-roses-and-alstroemeria.jpeg" />
+<a href="https://www.amazon.com/gp/product/B00E3IXY62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E3IXY62&linkCode=as2&tag=getwellmessages-20&linkId=0c599cb21658f538878ca62ded887ef1"><img src="/img/flowers/benchmark-bouquets-signature-roses-and-alstroemeria.jpeg" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B00E3IXY62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E3IXY62&linkCode=as2&tag=getwellmessages-20&linkId=0c599cb21658f538878ca62ded887ef1">Benchmark Bouquets Signature Roses and Alstroemeria, With Vase</a>
 </div>
