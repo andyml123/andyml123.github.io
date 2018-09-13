@@ -38,6 +38,7 @@ published: true
 <li>You're always in my thoughts and am so pleased to see you're getting better. Keep up the good work and you'll be back to good as new rally soon.</li>
 <li>Hoping my prayers bring you a full recovery and good health for many years to come.</li>
 <li>I care about you so much, and am wishing you all the best on your recovery from surgery</li>
+<li>I know surgery is rubbish but look on the bright side - everyone has to pamper and look after you! So ours not all bad. Get better soon!</li>  
 <li>Great news to hear your surgery went so well. Take care and feel better soon!</li>  
 </ul>
 
