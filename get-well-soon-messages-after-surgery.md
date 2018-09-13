@@ -78,3 +78,15 @@ published: true
 <li>I'll be coming round to visit soon but until then I'll be thinking of you as you get better</li>
 <li>I know how much you like flowers so here's a bouquet to help cheer you up! Feel better soon</li>
 </ul>
+
+<h2>What to think about when Writing a Get well Card</h2>
+
+There are a few things to consider when writing your own get well message for someone having gone through surgery:
+
+<ul>
+<li>Stay positive. Surgery is frightening, including the recovery period, so use encouraging words and aim to keep their spirits up.</li>
+<li>Offer support. If you can then being there for them will be greatly appreciated. Even if it's the smallest gesture it could help.</li>
+<li>Be mindful of their situation. Try to keep in mind they're recovering from a major surgery and so be careful with your words.</li>
+<li>Make it clear in your message how much you care for and think about them. When you're feeling vulnerable, like after surgery, knowing your friends or family are their for you is more important than usual. </li>
+</ul>
+
