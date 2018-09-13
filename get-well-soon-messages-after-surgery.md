@@ -51,7 +51,7 @@ published: true
 
 <ul class="heart">
 <li>I know how terrifying the 'Big C' is so I was elated to hear you're surgery had gone so well. Looking forward to you being up and about soon.</li>
-<li>Sending you positive thoughts and prayers of strength for your recovery from cancer./li>
+<li>Sending you positive thoughts and prayers of strength for your recovery from cancer.</li>
 <li>Looking forward to seeing you again after your recent cancer surgery. Hope you feel much better very soon.</li>
 <li>Wishing you all the best, a quick and full recovery, and many years of good health.</li>
 <li>Get your strength back after the surgery and I'll visit soon! So happy you're feeling better.</li>
