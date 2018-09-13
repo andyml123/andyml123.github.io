@@ -29,6 +29,14 @@ published: true
 <li>Don't worry about your heart, it will last you as long as you live.</li>
 <li>Diagnosis: A physician's forecast of the disease by the patient's pulse and purse.</li>
 <li>My health is good; it’s my age that’s bad.</li>  
-
+<li>I'd hate to be a giraffe with a sore throat.</li>
+<li>A hospital bed is a parked taxi with the meter running.</li>
+<li>The doctor demands his fees whether he has killed the illness or the patient.</li>
+<li>Laughter is the best medicine – unless you're diabetic, then insulin comes pretty high on the list.</li>
+<li>A man walked into the doctor’s; he said, ‘I’ve hurt my arm in several places.' … The doctor said, ‘well don’t go there any more.'</li>
+<li>When a doctor makes a mistake, it's best to bury the subject.</li>
+<li>I told my doctor I wanna stop aging, he gave me a gun!</li>
+<li>Somewhere in the world is… the world’s worst doctor… and he could be yours.</li>
+<li>I went to a doctor, and all he did is suck blood from my neck; don't go see Dr. Acula.</li>  
 
 </ul>
