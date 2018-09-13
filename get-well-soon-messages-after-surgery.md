@@ -67,3 +67,14 @@ published: true
 <li>My thoughts are only if you after your surgery. So glad it was a big success and you're feeling better</li>
 <li>Now you've got your new hip there will be no stopping you! </li>
 </ul>
+
+<h2>Get Well Messages for After Knee Surgery</h2>
+
+<ul class="heart">
+<li>We often take our bodies for granted, and put too much strain on them. So it's great news to hear your knee surgery was so successful. Rest up and you'll be back on it in no time</li>
+<li>Here's a little note wishing you a fast and simple recovery from your surgery.</li>
+<li>If you need any help then just ask. We're here for you as you get better and break in that new knee!</li>
+<li>I'm sure as each day passes your strength will grow and you'll start to feel like yourself again. Get well soon</li>
+<li>I'll be coming round to visit soon but until then I'll be thinking of you as you get better</li>
+<li>I know how much you like flowers so here's a bouquet to help cheer you up! Feel better soon</li>
+</ul>
