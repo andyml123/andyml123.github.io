@@ -28,7 +28,8 @@ So if you're looking for the perfect bouquet of flowers for a sick friend or rel
 <ul>
 <li>Flowers are shipped in bud form for optimal vase life; blooms will open in 2-3 days, as shown in product photo.</li>
 <li>Free overnight shipping to ensure freshness. There are no Saturday, Sunday or Monday deliveries.</li>
-<li>Option to include a personsl gift note</li>
+<li>Option to include a personal gift note</li>
+</ul>
 <div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B00E3IXY62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E3IXY62&linkCode=as2&tag=getwellmessages-20&linkId=0c599cb21658f538878ca62ded887ef1"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
   
