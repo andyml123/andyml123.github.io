@@ -35,3 +35,14 @@ published: true
  </li>
 <li>If you need anything then we're all here for you. We know how tough this can be so don't hesitate to ask. Please get well soon</li>
 </ul>
+
+<h2>Get Well Messages for After Heart Surgery</h2>
+
+<ul class="heart">
+<li>I was delighted to hear the heart surgery was a complete success. Wishing you a simple and complete recovery. Get better soon!</li>
+<li>Have some wishes from me to you to feel much better soon!</li>
+<li>Now you're through your heart surgery here's to many years of tip top health!</li>
+<li>It was such a relief to hear your surgery was successful. You mean the world to me and I'm beyond happy to know you're on the mend.</li>
+<li>Everyone is thinking of you and wishing you a fast and full recovery from your surgery.</li>
+<li>I want you to promise me you'll get better soon, ok? Your hearts fixed so don't go breaking mine.</li>
+</ul>
