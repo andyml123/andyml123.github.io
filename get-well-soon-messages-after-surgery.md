@@ -36,7 +36,7 @@ published: true
 <li>If you need anything then we're all here for you. We know how tough this can be so don't hesitate to ask. Please get well soon</li>
 </ul>
 
-<h2>Get Well Messages for After Heart Surgery</h2>
+<h2>Get Well Wishes After Heart Surgery</h2>
 
 <ul class="heart">
 <li>I was delighted to hear the heart surgery was a complete success. Wishing you a simple and complete recovery. Get better soon!</li>
@@ -68,7 +68,7 @@ published: true
 <li>Now you've got your new hip there will be no stopping you! </li>
 </ul>
 
-<h2>Get Well Messages for After Knee Surgery</h2>
+<h2>Get Well Wishes After Knee Surgery</h2>
 
 <ul class="heart">
 <li>We often take our bodies for granted, and put too much strain on them. So it's great news to hear your knee surgery was so successful. Rest up and you'll be back on it in no time</li>
