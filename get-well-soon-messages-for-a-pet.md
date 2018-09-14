@@ -37,6 +37,16 @@ If you aren't sure what to write in a pet get well card then take a look at the 
 <li>Something as cute and innocent as _____ shouldn't get sick! It just doesn't seem right</li>
 </ul>
 
+<div class="row">
+<div class="column">
+<img src="/img/get-well-soon-messages-for-a-pet-1.png" class="center-image" alt="get well soon message for dog sick unwell blanket" />
+</div>
+<div class="column">
+<img src="/img/get-well-soon-messages-for-a-pet-2.png" class="center-image" alt="get well soon message dog sad ill" />
+</div>
+</div>
+<hr>
+
 <h2>Get Well Messages for a Dog</h2>
 
 <ul class="heart">
