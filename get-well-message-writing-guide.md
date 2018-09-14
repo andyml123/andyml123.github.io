@@ -6,7 +6,7 @@ description:
 permalink: /get-well-message-writing-guide/
 image: img/get-well-message-writing-guide.png
 tags: get well messages, what to write in a get well card
-categories: [bottom-nav]
+categories: [navbottom]
 published: true
 ---
 
