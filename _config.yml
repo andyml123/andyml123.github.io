@@ -1,8 +1,8 @@
 # Site settings
-title: Get Well Messages
+title: Get Well Messages: What to Write in a Get Well Card
 email: hello@getwellmessages.net
 description: > # this means to ignore newlines until "baseurl:"
-  A Crotchey Blog.
+  If you're struggling with what to say in a get well card our range of messages, quotes, poems and more will help you write the best get well message.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://getwellmessages.net" # the base hostname & protocol for your site
 twitter_username: getwellmessages
