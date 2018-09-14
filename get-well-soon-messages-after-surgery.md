@@ -42,6 +42,16 @@ published: true
 <li>Great news to hear your surgery went so well. Take care and feel better soon!</li>  
 </ul>
 
+<div class="row">
+<div class="column">
+<img src="/img/get-well-soon-messages-after-surgery-1.png" class="center-image" alt="get well soon message after surgery stethoscope" />
+</div>
+<div class="column">
+<img src="/img/get-well-soon-messages-after-surgery-2.png" class="center-image" alt="soup get well soon message" />
+</div>
+</div>
+<hr>
+
 <h2>Get Well Wishes After Heart Surgery</h2>
 
 <ul class="heart">
@@ -95,4 +105,3 @@ There are a few things to consider when writing your own get well message for so
 <li>Be mindful of their situation. Try to keep in mind they're recovering from a major surgery and so be careful with your words.</li>
 <li>Make it clear in your message how much you care for and think about them. When you're feeling vulnerable, like after surgery, knowing your friends or family are their for you is more important than usual. </li>
 </ul>
-
