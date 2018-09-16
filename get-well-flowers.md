@@ -113,7 +113,7 @@ Nothing says "get well soon"; like a big, bright bunch of 24 of the finest long 
 
 
 <div class="product-cta-box">
-<a href="https://www.amazon.com/gp/product/B00B2PN1E4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B2PN1E4&linkCode=as2&tag=getwellmessages-20&linkId=c325032eae885745aafc45c913184783"><img src="/img/flowers/bright-colorful-tulips.jpeg" /></a>
+<a href="https://www.amazon.com/gp/product/B00B2PN1E4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B2PN1E4&linkCode=as2&tag=getwellmessages-20&linkId=c325032eae885745aafc45c913184783"><img src="/img/flowers/long-stem-roses.jpeg" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B00B2PN1E4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B2PN1E4&linkCode=as2&tag=getwellmessages-20&linkId=c325032eae885745aafc45c913184783">50 Red Roses - Real Long Stem Flowers</a>
 </div>
