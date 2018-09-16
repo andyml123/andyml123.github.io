@@ -137,15 +137,21 @@ A box contains 2 bouquets of 25 roses each. Roses are 16"- 18" inches long.  Shi
 
 
 <div class="product-cta-box">
-<a href=""><img src="/img/flowers/bright-colorful-tulips.jpeg" /></a>
+<a href="https://www.amazon.com/gp/product/B00H32IEW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H32IEW4&linkCode=as2&tag=getwellmessages-20&linkId=eb923d3651019bf648ec45c3a3363bad"><img src="/img/flowers/benchmaek-big-blooms.jpeg" /></a>
 <div class="product-cta-heading">
-<a href="">The Happy Bouquet - Bright And Colorful Tulips With Vase - Farm Fresh</a>
+<a href="https://www.amazon.com/gp/product/B00H32IEW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H32IEW4&linkCode=as2&tag=getwellmessages-20&linkId=eb923d3651019bf648ec45c3a3363bad">Benchmark Bouquets Big Blooms, With Vase</a>
 </div>
 <p>
-  
-  </p>
+Send lasting joy with these sensational Big Blooms! Featuring a colorful mix of roses, paired with vibrant stargazer lilies. This Big Blooms bouquet is an ideal gift for a friend or loved one who deserves something special.  
+</p>
 
-<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+<ul>
+<li>18 stems = 16 Rainbow Roses (4 Colors) / 2 Oriental Lilies (Pink or White)</li>
+<li>Flowers are shipped in bud form for optimal vase life; blooms will open in 2-3 days</li>
+<li>Option to include a personal mote with the flowers.</li>
+</ul>
+
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B00H32IEW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H32IEW4&linkCode=as2&tag=getwellmessages-20&linkId=eb923d3651019bf648ec45c3a3363bad"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
   
 </div>
