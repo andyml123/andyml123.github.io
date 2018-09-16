@@ -2,7 +2,9 @@
 layout: page
 title: 'Get Well Flowers: Best Bouquets to Cheer Someone Up'
 title2: Get Well Flowers
-description: Send a lovely bouquet of flowers to someone sick or injured and cheer them up whilst they recover  
+description: >-
+  Send a lovely bouquet of flowers to someone sick or injured and cheer them up
+  whilst they recover
 permalink: /get-well-flowers/
 image: /get-well-flowers.png
 tags: 'flowers, get well flowers, get well soon flowers'
@@ -20,7 +22,7 @@ So if you're looking for the perfect bouquet of flowers for a sick friend or rel
 </p>
 
 <div class="product-cta-box">
-<a href="https://www.amazon.com/gp/product/B00E3IXY62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E3IXY62&linkCode=as2&tag=getwellmessages-20&linkId=0c599cb21658f538878ca62ded887ef1"><img src="/img/flowers/benchmark-bouquets-signature-roses-and-alstroemeria.jpeg" /></a>
+<a href="https://www.amazon.com/gp/product/B00E3IXY62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E3IXY62&linkCode=as2&tag=getwellmessages-20&linkId=0c599cb21658f538878ca62ded887ef1"><img src="/img/flowers/benchmark-bouquets-signature-roses-and-alstroemeria.jpeg" alt="benchmark roses and alstromeria flower bouquet"/></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B00E3IXY62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E3IXY62&linkCode=as2&tag=getwellmessages-20&linkId=0c599cb21658f538878ca62ded887ef1">Benchmark Bouquets Signature Roses and Alstroemeria, With Vase</a>
 </div>
@@ -37,7 +39,7 @@ So if you're looking for the perfect bouquet of flowers for a sick friend or rel
 
 
 <div class="product-cta-box">
-<a href="https://www.amazon.com/gp/product/B00WT1O8AG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WT1O8AG&linkCode=as2&tag=getwellmessages-20&linkId=26d33d7896ec7325cc9bfe7a449f0ccb"><img src="/img/flowers/one-dozen-rainbow-roses.jpeg" /></a>
+<a href="https://www.amazon.com/gp/product/B00WT1O8AG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WT1O8AG&linkCode=as2&tag=getwellmessages-20&linkId=26d33d7896ec7325cc9bfe7a449f0ccb"><img src="/img/flowers/one-dozen-rainbow-roses.jpeg" alt="dozen rainbow roses" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B00WT1O8AG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WT1O8AG&linkCode=as2&tag=getwellmessages-20&linkId=26d33d7896ec7325cc9bfe7a449f0ccb">One Dozen Rainbow Roses</a>
 </div>
@@ -56,7 +58,7 @@ So if you're looking for the perfect bouquet of flowers for a sick friend or rel
 
 
 <div class="product-cta-box">
-<a href="https://www.amazon.com/gp/product/B071KCZRX9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071KCZRX9&linkCode=as2&tag=getwellmessages-20&linkId=b4a159bd4b2567c6931dffa60259a043"><img src="/img/flowers/bright-colorful-tulips.jpeg" /></a>
+<a href="https://www.amazon.com/gp/product/B071KCZRX9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071KCZRX9&linkCode=as2&tag=getwellmessages-20&linkId=b4a159bd4b2567c6931dffa60259a043"><img src="/img/flowers/bright-colorful-tulips.jpeg" alt="happy bouquet bright colorful tulips"/></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B071KCZRX9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071KCZRX9&linkCode=as2&tag=getwellmessages-20&linkId=b4a159bd4b2567c6931dffa60259a043">The Happy Bouquet - Bright And Colorful Tulips With Vase - Farm Fresh</a>
 </div>
@@ -71,7 +73,7 @@ So if you're looking for the perfect bouquet of flowers for a sick friend or rel
 
 
 <div class="product-cta-box">
-<a href="https://www.amazon.com/gp/product/B00HXCQ3OA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HXCQ3OA&linkCode=as2&tag=getwellmessages-20&linkId=684bac4f2a68619b31090b92026c3e4e"><img src="/img/flowers/pink-deluxe-frills-flowers.jpeg" /></a>
+<a href="https://www.amazon.com/gp/product/B00HXCQ3OA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HXCQ3OA&linkCode=as2&tag=getwellmessages-20&linkId=684bac4f2a68619b31090b92026c3e4e"><img src="/img/flowers/pink-deluxe-frills-flowers.jpeg" alt="pink deluxe all the frills flowers with vase" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B00HXCQ3OA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HXCQ3OA&linkCode=as2&tag=getwellmessages-20&linkId=684bac4f2a68619b31090b92026c3e4e">Pink Deluxe All the Frills w/Free Clear Vase</a>
 </div>
@@ -91,7 +93,7 @@ Deluxe All the Frills is feminine and full of color. This sophisticated combinat
 
 
 <div class="product-cta-box">
-<a href="https://www.amazon.com/gp/product/B00KWX50BE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KWX50BE&linkCode=as2&tag=getwellmessages-20&linkId=3cc9d3d49e9eb5c158f9831a3532629b"><img src="/img/flowers/benchmark-rainbow-roses.jpeg" /></a>
+<a href="https://www.amazon.com/gp/product/B00KWX50BE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KWX50BE&linkCode=as2&tag=getwellmessages-20&linkId=3cc9d3d49e9eb5c158f9831a3532629b"><img src="/img/flowers/benchmark-rainbow-roses.jpeg" alt="benchmark rainbow roses" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B00KWX50BE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KWX50BE&linkCode=as2&tag=getwellmessages-20&linkId=3cc9d3d49e9eb5c158f9831a3532629b">Benchmark Bouquets 2 Dozen Rainbow Roses, With Vase</a>
 </div>
@@ -113,7 +115,7 @@ Nothing says "get well soon"; like a big, bright bunch of 24 of the finest long 
 
 
 <div class="product-cta-box">
-<a href="https://www.amazon.com/gp/product/B00B2PN1E4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B2PN1E4&linkCode=as2&tag=getwellmessages-20&linkId=c325032eae885745aafc45c913184783"><img src="/img/flowers/long-stem-roses.jpeg" /></a>
+<a href="https://www.amazon.com/gp/product/B00B2PN1E4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B2PN1E4&linkCode=as2&tag=getwellmessages-20&linkId=c325032eae885745aafc45c913184783"><img src="/img/flowers/long-stem-roses.jpeg" alt="50 red long stem roses" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B00B2PN1E4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B2PN1E4&linkCode=as2&tag=getwellmessages-20&linkId=c325032eae885745aafc45c913184783">50 Red Roses - Real Long Stem Flowers</a>
 </div>
@@ -137,7 +139,7 @@ A box contains 2 bouquets of 25 roses each. Roses are 16"- 18" inches long.  Shi
 
 
 <div class="product-cta-box">
-<a href="https://www.amazon.com/gp/product/B00H32IEW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H32IEW4&linkCode=as2&tag=getwellmessages-20&linkId=eb923d3651019bf648ec45c3a3363bad"><img src="/img/flowers/benchmark-big-blooms.jpeg" /></a>
+<a href="https://www.amazon.com/gp/product/B00H32IEW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H32IEW4&linkCode=as2&tag=getwellmessages-20&linkId=eb923d3651019bf648ec45c3a3363bad"><img src="/img/flowers/benchmark-big-blooms.jpeg" alt="benchmark big blooms bouquet and vase" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B00H32IEW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H32IEW4&linkCode=as2&tag=getwellmessages-20&linkId=eb923d3651019bf648ec45c3a3363bad">Benchmark Bouquets Big Blooms, With Vase</a>
 </div>
@@ -159,7 +161,7 @@ Send lasting joy with these sensational Big Blooms! Featuring a colorful mix of 
 
 
 <div class="product-cta-box">
-<a href="https://www.amazon.com/gp/product/B00EUD6GLA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EUD6GLA&linkCode=as2&tag=getwellmessages-20&linkId=b32e6dfcbe5217d62a87510b67f816e4"><img src="/img/flowers/smiles-and-sunshine-flowers.jpeg" /></a>
+<a href="https://www.amazon.com/gp/product/B00EUD6GLA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EUD6GLA&linkCode=as2&tag=getwellmessages-20&linkId=b32e6dfcbe5217d62a87510b67f816e4"><img src="/img/flowers/smiles-and-sunshine-flowers.jpeg" alt="multi colored smiles and sunshine flowers with clear vase" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B00EUD6GLA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EUD6GLA&linkCode=as2&tag=getwellmessages-20&linkId=b32e6dfcbe5217d62a87510b67f816e4">Multi-Colored Smiles and Sunshine w/Free Clear Vase</a>
 </div>
@@ -177,7 +179,7 @@ Send a sunny splash of color and brighten their day with this vibrant bouquet of
 
 
 <div class="product-cta-box">
-<a href="https://www.amazon.com/gp/product/B0013I44GO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0013I44GO&linkCode=as2&tag=getwellmessages-20&linkId=77c8332771bb5a1bd6cc1b09e4f377bd"><img src="/img/flowers/100-peruvian-blooms.jpeg" /></a>
+<a href="https://www.amazon.com/gp/product/B0013I44GO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0013I44GO&linkCode=as2&tag=getwellmessages-20&linkId=77c8332771bb5a1bd6cc1b09e4f377bd"><img src="/img/flowers/100-peruvian-blooms.jpeg"alt="multi colored 100 peruvian lillies with clear vase" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B0013I44GO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0013I44GO&linkCode=as2&tag=getwellmessages-20&linkId=77c8332771bb5a1bd6cc1b09e4f377bd">Multi-Colored 100 Blooms of Peruvian Lilies w/Free Clear Vase</a>
 </div>
