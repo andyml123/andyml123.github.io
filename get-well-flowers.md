@@ -55,6 +55,24 @@ So if you're looking for the perfect bouquet of flowers for a sick friend or rel
 </div>
 
 
+<div class="product-cta-box">
+<a href="https://www.amazon.com/gp/product/B071KCZRX9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071KCZRX9&linkCode=as2&tag=getwellmessages-20&linkId=b4a159bd4b2567c6931dffa60259a043"><img src="/img/flowers/bright-colorful-tulips.jpeg" /></a>
+<div class="product-cta-heading">
+<a href="https://www.amazon.com/gp/product/B071KCZRX9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071KCZRX9&linkCode=as2&tag=getwellmessages-20&linkId=b4a159bd4b2567c6931dffa60259a043">The Happy Bouquet - Bright And Colorful Tulips With Vase - Farm Fresh</a>
+</div>
+<p>Very pretty dozen rainbow roses. Arrangement includes: 12 fresh roses in various colors + free glass vase.</p>
+
+<ul>
+<li>Flowers are delivered arranged, wrapped and secured in vase. Blooms may take 2-3 days to open up, as shown in product photo. Flower Freshness Guaranteed</li>
+<li>Gift card message can be included</li>
+<li>Upon arrival, remove flowers from wrap and replace in vase with fresh water including flower food packet.</li>
+<li>One business day for processing. Overnight shipping to ensure freshness. No deliveries on Saturday, Sunday or Monday.</li>
+</ul>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B071KCZRX9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071KCZRX9&linkCode=as2&tag=getwellmessages-20&linkId=b4a159bd4b2567c6931dffa60259a043"><button type="button" class="product-cta-button">Buy</button></a>
+</div>
+  
+</div>
+
 
 
 
