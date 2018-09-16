@@ -2,7 +2,7 @@
 layout: page
 title: Get Well Soon Messages after Surgery
 title2: Get Well Soon Messages after Surgery
-description: null
+description: Use these examples to get the best get well messages for someone who has had surgery and is recovering
 image: /img/get-well-soon-messages-after-surgery.png
 permalink: /get-well-soon-messages-after-surgery/
 tags: 'Get Well Soon Messages after Surgery, get well surgery wishes,'
