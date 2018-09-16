@@ -159,9 +159,9 @@ Send lasting joy with these sensational Big Blooms! Featuring a colorful mix of 
 
 
 <div class="product-cta-box">
-<a href=""><img src="/img/flowers/bright-colorful-tulips.jpeg" /></a>
+<a href="https://www.amazon.com/gp/product/B00EUD6GLA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EUD6GLA&linkCode=as2&tag=getwellmessages-20&linkId=b32e6dfcbe5217d62a87510b67f816e4"><img src="/img/flowers/bright-colorful-tulips.jpeg" /></a>
 <div class="product-cta-heading">
-<a href="">Multi-Colored Smiles and Sunshine w/Free Clear Vase</a>
+<a href="https://www.amazon.com/gp/product/B00EUD6GLA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EUD6GLA&linkCode=as2&tag=getwellmessages-20&linkId=b32e6dfcbe5217d62a87510b67f816e4">Multi-Colored Smiles and Sunshine w/Free Clear Vase</a>
 </div>
 <p>
 Send a sunny splash of color and brighten their day with this vibrant bouquet of 10 Peruvian lilies, mixed with 6 multi-colored roses. Symbolic of friendship and devotion, each stem of Peruvian lily has multiple blooms and is sure to warm their heart.</p>
@@ -169,7 +169,7 @@ Send a sunny splash of color and brighten their day with this vibrant bouquet of
 <p>6 Assorted roses, 10 Assorted Peruvian lilies (multiple blooms per stem). Stands approximately 16" tall. Ships in custom packaging and gift box.  
 </p>
 
-<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B00EUD6GLA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EUD6GLA&linkCode=as2&tag=getwellmessages-20&linkId=b32e6dfcbe5217d62a87510b67f816e4"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
   
 </div>
