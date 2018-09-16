@@ -20,7 +20,7 @@ A friend or loved one becoming ill can be a really tough time. Seeing someone yo
   
 <h2>Inspirational Get Well Soon Quotes</h2>
 
-Sometimes the person who is sick needs some inspiration or motivation to feel better. Having some encouraging words from someone they trust and love can help to keep them fighting and be a good reminder of how they'll overcome whatever it is theyre syffering with. So use one of the get well quotes below to inspire a loved one back to health.
+Sometimes the person who is sick needs some inspiration or motivation to feel better. Having some encouraging words from someone they trust and love can help to keep them fighting and be a good reminder of how they'll overcome whatever it is they're suffering with. So use one of the get well quotes below to inspire a loved one back to health.
 
 <ol>
 <li>“Although the world is full of suffering, it’s full also of the overcoming it.” – Helen Keller </li>
