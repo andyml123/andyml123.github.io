@@ -113,15 +113,22 @@ Nothing says "get well soon"; like a big, bright bunch of 24 of the finest long 
 
 
 <div class="product-cta-box">
-<a href=""><img src="/img/flowers/bright-colorful-tulips.jpeg" /></a>
+<a href="https://www.amazon.com/gp/product/B00B2PN1E4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B2PN1E4&linkCode=as2&tag=getwellmessages-20&linkId=c325032eae885745aafc45c913184783"><img src="/img/flowers/bright-colorful-tulips.jpeg" /></a>
 <div class="product-cta-heading">
-<a href="">The Happy Bouquet - Bright And Colorful Tulips With Vase - Farm Fresh</a>
+<a href="https://www.amazon.com/gp/product/B00B2PN1E4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B2PN1E4&linkCode=as2&tag=getwellmessages-20&linkId=c325032eae885745aafc45c913184783">50 Red Roses - Real Long Stem Flowers</a>
 </div>
 <p>
+A box contains 2 bouquets of 25 roses each. Roses are 16"- 18" inches long.  Shipped absolutely fresh, direct from the greenhouses to you via FedEx. All flowers and roses are cut specially for you, your loved one or special event, 3 days before they are delivered to your door. Color tones for all flowers and roses may vary due to the computer monitor and/or Mother Nature.  
+</p>
   
-  </p>
+<ul>
+<li>50 Red Roses | 2 bouquets of 25 stems.</li>
+<li>The stems are 16"-18" long. Number of Petals: 32-40. Vase Life: 5-9 days <li>All purchases can include a personalized message</li>
+<li>Diameter when bloomed: 3.1-4.1". Days to Bloom: 4-72 hrs</li>
+<li>Stage on arrival: Fresh Closed Bud. Guard Petals: Yes 3-4</li>
+</ul>
 
-<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B00B2PN1E4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B2PN1E4&linkCode=as2&tag=getwellmessages-20&linkId=c325032eae885745aafc45c913184783"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
   
 </div>
