@@ -8,8 +8,8 @@ description: >-
 tags: 'get well quotes, get well wishes, inspirational get well quotes, get well soon'
 image: get-well-soon-quotes.png
 permalink: /get-well-soon-quotes/
+category: [messages, navbottom]
 published: true
-category: messages
 ---
 
 <p>
