@@ -223,11 +223,11 @@ Giving life hell</p>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="" />
+     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="" />
+     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
  </div>
 </div>
 
@@ -329,11 +329,11 @@ And right now is the time to begin.</p>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/inspirational-get-well-poem-1.png" alt="" />
+     <img class="img" src="/img/inspirational-get-well-poem-1.png" alt="hang in there inspirational get well poem" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/inspirational-get-well-poem-2.png" alt="" />
+     <img class="img" src="/img/inspirational-get-well-poem-2.png" alt="think good thoughts inspirational poem" />
  </div>
 </div>
 
@@ -399,10 +399,10 @@ Packed along with love and kishes.</p>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/funny-get-well-poem-1.png" alt="" />
+     <img class="img" src="/img/funny-get-well-poem-1.png" alt="get back to work funny get well poem" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/funny-get-well-poem-2.png" alt="" />
+     <img class="img" src="/img/funny-get-well-poem-2.png" alt="all in your head funny poem" />
  </div>
 </div>
