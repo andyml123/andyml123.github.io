@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get Well Flowers
+title: 'Get Well Flowers: Best Bouquets to Cheer Someone Up'
 title2: Get Well Flowers
 description: null
 permalink: /get-well-flowers/
@@ -191,12 +191,3 @@ This abundant bouquet of alstroemeria, known as Peruvian lilies, will add vibran
 </div>
   
 </div>
-
-
-
-
-
-
-
-
-
