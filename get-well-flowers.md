@@ -161,11 +161,13 @@ Send lasting joy with these sensational Big Blooms! Featuring a colorful mix of 
 <div class="product-cta-box">
 <a href=""><img src="/img/flowers/bright-colorful-tulips.jpeg" /></a>
 <div class="product-cta-heading">
-<a href="">The Happy Bouquet - Bright And Colorful Tulips With Vase - Farm Fresh</a>
+<a href="">Multi-Colored Smiles and Sunshine w/Free Clear Vase</a>
 </div>
 <p>
+Send a sunny splash of color and brighten their day with this vibrant bouquet of 10 Peruvian lilies, mixed with 6 multi-colored roses. Symbolic of friendship and devotion, each stem of Peruvian lily has multiple blooms and is sure to warm their heart.</p>
   
-  </p>
+<p>6 Assorted roses, 10 Assorted Peruvian lilies (multiple blooms per stem). Stands approximately 16" tall. Ships in custom packaging and gift box.  
+</p>
 
 <div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
 </div>
