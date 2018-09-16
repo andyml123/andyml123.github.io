@@ -91,15 +91,21 @@ Deluxe All the Frills is feminine and full of color. This sophisticated combinat
 
 
 <div class="product-cta-box">
-<a href=""><img src="/img/flowers/bright-colorful-tulips.jpeg" /></a>
+<a href="https://www.amazon.com/gp/product/B00KWX50BE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KWX50BE&linkCode=as2&tag=getwellmessages-20&linkId=3cc9d3d49e9eb5c158f9831a3532629b"><img src="/img/flowers/benchmark-rainbow-roses.jpeg" /></a>
 <div class="product-cta-heading">
-<a href="">The Happy Bouquet - Bright And Colorful Tulips With Vase - Farm Fresh</a>
+<a href="https://www.amazon.com/gp/product/B00KWX50BE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KWX50BE&linkCode=as2&tag=getwellmessages-20&linkId=3cc9d3d49e9eb5c158f9831a3532629b">Benchmark Bouquets 2 Dozen Rainbow Roses, With Vase</a>
 </div>
 <p>
-  
-  </p>
+Nothing says "get well soon"; like a big, bright bunch of 24 of the finest long stem roses in an array of colors. Whether for cheering someone up, anniversaries or just because, you're sure to impress with this simple, yet eye-catching, colorful cluster.  
+</p>
 
-<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+<ul>
+<li>24 stems = 6 Yellow Roses / 6 Dark Pink Roses / 6 Light Pink Roses / 6 Orange Roses</li>
+<li>Flowers are shipped in bud form for optimal vase life; blooms will open in 2-3 days</li>
+<li>Option to include a personal gift note with flowers</li>  
+</ul>
+
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B00KWX50BE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KWX50BE&linkCode=as2&tag=getwellmessages-20&linkId=3cc9d3d49e9eb5c158f9831a3532629b"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
   
 </div>
