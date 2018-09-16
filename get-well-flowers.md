@@ -70,5 +70,73 @@ So if you're looking for the perfect bouquet of flowers for a sick friend or rel
 </div>
 
 
+<div class="product-cta-box">
+<a href=""><img src="/img/flowers/pink-deluxe-frills-flowers.jpeg" /></a>
+<div class="product-cta-heading">
+<a href="">Pink Deluxe All the Frills w/Free Clear Vase</a>
+</div>
+<p>
+Deluxe All the Frills is feminine and full of color. This sophisticated combination of multi-hued pink roses and pink alstroemeria are contrasted with green Fuji mums. It's the perfect gift for someone who deserves all the frills.</p>
+  
+<ul>
+<li>7 light pink roses, 5 dark pink roses, 4 pink alstroemeria (multiple blooms per stem), 3 green Anastasia mums, 3 stems of ruscus.</li>
+<li>Stands approximately 16" tall.</li>
+<li>Ships in custom packaging and gift box.</li>
+</ul>
+
+<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+</div>
+  
+</div>
+
+
+<div class="product-cta-box">
+<a href=""><img src="/img/flowers/bright-colorful-tulips.jpeg" /></a>
+<div class="product-cta-heading">
+<a href="">The Happy Bouquet - Bright And Colorful Tulips With Vase - Farm Fresh</a>
+</div>
+<p>
+  
+  </p>
+
+<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+</div>
+  
+</div>
+
+
+
+<div class="product-cta-box">
+<a href=""><img src="/img/flowers/bright-colorful-tulips.jpeg" /></a>
+<div class="product-cta-heading">
+<a href="">The Happy Bouquet - Bright And Colorful Tulips With Vase - Farm Fresh</a>
+</div>
+<p>
+  
+  </p>
+
+<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+</div>
+  
+</div>
+
+
+
+<div class="product-cta-box">
+<a href=""><img src="/img/flowers/bright-colorful-tulips.jpeg" /></a>
+<div class="product-cta-heading">
+<a href="">The Happy Bouquet - Bright And Colorful Tulips With Vase - Farm Fresh</a>
+</div>
+<p>
+  
+  </p>
+
+<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+</div>
+  
+</div>
+
+
+
 
 
