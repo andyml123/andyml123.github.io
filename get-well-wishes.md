@@ -106,7 +106,7 @@ We've put together this list of 100 get well wishes to help you get the best mes
 <ul>
 <li>Choose your words carefully, being respectful and sensitive to how the sick person is feeling is essential.</li>
 <li>Be positive. Don't focus on the negatives of their illness. Try to lift their mood and make them feel better.</li>
-<li>If you feel it's appropriate then you can use a joke or funny message. Be careful though and certain they won't take offence at this.</li>
+<li>If you feel it's appropriate then you can use a <a href="/get-well-jokes/">joke</a> or funny message. Be careful though and certain they won't take offence at this.</li>
 <li>Mention you are thinking of them. For a sick friend or family member to know they are in the thoughts of the people closest to them is a real lift.</li>
 <li>If you can - offer support. A message saying you're going to visit them, bring food, something like that. Even small chores they may need doing would be a huge help.</li>
 </ul>
