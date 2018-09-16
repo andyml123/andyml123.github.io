@@ -2,7 +2,7 @@
 layout: page
 title: Get Well Gifts
 title2: Get Well Gifts
-description: null
+description: Choose from some of these sweet and funny get well gift ideas to give to an unwell family member or friend
 permalink: /get-well-gifts/
 image: /img/get-well-gifts.png
 tags: 'get well gifts, get well soon gifts, gifts'
