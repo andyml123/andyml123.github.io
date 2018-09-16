@@ -123,7 +123,8 @@ A box contains 2 bouquets of 25 roses each. Roses are 16"- 18" inches long.  Shi
   
 <ul>
 <li>50 Red Roses | 2 bouquets of 25 stems.</li>
-<li>The stems are 16"-18" long. Number of Petals: 32-40. Vase Life: 5-9 days <li>All purchases can include a personalized message</li>
+  <li>The stems are 16"-18" long. Number of Petals: 32-40. Vase Life: 5-9 days</li>
+<li>All purchases can include a personalized message</li>
 <li>Diameter when bloomed: 3.1-4.1". Days to Bloom: 4-72 hrs</li>
 <li>Stage on arrival: Fresh Closed Bud. Guard Petals: Yes 3-4</li>
 </ul>
