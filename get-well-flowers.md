@@ -62,7 +62,7 @@ So if you're looking for the perfect bouquet of flowers for a sick friend or rel
 </div>
 <p>15 stems of brightly colored tulips with a galvanized french bucket style vase. These premium, California Grown flowers have been wrapped with care.</p>
   
-<p>This farm-fresh bouquet is a perfect gift to send some you love, as a get well gift or just because. These flowers are sustainably grown in a Rainforest Alliance Certified farm in California and are cut to order! Whether you are sending a gift to express your love, cheer up a sick friend, or just because it is Wednesday, a farm-fresh bouquet from is always sure to delight!</p>
+<p>This farm-fresh bouquet is a perfect gift to send to someone you love, as a get well gift or just because. These flowers are sustainably grown in a Rainforest Alliance Certified farm in California and are cut to order! Whether you are sending a gift to express your love, cheer up a sick friend, or just because it is Wednesday, a farm-fresh bouquet from is always sure to delight!</p>
 
 <div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B071KCZRX9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071KCZRX9&linkCode=as2&tag=getwellmessages-20&linkId=b4a159bd4b2567c6931dffa60259a043"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
