@@ -21,6 +21,8 @@ Sending get well flowers when someone is ill or injured is the most common way t
 So if you're looking for the perfect bouquet of flowers for a sick friend or relative try our favourite get well flowers below.  
 </p>
 
+<h2>Get Well Soon Flowers</h2>
+
 <div class="product-cta-box">
 <a href="https://www.amazon.com/gp/product/B00E3IXY62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E3IXY62&linkCode=as2&tag=getwellmessages-20&linkId=0c599cb21658f538878ca62ded887ef1"><img src="/img/flowers/benchmark-bouquets-signature-roses-and-alstroemeria.jpeg" alt="benchmark roses and alstromeria flower bouquet"/></a>
 <div class="product-cta-heading">
