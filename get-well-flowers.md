@@ -2,7 +2,7 @@
 layout: page
 title: 'Get Well Flowers: Best Bouquets to Cheer Someone Up'
 title2: Get Well Flowers
-description: null
+description: Send a lovely bouquet of flowers to someone sick or injured and cheer them up whilst they recover  
 permalink: /get-well-flowers/
 image: /get-well-flowers.png
 tags: 'flowers, get well flowers, get well soon flowers'
