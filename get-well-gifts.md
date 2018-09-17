@@ -32,6 +32,8 @@ Whatever type of gift you choose to get someone, having some ideas and inspirati
 
 <h2>Get Well Gifts for a Child</h2>
 
+<h2>Funny Get Well Gifts</h2>
+
 <div class="product-cta-box">
 <img src="/img/get-well-flowers-300x200.png" alt="" />
 <div class="product-cta-heading">
