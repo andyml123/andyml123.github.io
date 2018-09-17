@@ -23,7 +23,7 @@ Writing a get well card message may appear hard but doesn't have to be. In fact 
 <ul>
 <li>Who is your message for - knowing the person you're writing your message to is obviously important. It will shape the sort of tone you take. Are they a family member? Close friend? Work colleague? The better you know them the more personal your message can be. For a colleague or acquaintance a simpler message will be more suitable.</li>
 <li></li>
-<li></li>
+<li>Offering help - </li>
 <li></li>
 </ul>
 
