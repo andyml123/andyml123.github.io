@@ -23,7 +23,7 @@ Or you can get whoever is unwell a gift that can be of benefit to them whilst th
 </p>
 
 <p>
-Whatever type of gift you choose to get someone, having some ideas and inspiration to help make that decision can only help. So take a look at the get well gift ideas below and hopefully be inspired to reach out and give a little 
+Whatever type of gift you choose to get someone, having some ideas and inspiration to help make that decision can only help. So take a look at the get well gift ideas below and hopefully be inspired to reach out and give a little something to a friend or loved one that needs cheering up.
 </p>
 
 <div class="product-cta-box">
