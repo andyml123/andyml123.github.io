@@ -19,7 +19,7 @@ Whilst a card and <a href="/get-well-flowers/">flowers</a> are a lovely gesture 
 </p>
 
 <p>
-Or you can get whoever is unwell a gift that can be of benefit to them whilst they recover. Something that is useful rather than just a throwaway toy or 
+Or you can get whoever is unwell a gift that can be of benefit to them whilst they recover. Something that is useful rather than just a throwaway toy or flowers that will last just a matter of days. Finding a gift that can provide real value whilst they focus on getting better could be hugely appreciated.
 </p>
 
 <p>
