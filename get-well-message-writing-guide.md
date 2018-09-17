@@ -73,11 +73,11 @@ See more of our <a href="/get-well-soon-messages-after-surgery">after surgery me
 
 <h2>What you Shouldn't Say</h2>
 
-There are a few things to avoid touching on in your message.
+There are a few things to avoid touching on in your message:
 
 <ul>
-<li></li>
-<li></li>  
+<li>Death - this is a no brainer. Think about it, would you want to recieve a get well card that mentions death in any way? No. So you wouldn't send one like this.</li>
+<li>Religion - you can be religious in your message if you're certain the recipient has a strong faith. You can also use phrases like "you are in my prayers". Otherwise avoid anything religious. </li>  
 <li></li>
 <li></li>  
 </ul>
