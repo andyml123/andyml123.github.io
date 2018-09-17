@@ -15,7 +15,7 @@ published: true
 ---
 
 <p>
-A friend or loved one becoming ill can be a really tough time. Seeing someone you care deeply about unwell or injured is hard to handle. But they need all your support and help during their period of recovery. Making sure they know you're thinking of and are there for them is really important. A good way to do so is by sending them your best wishes. So use these get well soon quotes to show they're in your thoughts as they continue to get better.
+A friend or loved one becoming ill can be a really tough time. Seeing someone you care deeply about unwell or injured is hard to handle. But they need all your support and help during their period of recovery. Making sure they know you're thinking of and are there for them is really important. A good way to do so is by sending them your <a href="/get-well-wishes/">best wishes</a>. So use these get well soon quotes to show they're in your thoughts as they continue to get better.
 </p>
   
 <h2>Inspirational Get Well Soon Quotes</h2>
