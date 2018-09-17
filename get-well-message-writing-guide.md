@@ -78,8 +78,8 @@ There are a few things to avoid touching on in your message:
 <ul>
 <li>Death - this is a no brainer. Think about it, would you want to recieve a get well card that mentions death in any way? No. So you wouldn't send one like this.</li>
 <li>Religion - you can be religious in your message if you're certain the recipient has a strong faith. You can also use phrases like "you are in my prayers". Otherwise avoid anything religious. </li>  
-<li></li>
-<li></li>  
+<li>Negativity - encouragement and positivity should be what make up your get well message. You want to make them feel better. So nothing negative! </li>
+<li>Phrases - there are some types of phrases you shouldn't use. The likes of "God has a plan", "things happen for a reason". These could be very offensive and should definitely be avoided.</li>
 </ul>
 
 <h2>What are the Best Flowers for Saying Get Well Soon?</h2>
