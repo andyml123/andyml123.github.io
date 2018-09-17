@@ -17,7 +17,7 @@ Send your friend an inspirational and uplifting message to brighten their day. Y
 
 <h2>Get Well Soon Messages for a Friend</h2>
 
-These get well card messages can be used in most situations for a friend. Be that recovering from an illness, sickness or even an injury or surgery. They would work well in a card or get well note, especially alongside flowers. You can also use them to say in person if you visit your friend, either at home or in hospital.  
+These get well card messages can be used in most situations for a friend. Be that recovering from an illness, sickness or even an injury or surgery. They would work well in a card or get well note, especially alongside <a href="/get-well-flowers/">flowers</a>. You can also use them to say in person if you visit your friend, either at home or in hospital.  
 
 <ul class="heart">
 <li>I haven't been able to stop thinking of you since I heard you were sick. Life just isn't the same without you, get well soon!</li>
