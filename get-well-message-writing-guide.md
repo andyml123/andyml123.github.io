@@ -10,6 +10,8 @@ categories:
   - navbottom
 published: true
 ---
+Writing a get well card message may appear hard but doesn't have to be. In fact as long as you avoid writing or saying a few certain things you should be fine. This guide should help you to decide what sort of message you want to write, how to do so, what is and isn't appropriate and what to include with your card. So, let's begin!
+
 <h2>What Does Get Well Soon Mean?</h2>
 
 <p>Saying 'get well soon' is meant to convey the message of hoping someone recovers from an illness or injury. It is used to wish people a quick return to full health and often written in greetings cards or with flowers. You can also use other phrases such as 'feel better', 'feel better soon' and 'wishing you a speedy recovery' which mean the same thing.</p>
@@ -18,7 +20,12 @@ published: true
 
 <p>If you want to write your own get well message for a card then there are a few steps you can follow.</p>
 
-<p></p>
+<ul>
+<li>Who is your message for - knowing the person you're writing your message to is obviously important. It will shape the sort of tone you take. Are they a family member? Close friend? Work colleague? The better you know them the more personal your message can be. For a colleague or acquaintance a simpler message will be more suitable.</li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
 
 Some example messages:
 <ul>
@@ -63,6 +70,8 @@ These are some ways to say "Get Well Soon"
 </ul>
 
 See more of our <a href="/get-well-soon-messages-after-surgery">after surgery message examples</a>
+
+<h2>What you Shouldn't Say</h2>
 
 <h2>What are the Best Flowers for Saying Get Well Soon?</h2>
 
