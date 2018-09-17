@@ -73,6 +73,15 @@ See more of our <a href="/get-well-soon-messages-after-surgery">after surgery me
 
 <h2>What you Shouldn't Say</h2>
 
+There are a few things to avoid touching on in your message.
+
+<ul>
+<li></li>
+<li></li>  
+<li></li>
+<li></li>  
+</ul>
+
 <h2>What are the Best Flowers for Saying Get Well Soon?</h2>
 
 <p>There is no set rule for the types of flowers you should give to someone as a get well gift. However something cheerful and bright like daisies or pansies are a good choice. Vivid colours can help to brighten their day and lift their spirits. Less common options could include hydrangeas and peonies, which represent perseverance and healing respectively.
