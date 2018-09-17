@@ -26,6 +26,12 @@ Or you can get whoever is unwell a gift that can be of benefit to them whilst th
 Whatever type of gift you choose to get someone, having some ideas and inspiration to help make that decision can only help. So take a look at the get well gift ideas below and hopefully be inspired to reach out and give a little something to a friend or loved one that needs cheering up.
 </p>
 
+<h2>Get Well Gifts for Him</h2>
+
+<h2>Get Well Gifts for Her</h2>
+
+<h2>Get Well Gifts for a Child</h2>
+
 <div class="product-cta-box">
 <img src="/img/get-well-flowers-300x200.png" alt="" />
 <div class="product-cta-heading">
