@@ -12,7 +12,7 @@ categories:
   - navbottom
 published: true
 ---
-When someone you love or care about becomes ill you wish only the best for them. It can be frustrating when you feel like there isn't anything substantial you can do. You can obviously wish them a full recovery and to get better as soon as possible but sometimes this may not feel like it's enough. Something you can do though is to say a prayer for them. 
+When someone you love or care about becomes ill you wish only the best for them. It can be frustrating when you feel like there isn't anything substantial you can do. You can obviously <a href="/get-well-wishes/">wish them a full recovery</a> and to get better as soon as possible but sometimes this may not feel like it's enough. Something you can do though is to say a prayer for them. 
 
 Get well prayers help both the suffering and the person praying. As someone going through sickness or injury it can be comforting to know they are in people's thoughts and prayers. And having groups of friends or family praying for their recovery can give them strength when they need it most. The person praying gets to feel like they are offering that comfort and support. That they are being there for their friend or family member who is going through such a tough time.
 
