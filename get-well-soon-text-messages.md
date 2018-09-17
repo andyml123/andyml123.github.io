@@ -2,7 +2,9 @@
 layout: page
 title: Get Well Soon Text Messages
 title2: Get Well Soon Text Messages
-description: Send a sweet or touching SMS get well message with these example text messages for a sick friend or loved one
+description: >-
+  Send a sweet or touching SMS get well message with these example text messages
+  for a sick friend or loved one
 permalink: /get-well-soon-text-messages/
 image: img//get-well-soon-text-messages.png
 tags: 'get well text messages, get well sms'
@@ -12,7 +14,7 @@ published: true
 ---
 
 <p>
-Is it ever appropriate to send a get well soon text message? Shouldn't you send a card or visit the person to wish them well? Unfortunately many of us lead hectic lives. Sometimes a friend becomes unwell when we're at our most busy. So finding the time to visit or buy a gift and card and send it can be tricky. In this case a get well soon text message would be acceptable. At least until you have the time to send a proper gift/message.
+Is it ever appropriate to send a get well soon text message? Shouldn't you send a card or visit the person to wish them well? Unfortunately many of us lead hectic lives. Sometimes a friend becomes unwell when we're at our most busy. So finding the time to visit or buy a <a href="/get-well-gifts/">gift</a> and card and send it can be tricky. In this case a get well soon text message would be acceptable. At least until you have the time to send a proper gift/message.
 </p>
 
 <p>
