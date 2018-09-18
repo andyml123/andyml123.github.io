@@ -28,6 +28,39 @@ Whatever type of gift you choose to get someone, having some ideas and inspirati
 
 <h2>Get Well Gifts for Him</h2>
 
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B01AS47RT4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AS47RT4&linkCode=as2&tag=getwellmessages-20&linkId=b1e41d40d441f2fb09dece1be3e02e12"><img src="/img/man-meds-get-well-gift-basket.jpeg" alt="" /></a>
+<div class="product-cta-heading">
+<a href="https://www.amazon.com/gp/product/B01AS47RT4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AS47RT4&linkCode=as2&tag=getwellmessages-20&linkId=b1e41d40d441f2fb09dece1be3e02e12">Man Meds Get Well Gift Basket</a>
+</div>
+<p>Pick up his spirits with a delicious pail of sweet and salty treats brought together just for that man in your life. Offering good-humored support The Man Meds pail is the perfect cheer him. </p>
+  
+Includes:  
+<ul>
+<li>Galvanized red pail</li>
+<li>Man Meds theme bag </li>filled with Hawaiian trail mix 3 oz</li>
+<li> Sudoku puzzle book</li>
+<li>Crossword puzzle book</li>
+<li>Word search puzzle book</li>
+<li>Buttery peanut brittle 3 oz</li>
+<li>Butter toffee caramel corn</li>
+<li>Man Meds Get well mint pills</li>
+<li>Playing cards</li>
+<li>Wasabi snack mix</li>
+<li>Fruit flavored gummy Band-aids</li>
+<li>Wingman Cheddaralles hot peanuts</li>
+<li>Metal cow bell</li>
+<li>Relaxable Chill pill</li>
+</ul>
+
+<p>
+Completed measures 9\" round by 14\" tall, is wrapped in cellophane and topped with a hand tied bow. Weighs 3 pounds.  
+</p>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B01AS47RT4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AS47RT4&linkCode=as2&tag=getwellmessages-20&linkId=b1e41d40d441f2fb09dece1be3e02e12"><button type="button" class="product-cta-button">Buy</button></a>
+</div>
+</div>
+
+
+
 <h2>Get Well Gifts for Her</h2>
 
 <div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B01IPXY3DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IPXY3DS&linkCode=as2&tag=getwellmessages-20&linkId=50b887815d6077852797811c4fe2d056">
@@ -119,36 +152,7 @@ What’s in the Box:
 
 
 
-<div class="product-cta-box"><a href=""><img src="/img/man-meds-get-well-gift-basket.jpeg" alt="" /></a>
-<div class="product-cta-heading">
-<a href="">Man Meds Get Well Gift Basket</a>
-</div>
-<p>Pick up his spirits with a delicious pail of sweet and salty treats brought together just for that man in your life. Offering good-humored support The Man Meds pail is the perfect cheer him. </p>
-  
-Includes:  
-<ul>
-<li>Galvanized red pail</li>
-<li>Man Meds theme bag </li>filled with Hawaiian trail mix 3 oz</li>
-<li> Sudoku puzzle book</li>
-<li>Crossword puzzle book</li>
-<li>Word search puzzle book</li>
-<li>Buttery peanut brittle 3 oz</li>
-<li>Butter toffee caramel corn</li>
-<li>Man Meds Get well mint pills</li>
-<li>Playing cards</li>
-<li>Wasabi snack mix</li>
-<li>Fruit flavored gummy Band-aids</li>
-<li>Wingman Cheddaralles hot peanuts</li>
-<li>Metal cow bell</li>
-<li>Relaxable Chill pill</li>
-</ul>
 
-<p>
-Completed measures 9\" round by 14\" tall, is wrapped in cellophane and topped with a hand tied bow. Weighs 3 pounds.  
-</p>
-<div class="product-cta-button-centre"><a href="'"><button type="button" class="product-cta-button">Buy</button></a>
-</div>
-</div>
 
 
 <div class="product-cta-box">
