@@ -65,7 +65,21 @@ A gift to comfort and encourage hope and healing. Willow Tree angels resonate wi
 <div class="product-cta-heading">
 <a href="">Burt's Bees Classics Gift Set</a>
 </div>
-<p>Lovely flowers etc.</p>
+<p>Six favorite Burt’s Bees products in a beautiful gift tin make this a natural choice for moms, daughters and girlfriends as a Mother’s Day gift, birthday gift, anniversary gift or thank you gift. These Burt’s Bees classics make an attractive gift set for men, too.
+</p>
+  
+<p>Packed in a commemorative Burt’s Bees gift tin, the Classics gift set comes with six natural personal care products to sooth and pamper.</p>
+
+What’s in the Box:
+<ul>
+<li>Burt’s Bees Coconut Foot Cream, 4.3 ounces
+<li>Burt’s Bees Shea </li>Butter Hand Repair Cream, 3.2 ounces</li>
+<li>Tube of Burt’s Bees Beeswax Lip Balm</li>
+<li>Tin of Burt’s Bees Lemon Butter Cuticle Cream</li>
+<li>Tin of Burt’s Bees Hand Salve</li>
+<li>Tin of Burt’s Bees Res-Q Ointment</li>
+<li>6 products come packed in gift tin</li>
+</ul>
 <div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
