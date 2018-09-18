@@ -94,9 +94,9 @@ A gift to comfort and encourage hope and healing. Willow Tree angels resonate wi
 </div>
 </div>
 
-<div class="product-cta-box"><a href=""><img src="/img/burts-bees-classic-gift-set.jpeg" alt="" /></a>
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B00VK5SG46/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VK5SG46&linkCode=as2&tag=getwellmessages-20&linkId=da261550a3d406d4bad581a381fad0ce"><img src="/img/burts-bees-classic-gift-set.jpeg" alt="" /></a>
 <div class="product-cta-heading">
-<a href="">Burt's Bees Classics Gift Set</a>
+<a href="https://www.amazon.com/gp/product/B00VK5SG46/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VK5SG46&linkCode=as2&tag=getwellmessages-20&linkId=da261550a3d406d4bad581a381fad0ce">Burt's Bees Classics Gift Set</a>
 </div>
 <p>Six favorite Burt’s Bees products in a beautiful gift tin make this a natural choice for moms, daughters and girlfriends as a Mother’s Day gift, birthday gift, anniversary gift or thank you gift. These Burt’s Bees classics make an attractive gift set for men, too.
 </p>
@@ -113,7 +113,7 @@ What’s in the Box:
 <li>Tin of Burt’s Bees Res-Q Ointment</li>
 <li>6 products come packed in gift tin</li>
 </ul>
-<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B00VK5SG46/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VK5SG46&linkCode=as2&tag=getwellmessages-20&linkId=da261550a3d406d4bad581a381fad0ce"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
 
