@@ -119,12 +119,33 @@ What’s in the Box:
 
 
 
-<div class="product-cta-box">
-<img src="/img/get-well-flowers-300x200.png" alt="" />
+<div class="product-cta-box"><a href=""><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
 <div class="product-cta-heading">
-<a href=""> Get Well Flower Bouquet</a>
+<a href="">Man Meds Get Well Gift for Men</a>
 </div>
-<p>Lovely flowers etc.</p>
+<p>Pick up his spirits with a delicious pail of sweet and salty treats brought together just for that man in your life. Offering good-humored support The Man Meds pail is the perfect cheer him. </p>
+  
+Includes:  
+<ul>
+<li>Galvanized red pail</li>
+<li>Man Meds theme bag </li>filled with Hawaiian trail mix 3 oz</li>
+<li> Sudoku puzzle book</li>
+<li>Crossword puzzle book</li>
+<li>Word search puzzle book</li>
+<li>Buttery peanut brittle 3 oz</li>
+<li>Butter toffee caramel corn</li>
+<li>Man Meds Get well mint pills</li>
+<li>Playing cards</li>
+<li>Wasabi snack mix</li>
+<li>Fruit flavored gummy Band-aids</li>
+<li>Wingman Cheddaralles hot peanuts</li>
+<li>Metal cow bell</li>
+<li>Relaxable Chill pill</li>
+</ul>
+
+<p>
+Completed measures 9\" round by 14\" tall, is wrapped in cellophane and topped with a hand tied bow. Weighs 3 pounds.  
+</p>
 <div class="product-cta-button-centre"><a href="'"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
