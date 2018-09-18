@@ -161,7 +161,7 @@ You will love the fine detail award winning Bearington Collection uses to bring 
 </div>
 </div>
 
-<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B01N9X5QF4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N9X5QF4&linkCode=as2&tag=getwellmessages-20&linkId=a643e5ca0c8ac5e62719f8e2fad0632d"><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B01N9X5QF4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N9X5QF4&linkCode=as2&tag=getwellmessages-20&linkId=a643e5ca0c8ac5e62719f8e2fad0632d"><img src="/img/sherpa-plush-stuffed-animal-and-throw-blanket.jpeg" alt="" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B01N9X5QF4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N9X5QF4&linkCode=as2&tag=getwellmessages-20&linkId=a643e5ca0c8ac5e62719f8e2fad0632d">Silver One Sherpa Plush Stuffed Animal and Throw Blanket 2 Peice Gift Set for Kids/Children</a>
 </div>
