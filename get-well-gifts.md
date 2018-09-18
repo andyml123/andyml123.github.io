@@ -51,11 +51,22 @@ Whatever type of gift you choose to get someone, having some ideas and inspirati
 
 
 <div class="product-cta-box">
-<img src="/img/get-well-flowers-300x200.png" alt="" />
+<img src="/img/just-for-laughs-giggling-plush-happy-pill.jpeg" alt="" />
 <div class="product-cta-heading">
-<a href=""> Get Well Flower Bouquet</a>
+<a href="">Just For Laughs Giggling Plush Happy Pill</a>
 </div>
-<p>Lovely flowers etc.</p>
+<p>
+  
+Each happy pill "Plush" proves laughter is truly the best medicine. Use as often as needed! Squeeze each happy pill and it bursts out into uncontrollable laughter. A great stress reliever, our happy pill will put a smile on anyone’s face. A great gift for people going through sickness and tough times.
+
+Includes 1 Happy Pill
+Squeeze and plush bursts into uncontrollable laughter
+Sure to pick up your spirits. Great for the young and old!
+Batteries Included
+Color may vary, our choice please!
+
+Each pill sits approximately 6 inches tall. Ages 3+. Warning: choking hazard - small parts. Battery Included. Collect them all!
+  </p>
 <div class="product-cta-button-centre"><a href="'"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
