@@ -176,12 +176,17 @@ You will love the fine detail award winning Bearington Collection uses to bring 
 </div>
 </div>
 
-<div class="product-cta-box"><a href=""><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B00K302PEG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K302PEG&linkCode=as2&tag=getwellmessages-20&linkId=68916a7a7ba3bacdf0d993f984f6fd6b"><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
 <div class="product-cta-heading">
-<a href=""> Get Well Flower Bouquet</a>
+<a href="https://www.amazon.com/gp/product/B00K302PEG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K302PEG&linkCode=as2&tag=getwellmessages-20&linkId=68916a7a7ba3bacdf0d993f984f6fd6b">15" Plush Get Well Soon Teddy Bear w/Cast for Autograph - Speedy Recovery Gift for Hospitalized Child Adult</a>
 </div>
-<p>Lovely flowers etc.</p>
-<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+<p>Great Get Well Soon plush Bear, 15" in size. Great for Hospital patient to get all of their visitor's autographs.</p>
+<ul>
+<li>15" adorable plush Get Well Soon Teddy Bear</li>
+<li>Great gift for anyone who is under the weather</li>
+<li>Nice surprise to receive while in hospital</li>
+</ul>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B00K302PEG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K302PEG&linkCode=as2&tag=getwellmessages-20&linkId=68916a7a7ba3bacdf0d993f984f6fd6b"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
 
