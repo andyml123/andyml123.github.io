@@ -70,9 +70,9 @@ Humor strengthens the immune system, enabling the body to fight sickness and dis
 </div>
 </div>
 
-<div class="product-cta-box"><a href=""><img src="/img/get-well-activity-book.jpeg" alt="" /></a>
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B079G99N71/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B079G99N71&linkCode=as2&tag=getwellmessages-20&linkId=20ca4483d0b52bfc894a03d8f3f42abf"><img src="/img/get-well-activity-book.jpeg" alt="" /></a>
 <div class="product-cta-heading">
-<a href="">Get Well Soon Activity Book for Men</a>
+<a href="https://www.amazon.com/gp/product/B079G99N71/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B079G99N71&linkCode=as2&tag=getwellmessages-20&linkId=20ca4483d0b52bfc894a03d8f3f42abf">Get Well Soon Activity Book for Men</a>
 </div>
 <p>This Get Well Gift Set for a Man is perfect for giving someone ill or recovering. Your gift will be much more appreciated than a get well food basket because diets are often restricted during recovery.</p>
 Includes:
@@ -82,7 +82,7 @@ Includes:
 <li>Inspirational words bookmark to convey your get well wishes. Great for keeping place in books and get well book.</li>
 <li>Drawstring tote bag to hold all the gifts. The tote will be greatly appreciated to keep items neat and together. Convenient and useful for carrying to doctors office visits or while in the hospital.</li>
 </ul>
-<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B079G99N71/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B079G99N71&linkCode=as2&tag=getwellmessages-20&linkId=20ca4483d0b52bfc894a03d8f3f42abf"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
 
