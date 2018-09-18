@@ -153,7 +153,7 @@ You will love the fine detail award winning Bearington Collection uses to bring 
 <ul>
 <li>10 " tall Teddy Bear</li>
 <li>Get Well Soon message monogrammed on pink pajamas</li>
-<li>Handkerchief included
+<li>Handkerchief included</li>
 <li>Use for: Hospital Stays, Emergency Room Visits, Everyday illness, Absences from special activities due to illness</li>
 <li>Photo Props are not included</li>
 </ul>
