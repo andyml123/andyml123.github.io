@@ -30,6 +30,37 @@ Whatever type of gift you choose to get someone, having some ideas and inspirati
 
 <h2>Get Well Gifts for Her</h2>
 
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B01IPXY3DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IPXY3DS&linkCode=as2&tag=getwellmessages-20&linkId=50b887815d6077852797811c4fe2d056">
+  <img src="/img/chanasya-warm-hugs-positive-energy-blanket.jpeg" alt="" /></a>
+<div class="product-cta-heading">
+<a href="https://www.amazon.com/gp/product/B01IPXY3DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IPXY3DS&linkCode=as2&tag=getwellmessages-20&linkId=50b887815d6077852797811c4fe2d056">Chanasya Warm Hugs Positive Energy Healing Super Soft Fleece Comfort Throw Blanket</a>
+</div>
+<p>The Warm Hug Positive Energy Blanket is carefully crafted and designed for delivering the warmth of a hug, love and comfort. This blanket will be a constant reminder to someone that they are not alone and are valued and loved.</p>
+<ul>
+<li><strong>Luxurioud and Elegant:</strong> This beautiful comforting snugly blanket is designed for a luxurious feel and eleganace, its made of high grade velvet fleece and sherpa</li>
+<li><strong>Soft Thoughtful Gift:</strong> This super soft and ultra plush blanket is designed for thoughtful caring personal gift to loved ones. The intent of this blanket is not only to bring warmth but also bring smile, Joy, and feeling of love.</li>
+<li><strong>Blanke Size:</strong> 65"x50" inches, suitable for the couch, sofa and a toddler bed; fabric content : 100% microfiber polyester</li>
+</ul>
+<div class="product-cta-button-centre"><a href="'https://www.amazon.com/gp/product/B01IPXY3DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IPXY3DS&linkCode=as2&tag=getwellmessages-20&linkId=50b887815d6077852797811c4fe2d056"><button type="button" class="product-cta-button">Buy</button></a>
+</div>
+</div>
+
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B000CQYT9U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000CQYT9U&linkCode=as2&tag=getwellmessages-20&linkId=9411a55784ecbc379ee7258dcd864d69"><img src="/img/willow-tree-hand-painted-sculpted-angel-of-healing.jpeg" alt="" /></a>
+<div class="product-cta-heading">
+<a href="https://www.amazon.com/gp/product/B000CQYT9U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000CQYT9U&linkCode=as2&tag=getwellmessages-20&linkId=9411a55784ecbc379ee7258dcd864d69">Willow Tree Hand-Painted Sculpted Angel of Healing</a>
+</div>
+<p>
+A gift to comfort and encourage hope and healing. Willow Tree angels resonate with many cultures and ages of people. To some they represent protection, to some they are an outward reminder of inner peace, and to some they represent a way to remember those who have left this earth. Hand-carved figures reveal their expression through body gestures only - a tilt of the head, placement of the hands, a turn of the body. Enclosed inside each fitted packaging box is a gift-giving card with piece title and sentiment on it. Each piece is intended to be open to interpretation from the viewer. "Willow Tree isn't so much about the tangible piece. It represents an emotion or it marks a memory." -Susan Lordi
+</p>
+<ul>
+<li>Sentiment: ”For those who give comfort with caring and tenderness” written on Enclosure Card</li>
+<li>This figure communicates through gesture, to represent an emotion or mark a memory. Willow Tree sculptures express love, closeness, healing, courage, hope. Emotions of a life well lived</li>
+<li>5” hand-painted resin figure with wire wings. Packaged in fitted box ready for gift-giving</li>
+</ul>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B000CQYT9U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000CQYT9U&linkCode=as2&tag=getwellmessages-20&linkId=9411a55784ecbc379ee7258dcd864d69"><button type="button" class="product-cta-button">Buy</button></a>
+</div>
+</div>
+
 <h2>Get Well Gifts for a Child</h2>
 
 <h2>Funny Get Well Gifts</h2>
@@ -53,40 +84,13 @@ Whatever type of gift you choose to get someone, having some ideas and inspirati
 
 
 
-<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B01IPXY3DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IPXY3DS&linkCode=as2&tag=getwellmessages-20&linkId=50b887815d6077852797811c4fe2d056">
-  <img src="/img/chanasya-warm-hugs-positive-energy-blanket.jpeg" alt="" /></a>
-<div class="product-cta-heading">
-<a href="https://www.amazon.com/gp/product/B01IPXY3DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IPXY3DS&linkCode=as2&tag=getwellmessages-20&linkId=50b887815d6077852797811c4fe2d056">Chanasya Warm Hugs Positive Energy Healing Super Soft Fleece Comfort Throw Blanket</a>
-</div>
-<p>The Warm Hug Positive Energy Blanket is carefully crafted and designed for delivering the warmth of a hug, love and comfort. This blanket will be a constant reminder to someone that they are not alone and are valued and loved.</p>
-<ul>
-<li><strong>Luxurioud and Elegant:</strong> This beautiful comforting snugly blanket is designed for a luxurious feel and eleganace, its made of high grade velvet fleece and sherpa</li>
-<li><strong>Soft Thoughtful Gift:</strong> This super soft and ultra plush blanket is designed for thoughtful caring personal gift to loved ones. The intent of this blanket is not only to bring warmth but also bring smile, Joy, and feeling of love.</li>
-<li><strong>Blanke Size:</strong> 65"x50" inches, suitable for the couch, sofa and a toddler bed; fabric content : 100% microfiber polyester</li>
-</ul>
-<div class="product-cta-button-centre"><a href="'https://www.amazon.com/gp/product/B01IPXY3DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IPXY3DS&linkCode=as2&tag=getwellmessages-20&linkId=50b887815d6077852797811c4fe2d056"><button type="button" class="product-cta-button">Buy</button></a>
-</div>
-</div>
 
 
 
 
 
-<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B000CQYT9U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000CQYT9U&linkCode=as2&tag=getwellmessages-20&linkId=9411a55784ecbc379ee7258dcd864d69"><img src="/img/willow-tree-hand-painted-sculpted-angel-of-healing.jpeg" alt="" /></a>
-<div class="product-cta-heading">
-<a href="https://www.amazon.com/gp/product/B000CQYT9U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000CQYT9U&linkCode=as2&tag=getwellmessages-20&linkId=9411a55784ecbc379ee7258dcd864d69">Willow Tree Hand-Painted Sculpted Angel of Healing</a>
-</div>
-<p>
-A gift to comfort and encourage hope and healing. Willow Tree angels resonate with many cultures and ages of people. To some they represent protection, to some they are an outward reminder of inner peace, and to some they represent a way to remember those who have left this earth. Hand-carved figures reveal their expression through body gestures only - a tilt of the head, placement of the hands, a turn of the body. Enclosed inside each fitted packaging box is a gift-giving card with piece title and sentiment on it. Each piece is intended to be open to interpretation from the viewer. "Willow Tree isn't so much about the tangible piece. It represents an emotion or it marks a memory." -Susan Lordi
-</p>
-<ul>
-<li>Sentiment: ”For those who give comfort with caring and tenderness” written on Enclosure Card</li>
-<li>This figure communicates through gesture, to represent an emotion or mark a memory. Willow Tree sculptures express love, closeness, healing, courage, hope. Emotions of a life well lived</li>
-<li>5” hand-painted resin figure with wire wings. Packaged in fitted box ready for gift-giving</li>
-</ul>
-<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B000CQYT9U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000CQYT9U&linkCode=as2&tag=getwellmessages-20&linkId=9411a55784ecbc379ee7258dcd864d69"><button type="button" class="product-cta-button">Buy</button></a>
-</div>
-</div>
+
+
 
 
 <div class="product-cta-box">
