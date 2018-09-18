@@ -50,24 +50,18 @@ Whatever type of gift you choose to get someone, having some ideas and inspirati
 </div>
 
 
-<div class="product-cta-box">
-<img src="/img/just-for-laughs-giggling-plush-happy-pill.jpeg" alt="" />
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B005QNRTPA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005QNRTPA&linkCode=as2&tag=getwellmessages-20&linkId=2097b14ad8d746980335b99468377afe"><img src="/img/just-for-laughs-giggling-plush-happy-pill.jpeg" alt="" /></a>
 <div class="product-cta-heading">
-<a href="">Just For Laughs Giggling Plush Happy Pill</a>
+<a href="https://www.amazon.com/gp/product/B005QNRTPA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005QNRTPA&linkCode=as2&tag=getwellmessages-20&linkId=2097b14ad8d746980335b99468377afe">Just For Laughs Giggling Plush Happy Pill</a>
 </div>
-<p>
-  
-Each happy pill "Plush" proves laughter is truly the best medicine. Use as often as needed! Squeeze each happy pill and it bursts out into uncontrollable laughter. A great stress reliever, our happy pill will put a smile on anyone’s face. A great gift for people going through sickness and tough times.
-
-Includes 1 Happy Pill
-Squeeze and plush bursts into uncontrollable laughter
-Sure to pick up your spirits. Great for the young and old!
-Batteries Included
-Color may vary, our choice please!
-
-Each pill sits approximately 6 inches tall. Ages 3+. Warning: choking hazard - small parts. Battery Included. Collect them all!
-  </p>
-<div class="product-cta-button-centre"><a href="'"><button type="button" class="product-cta-button">Buy</button></a>
+<p>Each happy pill "Plush" proves laughter is truly the best medicine. Use as often as needed! Squeeze each happy pill and it bursts out into uncontrollable laughter. A great stress reliever, our happy pill will put a smile on anyone’s face. A great gift for people going through sickness and tough times.</p>
+<ul>
+<li>Squeeze and plush bursts into uncontrollable laughter</li>
+<li>Sure to pick up your spirits. Great for the young and old!</li>
+<li>Batteries Included</li>
+<li>Each pill sits approximately 6 inches tall. Ages 3+. Warning: choking hazard - small parts.</li>
+</ul>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B005QNRTPA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005QNRTPA&linkCode=as2&tag=getwellmessages-20&linkId=2097b14ad8d746980335b99468377afe"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
 
