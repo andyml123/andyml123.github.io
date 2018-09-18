@@ -176,7 +176,7 @@ You will love the fine detail award winning Bearington Collection uses to bring 
 </div>
 </div>
 
-<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B00K302PEG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K302PEG&linkCode=as2&tag=getwellmessages-20&linkId=68916a7a7ba3bacdf0d993f984f6fd6b"><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B00K302PEG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K302PEG&linkCode=as2&tag=getwellmessages-20&linkId=68916a7a7ba3bacdf0d993f984f6fd6b"><img src="/img/plush-get-well-soon-teddy-bear.jpeg" alt="" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B00K302PEG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K302PEG&linkCode=as2&tag=getwellmessages-20&linkId=68916a7a7ba3bacdf0d993f984f6fd6b">15" Plush Get Well Soon Teddy Bear w/Cast for Autograph - Speedy Recovery Gift for Hospitalized Child Adult</a>
 </div>
