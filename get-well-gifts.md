@@ -119,9 +119,9 @@ What’s in the Box:
 
 
 
-<div class="product-cta-box"><a href=""><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
+<div class="product-cta-box"><a href=""><img src="/img/man-meds-get-well-gift-basket.jpeg" alt="" /></a>
 <div class="product-cta-heading">
-<a href="">Man Meds Get Well Gift for Men</a>
+<a href="">Man Meds Get Well Gift Basket</a>
 </div>
 <p>Pick up his spirits with a delicious pail of sweet and salty treats brought together just for that man in your life. Offering good-humored support The Man Meds pail is the perfect cheer him. </p>
   
