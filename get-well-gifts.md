@@ -190,19 +190,19 @@ What’s in the Box:
 
 <div class="product-cta-box"><a href=""><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
 <div class="product-cta-heading">
-<a href=""> Get Well Flower Bouquet</a>
+<a href="">Maybe Swearing Will Help: Adult Coloring Book</a>
 </div>
 <p>Lovely flowers etc.</p>
 <div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
 
-<div class="product-cta-box"><a href=""><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/0996764135/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0996764135&linkCode=as2&tag=getwellmessages-20&linkId=5552f52d7763687f5f9b86066111118d"><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
 <div class="product-cta-heading">
-<a href=""> Get Well Flower Bouquet</a>
+<a href="https://www.amazon.com/gp/product/0996764135/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0996764135&linkCode=as2&tag=getwellmessages-20&linkId=5552f52d7763687f5f9b86066111118d">Maybe Swearing Will Help: Adult Coloring Book</a>
 </div>
-<p>Lovely flowers etc.</p>
-<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+<p>Maybe Swearing will Help is the perfect adult coloring book for those with a sense of humor and a bit of a foul mouth. This adult coloring book features funny pages with quotes of motivation, puns, and cursing for anyone to calm down with. From moderate designs to complex detailed images this book features a wide range of styles, cussing included. Enjoy therapeutic animals, tasty treats, elegant floral patterns, trendy word art and elaborate abstract designs to relax with. Each page brings a new sassy element to this form of art therapy and deserves a chuckle or two. Many designs feature animals including: Fox, Birds, Sheep, Bee, Whale, Fish, Puppies and more. Other pages include: Food, Pastries, Fruit, Ice Cream, Perfume Bottle, Bike and more! Enjoy pages featuring sayings: “Lady with the vocabulary of a Sailor”, “Wine down for what” and “Zen AF”. CONTAINS ADULT LANGUAGE. NOT INTENDED FOR CHILDREN.</p>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/0996764135/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0996764135&linkCode=as2&tag=getwellmessages-20&linkId=5552f52d7763687f5f9b86066111118d"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
 
