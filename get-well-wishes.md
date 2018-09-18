@@ -20,7 +20,17 @@ When a friend or loved one is ill, has had surgery or is recovering from an inju
 Even a small gesture can go a long way when someone is feeling unwell. So use one of these 100 get well soon wishes to find the perfect words to let them know how much you're thinking of them. Touching or inspirational get well soon quotes and messages may be the boost that gives them a speedy recovery. So get your pen out and start writing!
 </p>
 
-Adsense ad here
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Get Well Mobile Within Post Top - Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2642906032724935"
+     data-ad-slot="2078414688"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
   <h2>Get Well Wishes</h2>
   
