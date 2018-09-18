@@ -161,12 +161,18 @@ You will love the fine detail award winning Bearington Collection uses to bring 
 </div>
 </div>
 
-<div class="product-cta-box"><a href=""><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B01N9X5QF4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N9X5QF4&linkCode=as2&tag=getwellmessages-20&linkId=a643e5ca0c8ac5e62719f8e2fad0632d"><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
 <div class="product-cta-heading">
-<a href=""> Get Well Flower Bouquet</a>
+<a href="https://www.amazon.com/gp/product/B01N9X5QF4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N9X5QF4&linkCode=as2&tag=getwellmessages-20&linkId=a643e5ca0c8ac5e62719f8e2fad0632d">Silver One Sherpa Plush Stuffed Animal and Throw Blanket 2 Peice Gift Set for Kids/Children | 40" x 50" Soft Plush Throw </a>
 </div>
-<p>Lovely flowers etc.</p>
-<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+<p>Silver One's baby collection focuses on luxuriously styled baby blankets and gift sets. The blankets come in many fabrications and colors- including fur, flannel, and plush in printed and solid colors. The embroideries and appliques are unique and trendy. The style is soft, warm, luxurious, and perfect for baby. Blankets are merchandised on hangers, folded and easy to display.</p>
+<ul>
+<li>Cuddle Buddy - Perfect for cuddling and snuggling for infants, toddles, children, teens, and adults
+<li>Plush bear is approximately 11 inch tall with a medium-napped, slightly under-stuffed plush body just perfect for little hands to hug</li>
+<li>Deluxe plush 100% polyester for ultimate softness and extravagant comfort. Super comfortable for your little ones</li>
+<li>Gift Set - Comes ready for gift giving wrapped with a taupe ribbon.</li>
+</ul>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B01N9X5QF4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N9X5QF4&linkCode=as2&tag=getwellmessages-20&linkId=a643e5ca0c8ac5e62719f8e2fad0632d"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
 
