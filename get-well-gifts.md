@@ -144,12 +144,20 @@ What’s in the Box:
 
 <h2>Get Well Gifts for a Child</h2>
 
-<div class="product-cta-box"><a href=""><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B000NRI37M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000NRI37M&linkCode=as2&tag=getwellmessages-20&linkId=12d33445afa49bd055fcee61c4894008"><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
 <div class="product-cta-heading">
-<a href=""> Get Well Flower Bouquet</a>
+<a href="https://www.amazon.com/gp/product/B000NRI37M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000NRI37M&linkCode=as2&tag=getwellmessages-20&linkId=12d33445afa49bd055fcee61c4894008">Bearington Sicky Vicky Get Well Soon Stuffed Animal Teddy Bear, 10"</a>
 </div>
-<p>Lovely flowers etc.</p>
-<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+<p>
+You will love the fine detail award winning Bearington Collection uses to bring Sicky Vicky to life. Hand crafted using the most luxurious, soft plush, this teddy bear is the perfect way to express feelings of sympathy for someone that is under the weather. Soft and pose-able, Sicky Vicky will make the perfect companion.</p>
+<ul>
+<li>10 " tall Teddy Bear</li>
+<li>Get Well Soon message monogrammed on pink pajamas</li>
+<li>Handkerchief included
+<li>Use for: Hospital Stays, Emergency Room Visits, Everyday illness, Absences from special activities due to illness</li>
+<li>Photo Props are not included</li>
+</ul>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B000NRI37M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000NRI37M&linkCode=as2&tag=getwellmessages-20&linkId=12d33445afa49bd055fcee61c4894008"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
 
