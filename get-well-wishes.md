@@ -21,7 +21,7 @@ Even a small gesture can go a long way when someone is feeling unwell. So use on
 </p>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Get Well Mobile Within Post Top - Responsive -->
+<!-- Get Well Within Post Top - Responsive -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2642906032724935"
