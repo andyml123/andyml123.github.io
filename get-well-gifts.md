@@ -59,6 +59,16 @@ Completed measures 9\" round by 14\" tall, is wrapped in cellophane and topped w
 </div>
 </div>
 
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/1591851963/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591851963&linkCode=as2&tag=getwellmessages-20&linkId=fe16cd08207e9efeec9a416f720f74c9"><img src="/img/fabulous-jokes-from-the-happy-hunters.jpeg" alt="" /></a>
+<div class="product-cta-heading">
+<a href="https://www.amazon.com/gp/product/1591851963/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591851963&linkCode=as2&tag=getwellmessages-20&linkId=fe16cd08207e9efeec9a416f720f74c9">Fabulous Jokes From the Happy Hunters</a>
+</div>
+<p>Join the Happy Hunters in some healthy amusement! 
+
+Humor strengthens the immune system, enabling the body to fight sickness and disease. Drawing from two lifetimes of joyful ministry, Charles and Frances Hunter have compiled some fabulous jokes, anecdotes, musings and mind twisters to make your heart merry and speed healing to your body and soul. Get ready to laugh!</p>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/1591851963/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591851963&linkCode=as2&tag=getwellmessages-20&linkId=fe16cd08207e9efeec9a416f720f74c9"><button type="button" class="product-cta-button">Buy</button></a>
+</div>
+</div>
 
 
 <h2>Get Well Gifts for Her</h2>
@@ -155,15 +165,7 @@ What’s in the Box:
 
 
 
-<div class="product-cta-box">
-<img src="/img/get-well-flowers-300x200.png" alt="" />
-<div class="product-cta-heading">
-<a href=""> Get Well Flower Bouquet</a>
-</div>
-<p>Lovely flowers etc.</p>
-<div class="product-cta-button-centre"><a href="'"><button type="button" class="product-cta-button">Buy</button></a>
-</div>
-</div>
+
 
 
 <div class="product-cta-box">
