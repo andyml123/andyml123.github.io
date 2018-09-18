@@ -35,24 +35,16 @@ Whatever type of gift you choose to get someone, having some ideas and inspirati
 <h2>Funny Get Well Gifts</h2>
 
 <div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B01IPXY3DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IPXY3DS&linkCode=as2&tag=getwellmessages-20&linkId=50b887815d6077852797811c4fe2d056">
-  <img src="/img/get-well-flowers-300x200.png" alt="" /></a>
+  <img src="/img/chanasya-warm-hugs-positive-energy-blanket.jpeg" alt="" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B01IPXY3DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IPXY3DS&linkCode=as2&tag=getwellmessages-20&linkId=50b887815d6077852797811c4fe2d056">Chanasya Warm Hugs Positive Energy Healing Super Soft Fleece Comfort Throw Blanket</a>
 </div>
-<p>The Warm Hug Positive Energy Blanket is carefully crafted and designed for delivering the warmth of a hug, love and comfort. This blanket will be a constant reminder that you are not alonr and you are valued and loved.
-  
-LUXURIOUS & ELEGANT: This beautiful comforting snugly blanket is designed for luxurious feel and eleganace, its made of high grade velvet fleece and sherpa with a classy design and feel
-
-SOFT THOUGHTFUL GIFT: This super soft and ultra plush blanket is designed for thoughtful caring personal gift to loved ones. The intent of this blanket is not only to bring warmth but also bring smile, Joy, and feeling of love.
-
-MESSAGE & WORDINGS: Warm Hug Prayer Positive Thoughts Strength Hugs Healing Energy Harmony Peace Love Hope Campassion Serenity Joy Fun Bear Hug Comfort Rejuvenating Spirit Positive Energy Resilience
-
-BLANKET SIZE: 65"x50" inches, suitable for couch, sofa and toddler bed; fabric content : 100% microfiber polyester
-
-MACHINE WASH: Machine wash on gentle cycle with cold water,tumble dry at very low temperature, holds several machine wash and dry beautifully
-
-100% SATISFACTION GUARANTEED: We are very sure you will fall in love with this product, but for some reason if you are not happy with the product we will refund your money back no quention asked
-</p>
+<p>The Warm Hug Positive Energy Blanket is carefully crafted and designed for delivering the warmth of a hug, love and comfort. This blanket will be a constant reminder to someone that they are not alone and are valued and loved.</p>
+<ul>
+<li><strong>Luxurioud and Elegant:</strong> This beautiful comforting snugly blanket is designed for a luxurious feel and eleganace, its made of high grade velvet fleece and sherpa</li>
+<li><strong>Soft Thoughtful Gift:</strong> This super soft and ultra plush blanket is designed for thoughtful caring personal gift to loved ones. The intent of this blanket is not only to bring warmth but also bring smile, Joy, and feeling of love.</li>
+<li><strong>Blanke Size:</strong> 65"x50" inches, suitable for the couch, sofa and a toddler bed; fabric content : 100% microfiber polyester</li>
+</ul>
 <div class="product-cta-button-centre"><a href="'https://www.amazon.com/gp/product/B01IPXY3DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IPXY3DS&linkCode=as2&tag=getwellmessages-20&linkId=50b887815d6077852797811c4fe2d056"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
