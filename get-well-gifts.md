@@ -197,7 +197,7 @@ What’s in the Box:
 </div>
 </div>
 
-<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/0996764135/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0996764135&linkCode=as2&tag=getwellmessages-20&linkId=5552f52d7763687f5f9b86066111118d"><img src="/img/maybe-swearing-will-help-adult-coloring-book.JPG" alt="" /></a>
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/0996764135/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0996764135&linkCode=as2&tag=getwellmessages-20&linkId=5552f52d7763687f5f9b86066111118d"><img src="/img/maybe-swearing-will-help-adult-coloring-book.jpeg" alt="" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/0996764135/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0996764135&linkCode=as2&tag=getwellmessages-20&linkId=5552f52d7763687f5f9b86066111118d">Maybe Swearing Will Help: Adult Coloring Book</a>
 </div>
