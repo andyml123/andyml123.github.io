@@ -53,9 +53,7 @@ Even a small gesture can go a long way when someone is feeling unwell. So use on
 <li>So sorry to hear you're feeling unwell. Hoping you regain that spark we all know and love very soon</li>
 </ul>
 
-<p> 
-Adsense ad here
-</p>
+{% include adsense-middle2-responsive.html %}
 
 <div class="row">
 <div class="column">
