@@ -34,6 +34,25 @@ Whatever type of gift you choose to get someone, having some ideas and inspirati
 
 <h2>Funny Get Well Gifts</h2>
 
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B005QNRTPA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005QNRTPA&linkCode=as2&tag=getwellmessages-20&linkId=2097b14ad8d746980335b99468377afe"><img src="/img/just-for-laughs-giggling-plush-happy-pill.jpeg" alt="" /></a>
+<div class="product-cta-heading">
+<a href="https://www.amazon.com/gp/product/B005QNRTPA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005QNRTPA&linkCode=as2&tag=getwellmessages-20&linkId=2097b14ad8d746980335b99468377afe">Just For Laughs Giggling Plush Happy Pill</a>
+</div>
+<p>Each happy pill "Plush" proves laughter is truly the best medicine. Use as often as needed! Squeeze each happy pill and it bursts out into uncontrollable laughter. A great stress reliever, our happy pill will put a smile on anyone’s face. A great gift for people going through sickness and tough times.</p>
+<ul>
+<li>Squeeze and plush bursts into uncontrollable laughter</li>
+<li>Sure to pick up your spirits. Great for the young and old!</li>
+<li>Batteries Included</li>
+<li>Each pill sits approximately 6 inches tall. Ages 3+. Warning: choking hazard - small parts.</li>
+</ul>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B005QNRTPA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005QNRTPA&linkCode=as2&tag=getwellmessages-20&linkId=2097b14ad8d746980335b99468377afe"><button type="button" class="product-cta-button">Buy</button></a>
+</div>
+</div>
+
+
+
+
+
 <div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B01IPXY3DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IPXY3DS&linkCode=as2&tag=getwellmessages-20&linkId=50b887815d6077852797811c4fe2d056">
   <img src="/img/chanasya-warm-hugs-positive-energy-blanket.jpeg" alt="" /></a>
 <div class="product-cta-heading">
@@ -50,20 +69,7 @@ Whatever type of gift you choose to get someone, having some ideas and inspirati
 </div>
 
 
-<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B005QNRTPA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005QNRTPA&linkCode=as2&tag=getwellmessages-20&linkId=2097b14ad8d746980335b99468377afe"><img src="/img/just-for-laughs-giggling-plush-happy-pill.jpeg" alt="" /></a>
-<div class="product-cta-heading">
-<a href="https://www.amazon.com/gp/product/B005QNRTPA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005QNRTPA&linkCode=as2&tag=getwellmessages-20&linkId=2097b14ad8d746980335b99468377afe">Just For Laughs Giggling Plush Happy Pill</a>
-</div>
-<p>Each happy pill "Plush" proves laughter is truly the best medicine. Use as often as needed! Squeeze each happy pill and it bursts out into uncontrollable laughter. A great stress reliever, our happy pill will put a smile on anyone’s face. A great gift for people going through sickness and tough times.</p>
-<ul>
-<li>Squeeze and plush bursts into uncontrollable laughter</li>
-<li>Sure to pick up your spirits. Great for the young and old!</li>
-<li>Batteries Included</li>
-<li>Each pill sits approximately 6 inches tall. Ages 3+. Warning: choking hazard - small parts.</li>
-</ul>
-<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B005QNRTPA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005QNRTPA&linkCode=as2&tag=getwellmessages-20&linkId=2097b14ad8d746980335b99468377afe"><button type="button" class="product-cta-button">Buy</button></a>
-</div>
-</div>
+
 
 
 <div class="product-cta-box">
