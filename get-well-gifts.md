@@ -188,7 +188,7 @@ What’s in the Box:
 </div>
 </div>
 
-<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B071721TL4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071721TL4&linkCode=as2&tag=getwellmessages-20&linkId=735b83dfa0e6fbef4b7606b2c8afbd5e"><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B071721TL4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071721TL4&linkCode=as2&tag=getwellmessages-20&linkId=735b83dfa0e6fbef4b7606b2c8afbd5e"><img src="/img/feel-like-a-sloth.jpeg" alt="" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B071721TL4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071721TL4&linkCode=as2&tag=getwellmessages-20&linkId=735b83dfa0e6fbef4b7606b2c8afbd5e">Feel Like a Sloth? Hang in There! Plush Sloth and Top 10 Things to Do When You Feel Like a Sloth in Gift Box.</a>
 </div>
