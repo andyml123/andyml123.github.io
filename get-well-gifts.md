@@ -167,7 +167,7 @@ You will love the fine detail award winning Bearington Collection uses to bring 
 </div>
 <p>Silver One's baby collection focuses on luxuriously styled baby blankets and gift sets. The blankets come in many fabrications and colors- including fur, flannel, and plush in printed and solid colors. The embroideries and appliques are unique and trendy. The style is soft, warm, luxurious, and perfect for baby. Blankets are merchandised on hangers, folded and easy to display.</p>
 <ul>
-<li>Cuddle Buddy - Perfect for cuddling and snuggling for infants, toddles, children, teens, and adults
+<li>Cuddle Buddy - Perfect for cuddling and snuggling for infants, toddles, children, teens, and adults</li>
 <li>Plush bear is approximately 11 inch tall with a medium-napped, slightly under-stuffed plush body just perfect for little hands to hug</li>
 <li>Deluxe plush 100% polyester for ultimate softness and extravagant comfort. Super comfortable for your little ones</li>
 <li>Gift Set - Comes ready for gift giving wrapped with a taupe ribbon.</li>
