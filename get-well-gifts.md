@@ -61,6 +61,15 @@ A gift to comfort and encourage hope and healing. Willow Tree angels resonate wi
 </div>
 </div>
 
+<div class="product-cta-box"><a href=""><img src="/img/burts-bees-classic-gift-set.jpeg" alt="" /></a>
+<div class="product-cta-heading">
+<a href="">Burt's Bees Classics Gift Set</a>
+</div>
+<p>Lovely flowers etc.</p>
+<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
+</div>
+</div>
+
 <h2>Get Well Gifts for a Child</h2>
 
 <h2>Funny Get Well Gifts</h2>
@@ -93,15 +102,7 @@ A gift to comfort and encourage hope and healing. Willow Tree angels resonate wi
 
 
 
-<div class="product-cta-box">
-<img src="/img/get-well-flowers-300x200.png" alt="" />
-<div class="product-cta-heading">
-<a href=""> Get Well Flower Bouquet</a>
-</div>
-<p>Lovely flowers etc.</p>
-<div class="product-cta-button-centre"><a href="'"><button type="button" class="product-cta-button">Buy</button></a>
-</div>
-</div>
+
 
 
 <div class="product-cta-box">
