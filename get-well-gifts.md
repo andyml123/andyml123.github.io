@@ -168,23 +168,28 @@ What’s in the Box:
 
 
 
-<div class="product-cta-box">
-<img src="/img/get-well-flowers-300x200.png" alt="" />
+<div class="product-cta-box"><a href=""><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
 <div class="product-cta-heading">
-<a href=""> Get Well Flower Bouquet</a>
+<a href="">Get Well Soon Activity Book for Men</a>
 </div>
-<p>Lovely flowers etc.</p>
-<div class="product-cta-button-centre"><a href="'"><button type="button" class="product-cta-button">Buy</button></a>
+<p>This Get Well Gift Set for a Man is perfect for giving someone ill or recovering. Your gift will be much more appreciated than a get well food basket because diets are often restricted during recovery.</p>
+Includes:
+<ul>  
+<li>Classic Tic Tac Toe Game to play or Challenging Kendama puzzle to entertain him for hours.</li>
+<li>Triangle puzzle game, and Deck of playing cards to pass the time.</li>
+<li>Inspirational words bookmark to convey your get well wishes. Great for keeping place in books and get well book.</li>
+<li>Drawstring tote bag to hold all the gifts. The tote will be greatly appreciated to keep items neat and together. Convenient and useful for carrying to doctors office visits or while in the hospital.</li>
+</ul>
+<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
 
 
-<div class="product-cta-box">
-<img src="/img/get-well-flowers-300x200.png" alt="" />
+<div class="product-cta-box"><a href=""><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
 <div class="product-cta-heading">
 <a href=""> Get Well Flower Bouquet</a>
 </div>
 <p>Lovely flowers etc.</p>
-<div class="product-cta-button-centre"><a href="'"><button type="button" class="product-cta-button">Buy</button></a>
+<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
