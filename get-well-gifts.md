@@ -224,33 +224,3 @@ You will love the fine detail award winning Bearington Collection uses to bring 
 <div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/0996764135/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0996764135&linkCode=as2&tag=getwellmessages-20&linkId=5552f52d7763687f5f9b86066111118d"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="product-cta-box"><a href=""><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
-<div class="product-cta-heading">
-<a href=""> Get Well Flower Bouquet</a>
-</div>
-<p>Lovely flowers etc.</p>
-<div class="product-cta-button-centre"><a href=""><button type="button" class="product-cta-button">Buy</button></a>
-</div>
-</div>
