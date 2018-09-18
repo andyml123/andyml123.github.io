@@ -144,7 +144,7 @@ What’s in the Box:
 
 <h2>Get Well Gifts for a Child</h2>
 
-<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B000NRI37M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000NRI37M&linkCode=as2&tag=getwellmessages-20&linkId=12d33445afa49bd055fcee61c4894008"><img src="/img/get-well-flowers-300x200.png" alt="" /></a>
+<div class="product-cta-box"><a href="https://www.amazon.com/gp/product/B000NRI37M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000NRI37M&linkCode=as2&tag=getwellmessages-20&linkId=12d33445afa49bd055fcee61c4894008"><img src="/img/bearington-sicky-vicky-get-well-soon-stuffed-animal-teddy-bear.jpeg" alt="" /></a>
 <div class="product-cta-heading">
 <a href="https://www.amazon.com/gp/product/B000NRI37M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000NRI37M&linkCode=as2&tag=getwellmessages-20&linkId=12d33445afa49bd055fcee61c4894008">Bearington Sicky Vicky Get Well Soon Stuffed Animal Teddy Bear, 10"</a>
 </div>
