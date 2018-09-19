@@ -17,7 +17,8 @@ paginate: 4
 
 author:
   name:         'Admin'
-  url:          https://www.getwellmessages.net
+  url:          https://getwellmessages.net
+  enforce_ssl: getwellmessages.net
   email:        hello@getwellmessages.net
   
 sass:
