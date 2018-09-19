@@ -3,6 +3,7 @@ layout: post
 title: "Test Post!"
 date: 2015-03-26 20:25
 categories: test
+published: false
 ---
 This is some testing text. Just to see if everything works. We'll see.
 
