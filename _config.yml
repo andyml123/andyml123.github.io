@@ -19,6 +19,9 @@ author:
   name:         'Admin'
   url:          https://www.getwellmessages.net
   email:        hello@getwellmessages.net
+  
+sass:
+    style: compressed  
 
 categories: [messages, quotes, poems, prayers, funny, faq]
 
