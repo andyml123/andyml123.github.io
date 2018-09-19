@@ -3,6 +3,7 @@ layout: post
 title: "Link Test"
 date: 2015-03-26 22:50
 external-url: http://www.google.com
+published: false
 ---
 I think I'll use this as a proper test post:
 
