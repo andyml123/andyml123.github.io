@@ -3,7 +3,7 @@ layout: page
 title: Get Well Soon Messages for a Pet
 title2: Get Well Soon Messages for a Pet
 description: >-
-  Wish a someone with an ill or injured pet well with one of these sweet,
+  Wish someone with an ill or injured pet well with one of these sweet,
   touching or funny pet get well messages
 permalink: /get-well-soon-messages-for-a-pet/
 image: get-well-soon-messages-for-a-pet.png
