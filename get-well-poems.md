@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Get Well Poems: 21 Lovely Ways to say Get Better'
+title: 'Get Well Poems: 21 Lovely Ways to Say Get Better'
 title2: Get Well Poems
 description: >-
   Cheer up a sick friend or loved one with one of these touching, inspiring and
