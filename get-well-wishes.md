@@ -179,7 +179,7 @@ If you want to make the recipient of your card smile or have a laugh then try ou
 <h3>Get Well Poems</h3>
 
 <p>
-A poem is a great way to express your feelings and really show you care, and you can find a whole range of <a href="/get-wellpoems/">get well soon poems</a> right here. Send them in your card or share them on Facebook to let others join in wishing someone a fast recovery.
+A poem is a great way to express your feelings and really show you care, and you can find a whole range of <a href="/get-well-poems/">get well soon poems</a> right here. Send them in your card or share them on Facebook to let others join in wishing someone a fast recovery.
 </p>
 </div>
 <div class="column">
