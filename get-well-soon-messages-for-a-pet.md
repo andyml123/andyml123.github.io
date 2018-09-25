@@ -85,6 +85,17 @@ If you aren't sure what to write in a pet get well card then take a look at the 
 <li>A bit of your loving care and I'm certain little _____ will be feeling purr-felt again real soon</li>
 </ul>
 
+<h2>Sick Pet Quotes</h2>
+
+<ul class="heart">>
+<li>“Until one has loved an animal, a part of one’s soul remains unawakened. ” - Anatole France</li>
+<li>“If having a soul means being able to feel love and loyalty and gratitude, then animals are better off than a lot of humans.” - James Herriot</li>  
+<li>“Dogs are not our whole life, but they make our lives whole.” - Roger Caras</li>
+<li>"Dogs are our link to paradise. They don't know evil or jealousy or discontent." -Milan Kundera</li>
+<li>“If there are no dogs in Heaven, then when I die I want to go where they went.” - Will Rogers</li>  
+<li>“No heaven will not ever Heaven be. Unless my cats are there to welcome me.” - Anonymous</li>  
+</ul>
+
 <h2>What Not to Write in a Pet Get Well Card</h2>
 
 There are a few things you will want to avoid saying in your message as it could cause offence or just be very inappropriate.
