@@ -87,7 +87,7 @@ If you aren't sure what to write in a pet get well card then take a look at the 
 
 <h2>Sick Pet Quotes</h2>
 
-<ul class="heart">>
+<ul class="heart">
 <li>“Until one has loved an animal, a part of one’s soul remains unawakened. ” - Anatole France</li>
 <li>“If having a soul means being able to feel love and loyalty and gratitude, then animals are better off than a lot of humans.” - James Herriot</li>  
 <li>“Dogs are not our whole life, but they make our lives whole.” - Roger Caras</li>
