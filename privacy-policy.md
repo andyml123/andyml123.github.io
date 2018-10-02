@@ -5,6 +5,7 @@ title2: Privacy Policy
 tags: privacy policy
 permalink: /privacy-policy/
 published: true
+description: getwellmessages.net Privacy Policy
 ---
 
 <h1>Privacy Policy</h1>
