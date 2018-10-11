@@ -99,7 +99,7 @@ Includes:
 <li><strong>Soft Thoughtful Gift:</strong> This super soft and ultra plush blanket is designed for thoughtful caring personal gift to loved ones. The intent of this blanket is not only to bring warmth but also bring smile, Joy, and feeling of love.</li>
 <li><strong>Blanke Size:</strong> 65"x50" inches, suitable for the couch, sofa and a toddler bed; fabric content : 100% microfiber polyester</li>
 </ul>
-<div class="product-cta-button-centre"><a href="'https://www.amazon.com/gp/product/B01IPXY3DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IPXY3DS&linkCode=as2&tag=getwellmessages-20&linkId=50b887815d6077852797811c4fe2d056"><button type="button" class="product-cta-button">Buy</button></a>
+<div class="product-cta-button-centre"><a href="https://www.amazon.com/gp/product/B01IPXY3DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IPXY3DS&linkCode=as2&tag=getwellmessages-20&linkId=50b887815d6077852797811c4fe2d056"><button type="button" class="product-cta-button">Buy</button></a>
 </div>
 </div>
 
