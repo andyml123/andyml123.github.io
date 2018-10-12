@@ -49,6 +49,11 @@ These are a few examples of the sort of messages you could write in a get well c
 <li>When you're feeling better everything will be waiting for you just as it was. We love you so much</li>
 <li>Sending you hugs and happy thoughts for when you're feeling sad</li>
 <li>Please don't forget how much I care. Whatever you need, don't hesitate to ask, I'll be there</li>
+</ul>
+
+<h3>Inspirational Messages</h3>
+
+<ul>
 <li></li>
 <li></li>
 <li></li>
