@@ -51,11 +51,11 @@ These are a few examples of the sort of messages you could write in a get well c
 <li>Please don't forget how much I care. Whatever you need, don't hesitate to ask, I'll be there</li>
 </ul>
 
-<h3>Inspirational Messages</h3>
+<h3>Inspirational Quotes</h3>
 
 <ul>
 <li></li>
-<li></li>
+<li>It won’t be easy, but it will get better</li>
 <li></li>
 <li></li>
 <li></li>
