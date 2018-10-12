@@ -54,10 +54,10 @@ These are a few examples of the sort of messages you could write in a get well c
 <h3>Inspirational Quotes</h3>
 
 <ul>
-<li></li>
+<li>Sometimes even to live is an act of courage</li>
 <li>It won’t be easy, but it will get better</li>
-<li></li>
-<li></li>
+<li>Recovery is not one and done. It is a lifelong journey that takes place one day, one step at a time</li>
+<li>If you stumble, make it part of the dance</li>
 <li></li>
 </ul>
 
