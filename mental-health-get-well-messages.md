@@ -58,7 +58,7 @@ These are a few examples of the sort of messages you could write in a get well c
 <li>It won’t be easy, but it will get better</li>
 <li>Recovery is not one and done. It is a lifelong journey that takes place one day, one step at a time</li>
 <li>If you stumble, make it part of the dance</li>
-<li></li>
+<li>Tough times don’t last, tough people do</li>
 </ul>
 
 <h3>Funny Messages</h3>
