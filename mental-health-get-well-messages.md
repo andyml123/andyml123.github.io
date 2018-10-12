@@ -45,30 +45,16 @@ These are a few examples of the sort of messages you could write in a get well c
 
 <ul>
 <li>If you need to talk I'm here for you. I really hope you feel better soon</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Thinking of you and sending this to remind you you're not alone</li>
+<li>When you're feeling better everything will be waiting for you just as it was. We love you so much</li>
+<li>Sending you hugs and happy thoughts for when you're feeling sad</li>
+<li>Please don't forget how much I care. Whatever you need, don't hesitate to ask, I'll be there</li>
 <li></li>
 <li></li>
 <li></li>
 <li></li>
 <li></li>
 </ul>
-
-My ideal card would read – ‘Thinking about you – we are here to help and offer support if and when required. You are not alone ……’
-
-The paper said:
-
-"A little hug
-Whenever you are feeling sad
-and things aren't going right
-and your usual happy smile has slipped right out of sight,
-here's a little hug form me if
-I cannot be there because I want
-you to know just how much I care."
-
-The world as I knew it would still be there waiting for me when I found my way out of the darkness I was living in
 
 <h3>Funny Messages</h3>
 
