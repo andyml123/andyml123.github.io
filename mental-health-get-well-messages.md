@@ -67,6 +67,6 @@ These are a few examples of the sort of messages you could write in a get well c
 <li>Last month you were manic, and now you're depressed. Next month you'll be better, just have a good rest</li>
 <li>I hear you've been sectioned - that's really a bore! But soon you'll be out. Just don't scream any more</li>
 <li>Next time someone tells you your mental illness is all in your head, tell them "Duh! Where else is it going to be, my kidneys?"</li>
-<li></li>
+<li>My imaginary friend thinks you have serious mental problems!</li>
 <li>I just heard the news, it made me so sad. To hear that you'd just become totally mad</li>
 </ul>
