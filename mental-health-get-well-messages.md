@@ -2,7 +2,9 @@
 title: What to Write in a Get Well Card for Mental Illness
 title2: Mental Health Get Well Messages
 permalink: /mental-health-get-well-messages/
-description: Write the perfect message for someone suffering from a mental health problem with our guide and example messages
+description: >-
+  Write the perfect message for someone suffering from a mental health problem
+  with our guide and example messages
 image: /img/mental-health-get-well-messages.jpeg
 tags: 'get well wishes, get well messages, mental health get well messages'
 categories:
@@ -70,3 +72,12 @@ These are a few examples of the sort of messages you could write in a get well c
 <li>My imaginary friend thinks you have serious mental problems!</li>
 <li>I just heard the news, it made me so sad. To hear that you'd just become totally mad</li>
 </ul>
+
+<h2>Cards</h2>
+
+If you want to send specifically designed cards for mental health (as most get well cards are suited for physical ailments) then there are a few options. 
+
+<a href="https://hopestreetcards.com.au/">Hope Street Cards</a> produce greeting or get well cards for people experiencing a mental health condition. They do some brilliantly funny cards and one's that really sum up mental health perfectly.
+
+<a href="https://www.rcpsych.ac.uk/usefulresources/merchandise/getwellsooncards.aspx">The Royal College of Psychiatrists</a> also sell a range of 'Get well soon' cards designed specifically for people who are unwell with mental health. The cards are designed in collaboration with service users, carers, psychiatrists and other mental health professionals. 
+
