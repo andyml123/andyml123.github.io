@@ -44,7 +44,7 @@ These are a few examples of the sort of messages you could write in a get well c
 <h3>Supportive Messages</h3>
 
 <ul>
-<li></li>
+<li>If you need to talk I'm here for you. I really hope you feel better soon</li>
 <li></li>
 <li></li>
 <li></li>
@@ -57,8 +57,6 @@ These are a few examples of the sort of messages you could write in a get well c
 </ul>
 
 My ideal card would read – ‘Thinking about you – we are here to help and offer support if and when required. You are not alone ……’
-
-The message needs to be empathetic, something like “I hope you start to feel better soon, I’m here if you need to talk, I’ll be thinking of you” etc. 
 
 The paper said:
 
