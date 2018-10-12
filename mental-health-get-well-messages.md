@@ -4,6 +4,8 @@ title2: Mental Health Get Well Messages
 permalink: /mental-health-get-well-messages/
 description: 
 image: 
-tags: [messages]
+tags: 'get well wishes, get well messages, mental health get well messages'
+categories:
+  - messages
 published: false
 ---
