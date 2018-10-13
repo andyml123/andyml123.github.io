@@ -6,7 +6,7 @@ description: >-
   Send a lovely bouquet of flowers to someone sick or injured and cheer them up
   whilst they recover
 permalink: /get-well-flowers/
-image: /get-well-flowers.png
+image: /img/get-well-flowers.png
 tags: 'flowers, get well flowers, get well soon flowers'
 categories:
   - flowers
