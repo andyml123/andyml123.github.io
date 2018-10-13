@@ -2,9 +2,11 @@
 layout: page
 title: 'Get Well Jokes: 31 Hilarious Health Jokes & One Liners'
 title2: Get Well Jokes
-description: Give an ill friend or loved one a laugh with one of these medical jokes and one liners. Perfect for cards or with a gift
+description: >-
+  Give an ill friend or loved one a laugh with one of these medical jokes and
+  one liners. Perfect for cards or with a gift
 permalink: /get-well-jokes/
-image: img/get-well-jokes.png
+image: /img/get-well-jokes.png
 tags: get well jokes
 categories: jokes
 published: true
