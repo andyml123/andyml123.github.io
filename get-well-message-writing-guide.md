@@ -4,7 +4,7 @@ title: 'Get Well FAQ: Guide to Writing a Get Well Message'
 title2: 'Get Well FAQ: Guide to Writing a Get Well Message'
 description: Follow this guide to write the best get well message for a card
 permalink: /get-well-message-writing-guide/
-image: img/get-well-message-writing-guide.png
+image: /img/get-well-message-writing-guide.png
 tags: 'get well messages, what to write in a get well card'
 categories:
   - navbottom
