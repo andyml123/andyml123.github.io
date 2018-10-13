@@ -6,7 +6,7 @@ description: >-
   Send a sweet or touching SMS get well message with these example text messages
   for a sick friend or loved one
 permalink: /get-well-soon-text-messages/
-image: img//get-well-soon-text-messages.png
+image: /img//get-well-soon-text-messages.png
 tags: 'get well text messages, get well sms'
 categories:
   - messages
