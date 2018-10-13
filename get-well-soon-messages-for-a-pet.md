@@ -6,7 +6,7 @@ description: >-
   Wish someone with an ill or injured pet well with one of these sweet, touching
   or funny pet get well messages
 permalink: /get-well-soon-messages-for-a-pet/
-image: get-well-soon-messages-for-a-pet.png
+image: /img/get-well-soon-messages-for-a-pet.png
 categories: messages
 published: true
 ---
