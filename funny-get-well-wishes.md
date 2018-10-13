@@ -6,7 +6,7 @@ description: >-
   Put a smile on a sick friend or family members face with one of these
   hilarious get well messages
 permalink: /funny-get-well-wishes/
-image: funny-get-well-wishes.png
+image: /img/funny-get-well-wishes.png
 tags: 'funny get well wishes, funny get well soon messages, funny get well messages'
 categories: messages
 published: true
