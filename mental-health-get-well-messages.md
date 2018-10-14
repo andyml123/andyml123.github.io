@@ -34,9 +34,9 @@ And if you're wondering about how much difference a get well card can really mak
 
 <ul>
 <li>It may seem counterintuitive but you should probably avoid a phrase like 'get well soon'. Why? The soon aspect implies it will be over quickly, whereas the reality is mental health problems rarely disappear in a short space of time. The recipient may also feel the message is putting them under pressure to get better. Like it's something they must do; a command. 
-This may seem over the top or excessively sensitive to you but to those suffering with depressive and intrusive thoughts it can easily lead to looking at everything negatively. So a simple message is picked apart and taken in a way it wasn't intended. </li>
+This may seem over the top or excessively sensitive to you but to those suffering with depressive and intrusive thoughts it can easily lead to looking at everything negatively. So a simple message is picked apart and taken in a way it wasn't intended. Wity that in mind it's probably better to use a phrase like "I hope you feel better soon". </li>
 <li>Never say anything like "just snap out of it". Mental health problems are extremely serious and cannot just be "snapped out of" or the suffer can just "pull themselves together". If you're going to write them a message then take it seriously and do not downplay the severity of what they're suffering with. </li>
-<li>Don't be patronising. Offering advice like "have you tried exercising" or "yoga might help" when you know very little about mental health is likely to be offensive. Just because you've read an article on depression doesn't make you an expert. What they need is support, not to be spoken due to about their problems. </li>
+<li>Don't be patronising. Offering advice like "have you tried exercising" or "yoga might help" when you know very little about mental health is likely to be offensive. Just because you've read an article on depression doesn't make you an expert. What they need is support, not to be spoken down to about their problems. </li>
 </ul>
 
 <h2>Message Examples</h2>
@@ -79,5 +79,4 @@ If you want to send specifically designed cards for mental health (as most get w
 
 <a href="https://hopestreetcards.com.au/">Hope Street Cards</a> produce greeting or get well cards for people experiencing a mental health condition. They do some brilliantly funny cards and one's that really sum up mental health perfectly.
 
-<a href="https://www.rcpsych.ac.uk/usefulresources/merchandise/getwellsooncards.aspx">The Royal College of Psychiatrists</a> also sell a range of 'Get well soon' cards designed specifically for people who are unwell with mental health. The cards are designed in collaboration with service users, carers, psychiatrists and other mental health professionals. 
-
+<a href="https://www.rcpsych.ac.uk/usefulresources/merchandise/getwellsooncards.aspx">The Royal College of Psychiatrists</a> also sell a range of 'Get well soon' cards designed specifically for people who are unwell with mental health. The cards are designed in collaboration with service users, carers, psychiatrists and other mental health professionals.
