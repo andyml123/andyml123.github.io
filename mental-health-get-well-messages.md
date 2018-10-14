@@ -80,3 +80,7 @@ If you want to send specifically designed cards for mental health (as most get w
 <a href="https://hopestreetcards.com.au/">Hope Street Cards</a> produce greeting or get well cards for people experiencing a mental health condition. They do some brilliantly funny cards and one's that really sum up mental health perfectly.
 
 <a href="https://www.rcpsych.ac.uk/usefulresources/merchandise/getwellsooncards.aspx">The Royal College of Psychiatrists</a> also sell a range of 'Get well soon' cards designed specifically for people who are unwell with mental health. The cards are designed in collaboration with service users, carers, psychiatrists and other mental health professionals.
+
+And if you're the creative (or even if you're not) then you could try making your own card. A personal, handmade card is the sort of thing that could be treasured and a real boost to a friend going through some tough times with their mental health.
+
+Whatever you decide to do though remember that reaching out and showing you're there for and thinking of anyone who's struggling with mental health problems will be greatly appreciated. 
