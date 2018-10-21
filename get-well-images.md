@@ -4,9 +4,8 @@ title2: Get Well Images
 permalink: /get-well-images/
 description: 
 image: /img/get-well-images.jpeg
-tags:
-
-
+tags: get well images
+categories: messages
 published: false
 ---
 
