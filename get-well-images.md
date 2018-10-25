@@ -1,5 +1,5 @@
 ---
-title: 53 Get Well Images with Heartfelt Quotes
+title: 51 Get Well Images with Heartfelt Quotes
 title2: Get Well Images
 permalink: /get-well-images/
 description: null
