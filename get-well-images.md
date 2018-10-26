@@ -24,41 +24,41 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/get-well-soon-image.png" alt="thinking of you get well soon image" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/feel-better-soon-flowers-image.png" alt="feel better soon flowers image" />
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/feel-better-soon-image.png" alt="feel better soon card image" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/hope-you-feel-better-image.png" alt="sending you lots of love and hope you feel better image" />
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/wishing-you-a-quick-recovery.png" alt="wishing you a quick recovery get well soon image" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/sending-you-love-image.png" alt="sending my love and hope you feel better image" />
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/funny-friendship-get-well-soon.png" alt="funny friendship get well soon image" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/funny-get-well-soon-germs-quote.png" alt="germs love you funny get well image" />
  </div>
 </div>
 
