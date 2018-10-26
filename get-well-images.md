@@ -64,11 +64,11 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/all-my-thoughts-are-with-you-as-you-recover.png" alt="all my thoughts are with you as you recover image" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/deepest-thoughts-and-prayers-as-you-heal.png" alt="deepest thoughts and prayers as you heal get well image" />
  </div>
 </div>
 
