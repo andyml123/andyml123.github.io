@@ -164,190 +164,110 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/always-thinking-of-you-get-well-soon.png" alt="always thinking of you get well soon" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/funny-get-well-soon-image.png" alt="funny get well soon image" />
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/get-back-on-your-feet-quote.png" alt="get back on your feet quote" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/get-well-soon-soup.png" alt="get well soon soup" />
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/hope-each-day-brings-you-renewed-strength.png" alt="hope each day brings renewed strength" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/get-well-soon-sign.png" alt="get well soon sign" />
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/after-surgery-get-well-image.png" alt="after surgery get well image" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/sending-you-hugs-and-best-wishes.png" alt="sending you hugs and best wishes" />
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/cute-get-well-soon-image.PNG" alt="cute get well soon image" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/quick-recovery-thinking-of-you-image.png" alt="quick recovery thinking of you image" />
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/fighting-fit-again-soon-image.png" alt="fighting fit again soon image" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/hoping-you-feel-better-bear.png" alt="hoping you feel better bear" />
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/funny-get-well-soon-quote.png" alt="funny get well soon quote" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/sending-you-sunshine-to-recover-quickly.png" alt="sending you sunshine to recover quickly" />
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/all-my-thoughts-as-you-recover.png" alt="all my thoughts as you recover" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/clouds-will-part-quote.png" alt="clouds will part quote image" />
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/strength-to-get-through-this-get-well-soon.png" alt="strength to get through this get well soon image" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/rest-and-take-all-the-time-you-need.png" alt="rest and take all the time you need" />
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/multi-coloured-get-well-soon.png" alt="multicoloured get well soon" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/orison-marden-get-well-soon-quote.png" alt="orison marden get well soon quote image" />
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
+     <img class="img" src="/img/inspirational-get-well-soon-quote.png" alt="inspirational get well soon quote" />
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
- </div>
-</div>
-
-<div class="row">
- <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
- </div>
-  
-  <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
- </div>
-</div>
-
-<div class="row">
- <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
- </div>
-  
-  <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
- </div>
-</div>
-
-<div class="row">
- <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
- </div>
-  
-  <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
- </div>
-</div>
-
-<div class="row">
- <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
- </div>
-  
-  <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
- </div>
-</div>
-
-<div class="row">
- <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
- </div>
-  
-  <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
- </div>
-</div>
-
-<div class="row">
- <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
- </div>
-  
-  <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
- </div>
-</div>
-
-<div class="row">
- <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
- </div>
-  
-  <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
- </div>
-</div>
-
-<div class="row">
- <div class="column">
-     <img class="img" src="/img/get-well-poem-1.png" alt="ailing friend get well poem" />
- </div>
-  
-  <div class="column">
-     <img class="img" src="/img/get-well-poem-2.png" alt="magic wand get well poem" />
+     <img class="img" src="/img/hoping-you-start-to-feel-better-soon.png" alt="hoping you start to feel better soon image" />
  </div>
 </div>
