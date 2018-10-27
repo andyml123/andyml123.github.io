@@ -210,27 +210,27 @@ Hopefully these get well soon images will help to comfort and bring some hope to
  </div>
   
   <div class="column">
-     <img class="img" src="/img/quick-recovery-thinking-of-you-image.png" alt="quick recovery thinking of you image" />
+     <img class="img" src="/img/quick-recovery-thinking-of-you-image.png" alt="quick recovery thinking of you image" />Thinking fondly of you and wishing you a quick recovery
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/fighting-fit-again-soon-image.png" alt="fighting fit again soon image" />
+     <img class="img" src="/img/fighting-fit-again-soon-image.png" alt="fighting fit again soon image" />Hope you're fighting fit again very soon. Feel better!
  </div>
   
   <div class="column">
-     <img class="img" src="/img/hoping-you-feel-better-bear.png" alt="hoping you feel better bear" />
+     <img class="img" src="/img/hoping-you-feel-better-bear.png" alt="hoping you feel better bear" />Hoping you feel better soon
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/funny-get-well-soon-quote.png" alt="funny get well soon quote" />
+     <img class="img" src="/img/funny-get-well-soon-quote.png" alt="funny get well soon quote" />Get well soon so we can make fun of you again and not feel bad!
  </div>
   
   <div class="column">
-     <img class="img" src="/img/sending-you-sunshine-to-recover-quickly.png" alt="sending you sunshine to recover quickly" />
+     <img class="img" src="/img/sending-you-sunshine-to-recover-quickly.png" alt="sending you sunshine to recover quickly" />Sending you sunshine to brighten your day and warm wishes for a speedy recovery
  </div>
 </div>
 
