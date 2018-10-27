@@ -110,7 +110,7 @@ Hopefully these get well soon images will help to comfort and bring some hope to
  </div>
   
   <div class="column">
-     <img class="img" src="/img/wishing-you-strength-get-well-soon-image.png" alt="wishing you strength get well soon image" />
+     <img class="img" src="/img/wishing-you-strength-get-well-soon-image.png" alt="wishing you strength get well soon image" />Wishing you so much love and the speediest of recoveries. Get well soon
  </div>
 </div>
 
