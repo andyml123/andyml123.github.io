@@ -90,8 +90,8 @@ Hopefully these get well soon images will help to comfort and bring some hope to
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-soon-card-message.png" alt="get well soon card message" />
- </div>Think positive thoughts and you may heal quicker than you thought possible. We miss you and want you better soon!
+     <img class="img" src="/img/get-well-soon-card-message.png" alt="get well soon card message" />Think positive thoughts and you may heal quicker than you thought possible. We miss you and want you better soon!
+ </div>
 </div>
 
 <div class="row">
@@ -260,8 +260,8 @@ Hopefully these get well soon images will help to comfort and bring some hope to
  </div>
   
   <div class="column">
-     <img class="img" src="/img/orison-marden-get-well-soon-quote.png" alt="orison marden get well soon quote image" />
- </div>“There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow” – Orison Swett Marden
+     <img class="img" src="/img/orison-marden-get-well-soon-quote.png" alt="orison marden get well soon quote image" />“There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow” – Orison Swett Marden
+ </div>
 </div>
 
 <div class="row">
