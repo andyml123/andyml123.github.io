@@ -146,11 +146,11 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-soon-flower-pot.png" alt="get well soon flower pot" />
+     <img class="img" src="/img/get-well-soon-flower-pot.png" alt="get well soon flower pot" />Get well soon
  </div>
   
   <div class="column">
-     <img class="img" src="/img/you_re-in-my-thoughts-and-prayers.png" alt="you're in my thoughts and prayers image" />
+     <img class="img" src="/img/you_re-in-my-thoughts-and-prayers.png" alt="you're in my thoughts and prayers image" />You're in my thoughts and prayers. Get better soon
  </div>
 </div>
 
