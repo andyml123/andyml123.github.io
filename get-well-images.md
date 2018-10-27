@@ -2,7 +2,9 @@
 title: 51 Get Well Images with Heartfelt Quotes
 title2: Get Well Images
 permalink: /get-well-images/
-description: Express your get well soon wishes with a touching picture from our definitive selection of free to use get well images and quotes
+description: >-
+  Express your get well soon wishes with a touching picture from our definitive
+  selection of free to use get well images and quotes
 image: /img/get-well-soon-image.png
 tags: get well images
 categories: messages
