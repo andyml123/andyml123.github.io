@@ -26,11 +26,11 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-soon-image.png" alt="thinking of you get well soon image" /><div class="img-text">Thinking of you and wishing you a speedy recovery. Get Well Soon</div>
+     <img class="img" src="/img/get-well-soon-image.png" alt="thinking of you get well soon image" />Thinking of you and wishing you a speedy recovery. Get Well Soon
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-back-on-your-feet-quote.png" alt="get back on your feet quote" /><p>So sorry to hear you've been unwell. You are in our thoughts as you get back on your feet</p>
+     <img class="img" src="/img/get-back-on-your-feet-quote.png" alt="get back on your feet quote" />So sorry to hear you've been unwell. You are in our thoughts as you get back on your feet
  </div>
 </div>
 
