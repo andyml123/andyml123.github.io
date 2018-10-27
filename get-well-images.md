@@ -30,7 +30,7 @@ Hopefully these get well soon images will help to comfort and bring some hope to
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-back-on-your-feet-quote.png" alt="get back on your feet quote" />
+     <img class="img" src="/img/get-back-on-your-feet-quote.png" alt="get back on your feet quote" /><p>So sorry to hear you've been unwell. You are in our thoughts as you get back on your feet</p>
  </div>
 </div>
 
