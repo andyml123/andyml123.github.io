@@ -66,21 +66,21 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/all-my-thoughts-are-with-you-as-you-recover.png" alt="all my thoughts are with you as you recover image" />
+     <img class="img" src="/img/all-my-thoughts-are-with-you-as-you-recover.png" alt="all my thoughts are with you as you recover image" />All my thoughts are with you as you recover. Get well soon
  </div>
   
   <div class="column">
-     <img class="img" src="/img/deepest-thoughts-and-prayers-as-you-heal.png" alt="deepest thoughts and prayers as you heal get well image" />
+     <img class="img" src="/img/deepest-thoughts-and-prayers-as-you-heal.png" alt="deepest thoughts and prayers as you heal get well image" />Our deepest thoughts and prayers are with you as you heal. Get well
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/feel-better-soon-soup-cup.png" alt="soup feel better soon image" />
+     <img class="img" src="/img/feel-better-soon-soup-cup.png" alt="soup feel better soon image" />Feel better soon
  </div>
   
   <div class="column">
-     <img class="img" src="/img/hoping-you-regain-your-spark-soon.png" alt="hoping you regain your spark image" />
+     <img class="img" src="/img/hoping-you-regain-your-spark-soon.png" alt="hoping you regain your spark image" />So sorry to hear you're feeling unwell. Hoping you regain that spark we all know and love very soon
  </div>
 </div>
 
