@@ -261,15 +261,15 @@ Hopefully these get well soon images will help to comfort and bring some hope to
   
   <div class="column">
      <img class="img" src="/img/orison-marden-get-well-soon-quote.png" alt="orison marden get well soon quote image" />
- </div>
+ </div>“There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow” – Orison Swett Marden
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/inspirational-get-well-soon-quote.png" alt="inspirational get well soon quote" />
+     <img class="img" src="/img/inspirational-get-well-soon-quote.png" alt="inspirational get well soon quote" />"There is one consolation in being sick; and that is the possibility that you may recover to a better state than you were ever in before"  – Henry David Thoreau
  </div>
   
   <div class="column">
-     <img class="img" src="/img/hoping-you-start-to-feel-better-soon.png" alt="hoping you start to feel better soon image" />
+     <img class="img" src="/img/hoping-you-start-to-feel-better-soon.png" alt="hoping you start to feel better soon image" />Hoping you start to feel better soon and make a quick recovery
  </div>
 </div>
