@@ -236,27 +236,27 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/all-my-thoughts-as-you-recover.png" alt="all my thoughts as you recover" />
+     <img class="img" src="/img/all-my-thoughts-as-you-recover.png" alt="all my thoughts as you recover" />All my thoughts for you as you recover
  </div>
   
   <div class="column">
-     <img class="img" src="/img/clouds-will-part-quote.png" alt="clouds will part quote image" />
+     <img class="img" src="/img/clouds-will-part-quote.png" alt="clouds will part quote image" />The clouds will part and you will see the light again soon
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/strength-to-get-through-this-get-well-soon.png" alt="strength to get through this get well soon image" />
+     <img class="img" src="/img/strength-to-get-through-this-get-well-soon.png" alt="strength to get through this get well soon image" />You have the strength to get through this and I'll be by your side all the way
  </div>
   
   <div class="column">
-     <img class="img" src="/img/rest-and-take-all-the-time-you-need.png" alt="rest and take all the time you need" />
+     <img class="img" src="/img/rest-and-take-all-the-time-you-need.png" alt="rest and take all the time you need" />Rest and take all the time you need. Hope you feel better soon
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/multi-coloured-get-well-soon.png" alt="multicoloured get well soon" />
+     <img class="img" src="/img/multi-coloured-get-well-soon.png" alt="multicoloured get well soon" />Get well soon
  </div>
   
   <div class="column">
