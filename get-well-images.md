@@ -46,21 +46,21 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/wishing-you-a-quick-recovery.png" alt="wishing you a quick recovery get well soon image" />
+     <img class="img" src="/img/wishing-you-a-quick-recovery.png" alt="wishing you a quick recovery get well soon image" />Wishing you a quick recovery. Get well soon
  </div>
   
   <div class="column">
-     <img class="img" src="/img/sending-you-love-image.png" alt="sending my love and hope you feel better image" />
+     <img class="img" src="/img/sending-you-love-image.png" alt="sending my love and hope you feel better image" />Sending my love. Hope you feel better very soon
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/funny-friendship-get-well-soon.png" alt="funny friendship get well soon image" />
+     <img class="img" src="/img/funny-friendship-get-well-soon.png" alt="funny friendship get well soon image" />I may not have a medical degree but I do have a friendships healing touch. Get well soon!
  </div>
   
   <div class="column">
-     <img class="img" src="/img/funny-get-well-soon-germs-quote.png" alt="germs love you funny get well image" />
+     <img class="img" src="/img/funny-get-well-soon-germs-quote.png" alt="germs love you funny get well image" />Germs, just like everyone else, find you irresistible. Get well soon!
  </div>
 </div>
 
