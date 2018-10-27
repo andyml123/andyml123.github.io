@@ -96,11 +96,11 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/funny-morphine-get-well-soon-image.png" alt="never tried morphine funny get well image" />
+     <img class="img" src="/img/funny-morphine-get-well-soon-image.png" alt="never tried morphine funny get well image" />People who think laughter is the best medicine have clearly never tried morphine!
  </div>
   
   <div class="column">
-     <img class="img" src="/img/funny-take-it-easy-quote.png" alt="take it easy funny get well quote" />
+     <img class="img" src="/img/funny-take-it-easy-quote.png" alt="take it easy funny get well quote" />Take it easy and you'll feel better soon
  </div>
 </div>
 
