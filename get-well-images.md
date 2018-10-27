@@ -26,7 +26,7 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-soon-image.png" alt="thinking of you get well soon image" /><div class="img-text"><p>Thinking of you and wishing you a speedy recovery. Get Well Soon</p></div>
+     <img class="img" src="/img/get-well-soon-image.png" alt="thinking of you get well soon image" /><div class="img-text">Thinking of you and wishing you a speedy recovery. Get Well Soon</div>
  </div>
   
   <div class="column">
