@@ -86,12 +86,12 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-soon-bear.png" alt="get well soon cute bear" />
+     <img class="img" src="/img/get-well-soon-bear.png" alt="get well soon cute bear" />Get well soon
  </div>
   
   <div class="column">
      <img class="img" src="/img/get-well-soon-card-message.png" alt="get well soon card message" />
- </div>
+ </div>Think positive thoughts and you may heal quicker than you thought possible. We miss you and want you better soon!
 </div>
 
 <div class="row">
