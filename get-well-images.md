@@ -156,57 +156,57 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/butterflies-hope-you-feel-better-soon.png" alt="butterflies hope you feel better soon" />
+     <img class="img" src="/img/butterflies-hope-you-feel-better-soon.png" alt="butterflies hope you feel better soon" />Hope you feel better soon
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-soon-butterflies-image.png" alt="get well soon butterflies image" />
+     <img class="img" src="/img/get-well-soon-butterflies-image.png" alt="get well soon butterflies image" />Get well soon
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/always-thinking-of-you-get-well-soon.png" alt="always thinking of you get well soon" />
+     <img class="img" src="/img/always-thinking-of-you-get-well-soon.png" alt="always thinking of you get well soon" />Always thinking of you
  </div>
   
   <div class="column">
-     <img class="img" src="/img/funny-get-well-soon-image.png" alt="funny get well soon image" />
+     <img class="img" src="/img/funny-get-well-soon-image.png" alt="funny get well soon image" />Please get well soon. I can only be nice to you for so long!
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/feel-better-soon-flowers-image.png" alt="feel better soon flowers image" />
+     <img class="img" src="/img/feel-better-soon-flowers-image.png" alt="feel better soon flowers image" />Feel better soon
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-soon-soup.png" alt="get well soon soup" />
+     <img class="img" src="/img/get-well-soon-soup.png" alt="get well soon soup" />Get well soon
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/hope-each-day-brings-you-renewed-strength.png" alt="hope each day brings renewed strength" />
+     <img class="img" src="/img/hope-each-day-brings-you-renewed-strength.png" alt="hope each day brings renewed strength" />I hope each day brings you renewed strength and much closer to recovery
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-soon-sign.png" alt="get well soon sign" />
+     <img class="img" src="/img/get-well-soon-sign.png" alt="get well soon sign" />Get well soon
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/after-surgery-get-well-image.png" alt="after surgery get well image" />
+     <img class="img" src="/img/after-surgery-get-well-image.png" alt="after surgery get well image" />Sending you best wishes and lots of love after your recent surgery. Hoping for a very quick recovery to full health
  </div>
   
   <div class="column">
-     <img class="img" src="/img/sending-you-hugs-and-best-wishes.png" alt="sending you hugs and best wishes" />
+     <img class="img" src="/img/sending-you-hugs-and-best-wishes.png" alt="sending you hugs and best wishes" />Sending you big hugs and my best wishes to feel better soon
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/cute-get-well-soon-image.PNG" alt="cute get well soon image" />
+     <img class="img" src="/img/cute-get-well-soon-image.PNG" alt="cute get well soon image" />Get well soon!
  </div>
   
   <div class="column">
