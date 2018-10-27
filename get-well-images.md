@@ -116,31 +116,31 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/always-thinking-of-you-image.png" alt="always thinking of you image" />
+     <img class="img" src="/img/always-thinking-of-you-image.png" alt="always thinking of you image" />Always thinking of you. Get well soon
  </div>
   
   <div class="column">
-     <img class="img" src="/img/get-well-soon-heart.png" alt="get well soon heart" />
+     <img class="img" src="/img/get-well-soon-heart.png" alt="get well soon heart" />Get well soon!
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/hope-you-get-well-soon.png" alt="hope you get well soon" />
+     <img class="img" src="/img/hope-you-get-well-soon.png" alt="hope you get well soon" />We really hope you get well soon
  </div>
   
   <div class="column">
-     <img class="img" src="/img/i-hope-you_re-feeling-better-quote.png" alt="i hope you're feeling better quote" />
+     <img class="img" src="/img/i-hope-you_re-feeling-better-quote.png" alt="i hope you're feeling better quote" />I know you've been feeling under the weather. I hope you're feeling better
  </div>
 </div>
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-well-soon-quote-image.png" alt="get well soon quote image" />
+     <img class="img" src="/img/get-well-soon-quote-image.png" alt="get well soon quote image" />Get well soon
  </div>
   
   <div class="column">
-     <img class="img" src="/img/sending-love-and-positive-thoughts-message.png" alt="sending love and positive thoughts message" />
+     <img class="img" src="/img/sending-love-and-positive-thoughts-message.png" alt="sending love and positive thoughts message" />Sending love and positive thoughts
  </div>
 </div>
 
