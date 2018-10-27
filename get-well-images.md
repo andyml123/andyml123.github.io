@@ -36,11 +36,11 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/feel-better-soon-image.png" alt="feel better soon card image" />
+     <img class="img" src="/img/feel-better-soon-image.png" alt="feel better soon card image" />Feel better soon
  </div>
   
   <div class="column">
-     <img class="img" src="/img/hope-you-feel-better-image.png" alt="sending you lots of love and hope you feel better image" />
+     <img class="img" src="/img/hope-you-feel-better-image.png" alt="sending you lots of love and hope you feel better image" />Sending you lots of love. Hope you feel better soon
  </div>
 </div>
 
