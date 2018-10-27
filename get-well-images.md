@@ -106,7 +106,7 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/wishing-a-speedy-recovery-message.png" alt="wishing you a speedy recovery message" />
+     <img class="img" src="/img/wishing-a-speedy-recovery-message.png" alt="wishing you a speedy recovery message" />Wishing you a speedy and full recovery. Hoping you feel much better very soon 
  </div>
   
   <div class="column">
