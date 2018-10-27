@@ -28,7 +28,7 @@ Hopefully these get well soon images will help to comfort and bring some hope to
  </div>
   
   <div class="column">
-     <img class="img" src="/img/feel-better-soon-flowers-image.png" alt="feel better soon flowers image" />
+     <img class="img" src="/img/get-back-on-your-feet-quote.png" alt="get back on your feet quote" />
  </div>
 </div>
 
@@ -174,7 +174,7 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 
 <div class="row">
  <div class="column">
-     <img class="img" src="/img/get-back-on-your-feet-quote.png" alt="get back on your feet quote" />
+     <img class="img" src="/img/feel-better-soon-flowers-image.png" alt="feel better soon flowers image" />
  </div>
   
   <div class="column">
