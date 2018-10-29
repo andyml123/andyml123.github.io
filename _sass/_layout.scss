@@ -707,18 +707,6 @@ display:block;
 $menu_Color: #fff;
 //-----------------
 
-*{
-	@include box-sizing(border-box);
-}
-body{
-	padding-top: 60px;
-	font-family: helvetica, arial, sans-serif;
-}
-a{
-	text-decoration: none;
-  color:#000;
-	@include transition(background-color .3s linear);
-}
 
 .clearfix:after{
 	content: "";
