@@ -735,7 +735,7 @@ nav ul{
 		position: relative;
 		margin-left: 10px;
 		text-align: center;
-		@include border-radius(4px);
+	 border-radius(4px);
 		&.submenu:after{
 			font-family: "FontAwesome";
 			content: "\f0d7";
