@@ -702,185 +702,99 @@ display:block;
 */
 
 
-	      
-/* Screen reader only */
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0,0,0,0);
-  border: 0;
-}
+	#logo{float:left; font-size:24px; text-transform:uppercase; color:#002e5b; font-weight:600; padding:20px 0px;}
+nav{width:auto; float:right;}
+nav ul{display:table; float:right;}
+nav ul li{float:left;}
+nav ul li:last-child{padding-right:0px;}
+nav ul li a{color:#002e5b; font-size:18px; padding: 25px 20px; display:inline-block; transition: all 0.5s ease 0s;}
+nav ul li a:hover{background-color:#002e5b; color:#fde428; transition: all 0.5s ease 0s;}
+nav ul li a:hover i{color:#fde428; transition: all 0.5s ease 0s;}
+nav ul li a i{padding-right:10px; color:#002e5b; transition: all 0.5s ease 0s;}
 
-/* Button styling */
-.menu-toggle {
-  display: inline-block;
-  padding: .75em 15px;
-  line-height: 1em;
-  font-size: 1em;
-  color: #000;
-  border-style: solid;
-  border-width: 1px;
-  border-color: #000;
-  margin: auto 0;
-}
+.toggle-menu ul{display:table; width:25px;}
+.toggle-menu ul li{width:100%; height:3px; background-color:#002e5b; margin-bottom:4px;}
+.toggle-menu ul li:last-child{margin-bottom:0px;}
 
-.menu-toggle:hover,
-.menu-toggle:focus {
-  color: #000;
-}
+input[type=checkbox], label{display:none;}
 
-/*
- Default styles + Mobile first
- Offscreen menu style
-*/
-.main-menu {
-  position: absolute;
-  left: -200px;
-  top: 0;
-  height: 100%;
-  overflow-y: scroll;
-  overflow-x: visible;
-  transition: left 0.3s ease,
-              box-shadow 0.3s ease;
-  z-index: 999;
-}
-
-.main-menu ul {
-  list-style: none;
-  margin: 0;
-  padding: 2.5em 0 0;
-  /* Hide shadow w/ -8px while 'closed' */
-  -webkit-box-shadow: -8px 0 8px rgba(0,0,0,.5);
-     -moz-box-shadow: -8px 0 8px rgba(0,0,0,.5);
-          box-shadow: -8px 0 8px rgba(0,0,0,.5);
-  min-height: 100%;
-  width: 200px;
-  background: #1a1a1a;
-}
-
-.main-menu a {
-  display: block;
-  padding: .75em 15px;
-  line-height: 1em;
-  font-size: 1em;
-  color: #fff;
-  text-decoration: none;
-  border-bottom: 1px solid #383838;
-}
-
-.main-menu li:first-child a {
-  border-top: 1px solid #383838;
-}
-
-.main-menu a:hover,
-.main-menu a:focus {
-  background: #333;
-  text-decoration: underline;
-}
-
-.main-menu .menu-close {
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
-/*
- On small devices, allow it to toggle...
-*/
-/*
- :target for non-JavaScript
- aria-expanded="true/false" will be for JavaScript
-*/
-.main-menu:target,
-.main-menu[aria-expanded="true"] {
-  left: 0;
-  outline: none;
-  -moz-box-shadow: 3px 0 12px rgba(0,0,0,.25);
-  -webkit-box-shadow: 3px 0 12px rgba(0,0,0,.25);
-  box-shadow: 3px 0 12px rgba(0,0,0,.25);
-}
-
-.main-menu:target .menu-close,
-.main-menu[aria-expanded="true"] .menu-close {
-  z-index: 1001;
-}
-
-.main-menu:target ul,
-.main-menu[aria-expanded="true"] ul {
-  position: relative;
-  z-index: 1000;
-}
-
-/* 
- We could us `.main-menu:target:after`, but
- it wouldn't be clickable.
-*/
-.main-menu:target + .backdrop,
-.main-menu[aria-expanded="true"] + .backdrop {
-  position: absolute;
-  display: block;  
-  content: "";
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 998;
-  background: #000;
-  background: rgba(0,0,0,.85);
-  cursor: default;
-}
-
-@supports (position: fixed) {
-  .main-menu,
-  .main-menu:target + .backdrop,
-  .main-menu[aria-expanded="true"] + .backdrop {
-    position: fixed;
-  }
-}
-
-/*
- Larger screen styling
- Horizontal menu
-*/
-@media (min-width: 768px) {
-  .menu-toggle,
-  .main-menu .menu-close {
-    display: none;
-  }
+      
   
-  /* Undo positioning of off-canvas menu */
-  .main-menu {
-    position: relative;
-    left: auto;
-    top: auto;
-    height: auto;
-  }
-  
-  .main-menu ul {
-    display: flex;
-    
-    /* Undo off-canvas styling */
-    padding: 0;
-    -webkit-box-shadow: none;
-       -moz-box-shadow: none;
-            box-shadow: none;
-    height: auto;
-    width: auto;
-    background: none;
-  }
-  
-  .main-menu a {
-    color: #000;
-    border: 0 !important; /* Remove borders from off-canvas styling */
-  }
-  
-  .main-menu a:hover,
-  .main-menu a:focus {
-    background: none; /* Remove background from off-canvas styling */
-    color: #000;
-  }
+ 
+
+*{text-decoration:none; list-style:none; margin:0px; padding:0px; outline:none;}
+body{margin:0px; padding:0px; font-family: 'Open Sans', sans-serif;}
+section{width:100%; max-width:1200px; margin:0px auto; display:table; position:relative;}
+h1{margin:0px auto; display:table; font-size:26px; padding:40px 0px; color:#002e5b; text-align:center;}
+h1 span{font-weight:500;}
+
+header{width:100%; display:table; background-color:#fde428; margin-bottom:50px;}
+#logo{float:left; font-size:24px; text-transform:uppercase; color:#002e5b; font-weight:600; padding:20px 0px;}
+nav{width:auto; float:right;}
+nav ul{display:table; float:right;}
+nav ul li{float:left;}
+nav ul li:last-child{padding-right:0px;}
+nav ul li a{color:#002e5b; font-size:18px; padding: 25px 20px; display:inline-block; transition: all 0.5s ease 0s;}
+nav ul li a:hover{background-color:#002e5b; color:#fde428; transition: all 0.5s ease 0s;}
+nav ul li a:hover i{color:#fde428; transition: all 0.5s ease 0s;}
+nav ul li a i{padding-right:10px; color:#002e5b; transition: all 0.5s ease 0s;}
+
+.toggle-menu ul{display:table; width:25px;}
+.toggle-menu ul li{width:100%; height:3px; background-color:#002e5b; margin-bottom:4px;}
+.toggle-menu ul li:last-child{margin-bottom:0px;}
+
+input[type=checkbox], label{display:none;}
+
+.content{display:table; margin-bottom:60px; width:900px;}
+.content h2{font-size:18px; font-weight:500; color:#002e5b; border-bottom:1px solid #fde428; display:table; padding-bottom:10px; margin-bottom:10px;}
+.content p{font-size:14px; line-height:22px; color:#7c7c7c; text-align:justify;}
+
+footer{display:table; padding-bottom:30px; width:100%;}
+.social{margin:0px auto; display:table; display:table;}
+.social li{float:left; padding:0px 10px;}
+.social li a{color:#002e5b; transition: all 0.5s ease 0s;}
+.social li a:hover{color:#fde428; transition: all 0.5s ease 0s;}
+
+@media only screen and (max-width: 1440px) {
+section{max-width:95%;}
 }
+
+@media only screen and (max-width: 980px) {
+header{padding:20px 0px;}
+#logo{padding:0px;}
+input[type=checkbox] {position: absolute; top: -9999px; left: -9999px; background:none;}
+input[type=checkbox]:fous{background:none;}
+label {float:right; padding:8px 0px; display:inline-block; cursor:pointer; }
+input[type=checkbox]:checked ~ nav {display:block;}
+
+nav{display:none; position:absolute; right:0px; top:53px; background-color:#002e5b; padding:0px; z-index:99;}
+nav ul{width:auto;}
+nav ul li{float:none; padding:0px; width:100%; display:table;}
+nav ul li a{color:#FFF; font-size:15px; padding:10px 20px; display:block; border-bottom: 1px solid rgba(225,225,225,0.1);}
+nav ul li a i{color:#fde428; padding-right:13px;}
+}
+
+@media only screen and (max-width: 980px) {
+.content{width:90%;}
+}
+
+@media only screen and (max-width: 568px) {
+h1{padding:25px 0px;}
+h1 span{display:block;}
+}
+
+@media only screen and (max-width: 480px) {
+section {max-width: 90%;}
+}
+
+@media only screen and (max-width: 360px) {
+h1{font-size:20px;}
+label{padding:5px 0px;}
+#logo{font-size: 20px;}
+nav{top:47px;}
+}
+
+@media only screen and (max-width: 320px) {
+h1 {padding: 20px 0px;}
+}
+
