@@ -748,7 +748,7 @@ input[type=checkbox]:fous{background:none;}
 label {padding:8px 0px; display:inline-block; cursor:pointer; }
 input[type=checkbox]:checked ~ nav {display:block;}
 
-nav{display:none; position:absolute; right:0px; top:53px; background-color:#002e5b; padding:0px; z-index:99;}
+nav{display:none; position:absolute; right:0px; top:53px; background-color:#002e5b; padding:0px; z-index:99;margin:auto;}
 nav ul{width:auto;}
 nav ul li{float:none; padding:0px; width:100%; display:table;}
 nav ul li a{color:#FFF; font-size:15px; padding:10px 20px; display:block; border-bottom: 1px solid rgba(225,225,225,0.1);}
