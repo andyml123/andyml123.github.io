@@ -702,147 +702,182 @@ display:block;
 */
 
 
-	$primaryColor: #021320; // dark blue
-$secondaryColor: #0F9962; // green
-$tertiaryColor: #005292; // light blue
+	      
+/* Screen reader only */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
 
-$flex_nav_hoverColor:darken($secondaryColor,5%);
-$flex_nav_borderColor: darken($secondaryColor,10%);
-$flex_nav_linkColor: white;
-$flex_nav_hotdogsColor: white;
+/* Button styling */
+.menu-toggle {
+  display: inline-block;
+  padding: .75em 15px;
+  line-height: 1em;
+  font-size: 1em;
+  color: #333;
+}
 
-$flex_nav_subNavWidth: 12.5em;
-$flex_nav_breakpoint: 48em;
+.menu-toggle:hover,
+.menu-toggle:focus {
+  color: #c00;
+}
 
+/*
+ Default styles + Mobile first
+ Offscreen menu style
+*/
+.main-menu {
+  position: absolute;
+  left: -200px;
+  top: 0;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: visible;
+  transition: left 0.3s ease,
+              box-shadow 0.3s ease;
+  z-index: 999;
+}
 
-#nav {
-  position:relative;
-	width:50%;
-	margin:auto;
+.main-menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 2.5em 0 0;
+  /* Hide shadow w/ -8px while 'closed' */
+  -webkit-box-shadow: -8px 0 8px rgba(0,0,0,.5);
+     -moz-box-shadow: -8px 0 8px rgba(0,0,0,.5);
+          box-shadow: -8px 0 8px rgba(0,0,0,.5);
+  min-height: 100%;
+  width: 200px;
+  background: #1a1a1a;
+}
+
+.main-menu a {
+  display: block;
+  padding: .75em 15px;
+  line-height: 1em;
+  font-size: 1em;
+  color: #fff;
+  text-decoration: none;
+  border-bottom: 1px solid #383838;
+}
+
+.main-menu li:first-child a {
+  border-top: 1px solid #383838;
+}
+
+.main-menu a:hover,
+.main-menu a:focus {
+  background: #333;
+  text-decoration: underline;
+}
+
+.main-menu .menu-close {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+/*
+ On small devices, allow it to toggle...
+*/
+/*
+ :target for non-JavaScript
+ aria-expanded="true/false" will be for JavaScript
+*/
+.main-menu:target,
+.main-menu[aria-expanded="true"] {
+  left: 0;
+  outline: none;
+  -moz-box-shadow: 3px 0 12px rgba(0,0,0,.25);
+  -webkit-box-shadow: 3px 0 12px rgba(0,0,0,.25);
+  box-shadow: 3px 0 12px rgba(0,0,0,.25);
+}
+
+.main-menu:target .menu-close,
+.main-menu[aria-expanded="true"] .menu-close {
+  z-index: 1001;
+}
+
+.main-menu:target ul,
+.main-menu[aria-expanded="true"] ul {
+  position: relative;
+  z-index: 1000;
+}
+
+/* 
+ We could us `.main-menu:target:after`, but
+ it wouldn't be clickable.
+*/
+.main-menu:target + .backdrop,
+.main-menu[aria-expanded="true"] + .backdrop {
+  position: absolute;
+  display: block;  
+  content: "";
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 998;
+  background: #000;
+  background: rgba(0,0,0,.85);
+  cursor: default;
+}
+
+@supports (position: fixed) {
+  .main-menu,
+  .main-menu:target + .backdrop,
+  .main-menu[aria-expanded="true"] + .backdrop {
+    position: fixed;
+  }
+}
+
+/*
+ Larger screen styling
+ Horizontal menu
+*/
+@media (min-width: 768px) {
+  .menu-toggle,
+  .main-menu .menu-close {
+    display: none;
+  }
   
-  ul {
-    display:none;
-    width:100%;
-    list-style:none;
-    margin:0px;
-    padding:0px;
-		
-
-li {
-      a {
-        display:block;
-        padding:1em;
-        background:$secondaryColor;
-            color:$flex_nav_linkColor;
-        text-decoration:none;
-        border-right:1px solid $flex_nav_borderColor;
-        &:hover {
-          background:$flex_nav_hoverColor;
-        }
-      }
-      &:last-of-type {
-        a {
-          border-right:0px;
-        }
-      }
-      // 2nd level
-      ul {
-        li {
-          a {
-            padding-left:1.5em;
-          }
-          ul {
-            li {
-              a {
-                padding-left:3.125em;
-              }
-            }
-          }
-        }
-      }
-
-    } // li
+  /* Undo positioning of off-canvas menu */
+  .main-menu {
+    position: relative;
+    left: auto;
+    top: auto;
+    height: auto;
+  }
+  
+  .main-menu ul {
+    display: flex;
     
-  } // ul 
-  
-input.trigger {
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
-    &:checked ~ ul,&:checked ~ ul li ul {
-      display:block !important;
-      @media (min-width:$flex_nav_breakpoint){
-        /* older flexbox */
-        display: -webkit-box;
-        display: -moz-box;
-        display: box;
-        -webkit-box-orient: horizontal;
-        -moz-box-orient: horizontal;
-        box-orient: horizontal;
-      
-        /* newer flexbox */
-        display: flex;
-        flex-direction: row;
-      }
-    }
-  }
-
-label {
-    position:relative;
-    display:block;
-    min-height:2em;
-    padding:.45em;
-    font-size:1.1em;
-    margin:0;
-    cursor:pointer;
-    background:$tertiaryColor;
-    line-height: 2em;
-    color:lighten($primaryColor,80%);
-  }
-    
-label:after {
-    position: absolute;
-    right: 1em;  
-    top: .2em; 
-    content:"\2261";
-    font-size:1.8em;
-    color:$flex_nav_hotdogsColor;
+    /* Undo off-canvas styling */
+    padding: 0;
+    -webkit-box-shadow: none;
+       -moz-box-shadow: none;
+            box-shadow: none;
+    height: auto;
+    width: auto;
+    background: none;
   }
   
-  @media(min-width:$flex_nav_breakpoint){
-    ul {
-      /* older flexbox */
-      //display:block;
-      display: -ms-flexbox;
-      flex-direction: -ms-row;
-      display: -webkit-box;
-      display: -moz-box;
-      display: box;
-
-      -webkit-box-orient: horizontal;
-      -moz-box-orient: horizontal;
-      box-orient: horizontal;
-      
-      /* newer flexbox */
-      display: flex;
-      flex-direction: row;
-      
-        -ms-flex: 1;
-        -webkit-box-flex: 1;
-        -moz-box-flex: 1;
-        box-flex: 1;
-        
-        /* newer flexbox */
-        flex: 1;
-
-&:hover > ul {
-          display: block !important;
-        }
-
-      } // li 
-    } // ul
-    label {
-      display:none;
-    }
-  } // breakpoint
+  .main-menu a {
+    color: #06c;
+    border: 0 !important; /* Remove borders from off-canvas styling */
+  }
+  
+  .main-menu a:hover,
+  .main-menu a:focus {
+    background: none; /* Remove background from off-canvas styling */
+    color: #c00;
+  }
+}
 
