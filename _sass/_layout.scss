@@ -835,30 +835,6 @@ label:after {
         /* newer flexbox */
         flex: 1;
 
-        // 2nd level
-        ul {
-          display:none !important;
-          position:absolute;
-          top:3.0625em;
-          left:0;
-          display:block;
-          width:$flex_nav_subNavWidth;
-          z-index:200;
-li {
-            text-align:left;
-            ul {
-              z-index: 300;
-              top:0px;
-              left: ($flex_nav_subNavWidth - .1);
-              li {
-                a {
-                  padding-left:30px !important;
-                }
-              }
-            }
-          }
-        } // ul 2nd level
-
 &:hover > ul {
           display: block !important;
         }
