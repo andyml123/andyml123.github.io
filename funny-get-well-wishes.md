@@ -55,6 +55,8 @@ However, you must be certain that the recipient of your message or card is going
 <li>Here's hoping your recovery from surgery goes down as smoothly as the painkillers and comfort food will</li>
 </ul>
 
+{% include adsense-middle1-responsive.html %}
+
 <div class="row">
  <div class="column">
      <img class="img" src="/img/funny-get-well-wishes-1.png" alt="funny get well wishes message" />
@@ -88,6 +90,8 @@ These funny messages are a lot more risque and in some cases downright rude! The
 <li>I wish I could take away your pain. Or at least take away the people who compare it to the time their hamster died.</li>
 <li>Get well soon so I can have the rest of your Vicodin</li> 
 </ul>
+
+{% include adsense-middle2-responsive.html %}
 
 Laughter is a great way to
 improve someones mood and brighten their spirits. When someone is ill they need all the cheering up they can get so if the situation is right, a funny get well message and card could be just the thing they need. So whilst you should be wary of offending or upsetting them, if you feel confident then a funny message could be the best way to wish someone a quick recovery.
