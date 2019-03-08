@@ -15,6 +15,8 @@ Our pets are more than just animals. They become part of the family. They're jus
 
 Get well cards for pets are a great way to acknowledge the illness or injury they have and provide some support and comfort to the owner. As a pet can often be overlooked in these circumstances the owner will appreciate you reaching out to them. 
 
+{% include adsense-top-responsive.html %}
+
 If you aren't sure what to write in a pet get well card then take a look at the examples below. You can either use them as inspiration for writing your own message or copy them directly to your card.
 
 <h2>Get Well Wishes for Pets</h2>
