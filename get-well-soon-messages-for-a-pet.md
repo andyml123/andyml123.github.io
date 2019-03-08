@@ -39,6 +39,8 @@ If you aren't sure what to write in a pet get well card then take a look at the 
 <li>Something as cute and innocent as _____ shouldn't get sick! It just doesn't seem right</li>
 </ul>
 
+{% include adsense-middle1-responsive.html %}
+
 <div class="row">
 <div class="column">
 <img src="/img/get-well-soon-messages-for-a-pet-1.png" class="center-image" alt="get well soon message for dog sick unwell blanket" />
@@ -86,6 +88,8 @@ If you aren't sure what to write in a pet get well card then take a look at the 
 <li>Cats may act aloof but during illness they need as much care as any other pet. Give her/him lots of strokes and treats from me!</li>
 <li>A bit of your loving care and I'm certain little _____ will be feeling purr-felt again real soon</li>
 </ul>
+
+{% include adsense-middle2-responsive.html %}
 
 <h2>Sick Pet Quotes</h2>
 
