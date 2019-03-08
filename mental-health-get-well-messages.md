@@ -15,11 +15,15 @@ Mental illness is, unfortunately, a common problem. According to the National Al
 
 We very quickly send get well cards, <a href="/get-well-flowers/">flowers</a> and <a href="/get-well-gifts/">gifts</a> to those with more 'normal' illnesses. A friend who is dealing with depression or severe anxiety, for example, is not seen in the same way. But they should be! Why shouldn't you send a get well card to someone with something like bipolar who is going through a rough spell? Or a colleague who is off work with a severe bout of depression? We all want to feel like people are thinking of us and are their if we needed them. That's no different be it we've caught the flu or have a mental health problem. Even an email or <a href="/get-well-soon-text-messages/">text message</a> can be a real boost to someone feeling alone, scared and miserable with their illness.
 
+{% include adsense-top-responsive.html %}
+
 It can, however, be difficult knowing what to say to someone who is suffering with something like depression or anxiety. A physical injury like a broken leg doesn't require much thought. A quick message that <a href="/get-well-wishes/">wishes them a speedy recovery</a>, or maybe something <a href="/funny-get-well-wishes/">humorous</a> that pokes fun at their affliction is good enough. But you don't recover quickly from a mental health problem. It's about coping and learning to manage your specific issues as best as you can. So understandably writing a get well message for something so complex can be tricky. There's also the fear of saying the wrong thing and causing offence. Will what I write sound patronising? Will I use the wrong terms and phrases? Can I send or joke or try to make them laugh? Is it something they prefer to keep private and deal with in their own? The last thing people want to do is make someone already ill feel even worse! 
 
 That's why we've tried to offer some me help with this guide. If you're struggling with what to write or aren't sure what might be offensive then hopefully following some of the tips and ideas here will enable you to write touching, supportive and well received words that offer comfort to someone suffering with their mental health.
 
 And if you're wondering about how much difference a get well card can really make, <a href="https://www.time-to-change.org.uk/blog/get-well-soon-cards-for-mental-health-problems#mia">read this from Mia</a>. Even the smallest gesture can have a dramatic impact on a persons life. So get writing!
+
+{% include adsense-middle1-responsive.html %}
 
 <h2>What to Write or Say</h2>
 
@@ -29,6 +33,8 @@ And if you're wondering about how much difference a get well card can really mak
 <li><strong>Use positive quotes about life’s struggles</strong> - encouragement and inspiration should not be overlooked. A quote that reflects the struggles they might be going through but offers hope and light at the end of the tunnel can be really uplifting.</li>
 <li><strong>Make them laugh</strong> - you have to be absolutely sure the recipient will appreciate a funny message or card, but if so then it can be a great way to break the ice or chew them up. Something like a silly card or stupid pun, or an in-joke if you're really close. Anything that might put a smile on their face and help alleviate the negative thoughts, even for a short time. </li>
 </ul>
+
+{% include adsense-middle2-responsive.html %}
 
 <h2>What Not to Say or Write</h2>
 
