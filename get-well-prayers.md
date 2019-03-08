@@ -16,6 +16,8 @@ When someone you love or care about becomes ill you wish only the best for them.
 
 Get well prayers help both the suffering and the person praying. As someone going through sickness or injury it can be comforting to know they are in people's thoughts and prayers. And having groups of friends or family praying for their recovery can give them strength when they need it most. The person praying gets to feel like they are offering that comfort and support. That they are being there for their friend or family member who is going through such a tough time.
 
+{% include adsense-top-responsive.html %}
+
 So use one of get well prayers below to pray for someone close to you to find the strength to feel better and make a full recovery. 
 
 <h2>Short Get Well Prayers</h2>
@@ -42,6 +44,8 @@ My healer and my friend.
 I dwell within your gentle embrace.
 Amen.</li>
 </ul>
+
+{% include adsense-middle1-responsive.html %}
 
 <h2>Get Well Soon Prayers</h2>
 
@@ -79,6 +83,7 @@ To love and live and enjoy life again.<br></p>
 Amen
 </div>
 
+{% include adsense-middle2-responsive.html %}
 
 <h2>Get Well Prayers for a Friend</h2>
 
