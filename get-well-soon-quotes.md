@@ -17,6 +17,8 @@ published: true
 <p>
 A friend or loved one becoming ill can be a really tough time. Seeing someone you care deeply about unwell or injured is hard to handle. But they need all your support and help during their period of recovery. Making sure they know you're thinking of and are there for them is really important. A good way to do so is by sending them your <a href="/get-well-wishes/">best wishes</a>. So use these get well soon quotes to show they're in your thoughts as they continue to get better.
 </p>
+
+{% include adsense-top-responsive.html %}
   
 <h2>Inspirational Get Well Soon Quotes</h2>
 
@@ -41,6 +43,8 @@ Sometimes the person who is sick needs some inspiration or motivation to feel be
 <li>It isn’t always easy, but when you’re not feeling well, I hope it helps to know others are thinking of you, and hoping that you’ll be better very soon. Take good care of yourself</li>
 <li>Recovery is hard work – but you’re not alone. Not a day goes by that you aren’t thought of and wished well</li>
 </ol>
+
+{% include adsense-middle1-responsive.html %}
 
 <div class="row">
  <div class="column">
@@ -74,6 +78,8 @@ Being injured or sick is pretty much always miserable. No one ever has fun when 
 <li>Look outside - the sun is shining and spurring you on to get well!</li>
 <li>Just remember how everyone is looking forward to seeing you well again</li>
 </ol>
+
+{% include adsense-middle2-responsive.html %}
 
 <div class="row">
  <div class="column">
