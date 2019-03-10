@@ -14,6 +14,8 @@ published: true
 ---
 <p>Get well poems are a brilliant way to lift a sick friend or relatives spirits. Using a cheerful and upbeat verse can work wonders on their mood. Improving an unwell persons state of mind is essential for helping them to feel better. So feel free to use the get well soon poems and verses below in a card or with a gift. </p>
 
+{% include adsense-top-responsive.html %}
+
 <h2>Get Well Poems</h2>
 
 <div class="poems">
@@ -113,6 +115,8 @@ Where all your fans await!</p>
   
 </div>
 
+{% include adsense-middle1-responsive.html %}
+
 <div class="poems">
   
 <p><strong>You Are Deeply Missed</strong></p>
@@ -208,6 +212,8 @@ After all, I am your best mate</p>
 <p>Get well soon</p>
 
 </div>
+
+{% include adsense-middle2-responsive.html %}
 
 <div class="poems">
   
