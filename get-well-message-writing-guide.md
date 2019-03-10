@@ -16,6 +16,8 @@ Writing a get well card message may appear hard but doesn't have to be. In fact 
 
 <p>Saying 'get well soon' is meant to convey the message of hoping someone recovers from an illness or injury. It is used to wish people a quick return to full health and often written in greetings cards or with flowers. You can also use other phrases such as 'feel better', 'feel better soon' and 'wishing you a speedy recovery' which mean the same thing.</p>
 
+{% include adsense-top-responsive.html %}
+
 <h2>How to Write a Get Well Soon Message?</h2>
 
 <p>If you want to write your own get well message for a card then there are a few steps you can follow.</p>
@@ -38,6 +40,8 @@ Some example messages:
 </ul>
 
 See more example <a href="/get-well-wishes/">get well wishes</a>.
+
+{% include adsense-middle1-responsive.html %}
 
 <h2>How do you Say Get Well Soon?</h2>
 
@@ -70,6 +74,8 @@ These are some ways to say "Get Well Soon"
 </ul>
 
 See more of our <a href="/get-well-soon-messages-after-surgery">after surgery message examples</a>
+
+{% include adsense-middle2-responsive.html %}
 
 <h2>What you Shouldn't Say</h2>
 
