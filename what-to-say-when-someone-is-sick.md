@@ -20,6 +20,8 @@ The following examples and steps for what to say when someone is not feeling wel
 
 As a general rule you can follow these few steps to getting a basic idea of what sort of things to say both in person or a card:
 
+{% include adsense-top-responsive.html %}
+
 <h2>What to Say When Someone is Sick</h2>
 
 <ul>
@@ -29,6 +31,8 @@ As a general rule you can follow these few steps to getting a basic idea of what
 <li>Make it clear you can see them <I>if they want</I>: "I'll come over and see you whenever is it's convenient"</li>
 <li>End by telling them how special they are to you: "No matter what you know I love you and will be there for you"</li>
 </ul>
+
+{% include adsense-middle1-responsive.html %}
 
 <h2>What to Say When Someone has a Cold, Flu or Other Minor Ailment</h2>
 
@@ -54,6 +58,8 @@ If you're still struggling then these examples should hopefully give you a bette
 </ul>
 
 For more ideas try these <a href="/get-well-wishes/">get well wishes</a>.
+
+{% include adsense-middle2-responsive.html %}
 
 <h2>What to Say When Someone has Cancer</h2>
 
@@ -130,3 +136,5 @@ The most important thing to remember, and applies to both what you say and how y
 <li>Do not ask them in depth medical questions unless they volunteer information first. Asking about the effects of medication or how certain procedures feel is a definite no-no. Unsurprisingly most sick people want to take their minds off being ill not relive or go over parts of it.</li>
 <li>Don't expect a reply or be offended if you don't get one. They will obviously be going through a lot, quite likely be tired and maybe just don't want to talk at that point. In fact a good way to avoid pressuring someone that's ill is by including in any message or card "no need to reply". This removes any feelings of guilt they may have about not getting back to you.</li>
 </ul>
+
+{% include adsense-bottom-responsive.html %}
