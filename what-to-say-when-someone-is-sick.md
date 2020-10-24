@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'What to Say When Someone is Sick: 32 Comforting and Encouraging Examples'
 title2: What to Say When Someone is Sick
 description: >-
