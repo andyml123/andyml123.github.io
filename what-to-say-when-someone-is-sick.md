@@ -51,7 +51,7 @@ If you're still struggling then these examples should hopefully give you a bette
 <li>Just a quick message to see how you are? Let me know if I can help at all - don't be a martyr!</li>
 <li>Sounds like someone's just trying to miss a few days of work! Only kidding! Hope you feel better soon</li>
 <li>Bedrest, fluids, and lots of sleep - that's your prescription for the next few days. I'll drop round to make sure you're doing ok soon though</li>
-<ul>
+</ul>
 
 For more ideas try these <a href="/get-well-wishes/">get well wishes</a>.
 
@@ -77,7 +77,7 @@ The examples below will hopefully demonstrate the sort of things to say to or wr
 <li>It seems silly to ask how you're feeling but I hope you're doing ok. I'll come round for a chat soon if you like</li>
 <li>You're stronger than you know and are going to come through this and out the other side, I promise</li>
 <li>I'm sure you will hate being called brave but the way you're dealing with this the perfect example of bravery. You're amazing, strong and will defeat this, no doubt in my mind</li>
-<ul>
+</ul>
 
 <h2>What to Say When Someone is Terminally Ill</h2>
 
@@ -96,7 +96,7 @@ The sample ideas below will act as a guide of what to say but as with every situ
 <li>I know you have your family around and taking care of you but I wanted to reach out and say you're in my thoughts and prayers. Please stay in touch, especially if there is anything you need</li>
 <li>If you'd like me to pop round for a chin wag or gossip then I can be there. Let's set the world to rights and enjoy ourselves!</li>
 <li>Your my star and I love you with all my heart. Stay strong and brace just like I know you are</li>
-<ul>
+</ul>
 
 <h2>What to Say to Someone Who is About to go to Surgery</h2>
 
@@ -112,7 +112,7 @@ The prospect of surgery, however small,  can be frightening. It has some risk re
 <li>I know this must be daunting but you're a fighter and will get through it. </li>
 <li>You're strength and positive outlook are so inspiring. You'll take this in your stride just like everything else you've come up against</li>
 <li>If you're feeling poorly after your surgery I'll make sure I'm available for anything you need. Let me know and I'll do all I can</li>
-<ul>
+</ul>
 
 For what to say to someone when they're recovering then try these <a href="/get-well-soon-messages-after-surgery/">get well wishes for after surgery</a>.
 
@@ -129,4 +129,4 @@ The most important thing to remember, and applies to both what you say and how y
 <li>Try to avoid pitying them. They won't want to feel like some helpless victim. </li>
 <li>Do not ask them in depth medical questions unless they volunteer information first. Asking about the effects of medication or how certain procedures feel is a definite no-no. Unsurprisingly most sick people want to take their minds off being ill not relive or go over parts of it.</li>
 <li>Don't expect a reply or be offended if you don't get one. They will obviously be going through a lot, quite likely be tired and maybe just don't want to talk at that point. In fact a good way to avoid pressuring someone that's ill is by including in any message or card "no need to reply". This removes any feelings of guilt they may have about not getting back to you.</li>
-<ul>
+</ul>
