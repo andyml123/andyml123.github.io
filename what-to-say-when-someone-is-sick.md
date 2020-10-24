@@ -28,7 +28,7 @@ As a general rule you can follow these few steps to getting a basic idea of what
 <li>Offer your support, being specific: "If you need anything - the kids looking after, the grocery shopping done - just ask"</li>
 <li>Make it clear you can see them <I>if they want</I>: "I'll come over and see you whenever is it's convenient"</li>
 <li>End by telling them how special they are to you: "No matter what you know I love you and will be there for you"</li>
-<ul>
+</ul>
 
 <h2>What to Say When Someone has a Cold, Flu or Other Minor Ailment</h2>
 
