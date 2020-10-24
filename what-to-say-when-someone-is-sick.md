@@ -136,5 +136,3 @@ The most important thing to remember, and applies to both what you say and how y
 <li>Do not ask them in depth medical questions unless they volunteer information first. Asking about the effects of medication or how certain procedures feel is a definite no-no. Unsurprisingly most sick people want to take their minds off being ill not relive or go over parts of it.</li>
 <li>Don't expect a reply or be offended if you don't get one. They will obviously be going through a lot, quite likely be tired and maybe just don't want to talk at that point. In fact a good way to avoid pressuring someone that's ill is by including in any message or card "no need to reply". This removes any feelings of guilt they may have about not getting back to you.</li>
 </ul>
-
-{% include adsense-bottom-responsive.html %}
