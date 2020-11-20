@@ -45,7 +45,7 @@ See more example <a href="/get-well-wishes/">get well wishes</a>.
 
 <h2>How do you Say Get Well Soon?</h2>
 
-<p>If you're intending to say get well soon to someone in person, maybe visiting them at home or in hospital, then what you will say is very similar to a get well card message.</p>
+<p>If you're intending to say get well soon to someone in person, maybe visiting them at home or in hospital, then <a href="/what-to-say-when-someone-is-sick/">what you will say</a> is very similar to a get well card message.</p>
 
 These are some ways to say "Get Well Soon"
 <ul>
