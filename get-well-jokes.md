@@ -11,9 +11,9 @@ tags: get well jokes
 categories: jokes
 published: true
 ---
-Being made to laugh or hearing something funny when you're feeling ill can be a real lift. Just that moment of the dam breaking when you've felt miserable for so long and the laughter comes almost a release. 
+Being made to laugh or hearing something funny when you're feeling ill can be a real lift. Just that moment of the dam breaking when you've felt miserable for so long and the laughter comes is almost a release. 
 
-And being ill is no fun. So whoever it is that is under the weather usually can do with a laugh to raise their spirits. That's what this list of jokes is intended to do. You can use them in a card or tell in person if you're visiting someone.
+And being ill is no fun. So whoever it is that is under the weather usually can do with a laugh to raise their spirits. That's what this list of jokes is intended to do. You can use them with your <a href="/get-well-wishes/">get well wishes</a> in a card or tell in person if you're visiting someone.
 
 {% include adsense-top-responsive.html %}
 
