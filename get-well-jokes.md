@@ -9,6 +9,7 @@ permalink: /get-well-jokes/
 image: /img/get-well-jokes.png
 tags: get well jokes
 categories: jokes
+last_modified_at:   2021-02-06 11:30:00 +0000
 published: true
 ---
 Being made to laugh or hearing something funny when you're feeling ill can be a real lift. Just that moment of the dam breaking when you've felt miserable for so long and the laughter comes is almost a release. 
