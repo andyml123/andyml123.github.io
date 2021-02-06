@@ -9,6 +9,7 @@ image: /img/mental-health-get-well-messages.jpeg
 tags: 'get well wishes, get well messages, mental health get well messages'
 categories:
   - messages
+last_modified_at:   2021-02-05 8:30:00 +0000
 published: true
 ---
 Mental illness is, unfortunately, a common problem. According to the National Alliance on Mental Illness <a href="https://www.nami.org/Learn-More/Mental-Health-By-the-Numbers">approximately 1 in 5 adults in the U.S.</a> - 43.8 million, or 18.5% - experiences mental illness in a given year, and in the UK approximately <a href="https://www.mind.org.uk/information-support/types-of-mental-health-problems/statistics-and-facts-about-mental-health/how-common-are-mental-health-problems/">1 in 4 people will experience a mental health problem each year</a>. That means there's a very good chance you will know someone who has, or is, suffering from a mental health problem. But unlike illnesses or injuries that are very visible or more fully understood - a broken limb, cancer - mental health is often overlooked. 
