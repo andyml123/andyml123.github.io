@@ -3,11 +3,11 @@ layout: page
 title: 48 Get Well Wishes for a Coworker
 title2: Get Well Wishes for a Coworker
 description: >-
-  Put a smile on a sick friend or family members face with one of these
-  hilarious get well messages
+  Wish a sick coworker or colleague to get better with one of these
+  thoughtful get well messages and quotes
 permalink: /get-well-wishes-coworker/
-image: /img/funny-get-well-wishes.png
-tags: 'funny get well wishes, funny get well soon messages, funny get well messages'
+image: /img/get-well-wishes-coworker.jpg
+tags: 'get well wishes, get well soon messages, get well quotes, get well wishes for coworker'
 categories: messages
 last_modified_at:   2021-02-16 12:36:00 +0000
 published: true
