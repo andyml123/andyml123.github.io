@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 48 Get Well Wishes for a Coworker
+title: 38 Get Well Wishes for a Coworker
 title2: Get Well Wishes for a Coworker
 description: >-
   Wish a sick coworker or colleague to get better with one of these
