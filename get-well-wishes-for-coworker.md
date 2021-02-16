@@ -25,6 +25,8 @@ It doesn't have to be difficult. Reaching out to your sick colleague and offerin
 But if you're struggling to find the words for a get well message for a colleague, these get well quotes and messages will help you show your coworker how much you're thinking of them. You can use them in a get well card, in person or even on somewhere like Facebook. Change them fit your situation and let your colleague know they are in the thoughts of everyone at work.
 </p>
 
+{% include adsense-top-responsive.html %}
+
   <h2>Get Well Wishes for Coworker</h2>
 
 <ol>
@@ -46,6 +48,8 @@ But if you're struggling to find the words for a get well message for a colleagu
 <li>We've become such good friends since you started working here that even one day off work and I miss you! Feel better and come back soon</li>
 <li>Are you just faking to get off work? Only joking! Feel better soon!</li>
 </ol>
+
+{% include adsense-middle1-responsive.html %}
 
 <div class="row">
 <div class="column">
@@ -72,6 +76,8 @@ But if you're struggling to find the words for a get well message for a colleagu
 <li>Big happy wishes for you to feel like your old self very soon. Being sick is no fun but with some rest I know you'll be firing on all cylinders again really soon</li>
 <li>You've left a huge hole at work that can't be filled. Hoping you get well soon!</li>
 </ol>
+
+{% include adsense-middle2-responsive.html %}
 
 <h2>How do you Wish a Colleague a Speedy Recovery?</h2>
 
