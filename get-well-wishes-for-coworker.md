@@ -3,7 +3,7 @@ layout: page
 title: 38 Get Well Wishes for a Coworker
 title2: Get Well Wishes for a Coworker
 description: >-
-  Wish a sick coworker or colleague to get better with one of these
+  Wish a sick coworker or colleague a speedy recovery with one of these
   thoughtful get well messages and quotes
 permalink: /get-well-wishes-coworker/
 image: /img/get-well-wishes-coworker.jpg
@@ -49,10 +49,10 @@ But if you're struggling to find the words for a get well message for a colleagu
 
 <div class="row">
 <div class="column">
-<img src="/img/get-well-wishes-for-coworkers.png" class="center-image" alt="sending loving wishes retirement message" />
+<img src="/img/get-well-wishes-for-coworkers-1.jpg" class="center-image" alt="get well wishes for coworker we miss you message" />
 </div>
 <div class="column">
-<img src="/img/get-well-quotes-for-colleague.png" class="center-image" alt="retirement message flower basket" />
+<img src="/img/get-well-wishes-for-coworkers-2.jpg" class="center-image" alt="get well message for coworker you're a tough cookie" />
 </div>
 </div>
 <hr>
