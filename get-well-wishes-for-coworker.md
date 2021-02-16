@@ -116,3 +116,5 @@ You could even use a <a href="/funny-get-well-wishes/">funny message</a>. Most p
 <li>If there anything I can do to help you get better that bit quicker then don't hesitate to ask. I can be there for you</li>
 <li>I know being ill sucks! Hoping you fell better extra quickly so you can be back where you belong - with your work family! </li>
 </ol>
+
+<img src="/img/get-well-wishes-for-coworkers.jpg" class="center-image" alt="get well wishes for coworkers pintetest large image" />
