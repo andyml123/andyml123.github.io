@@ -123,4 +123,5 @@ You could even use a <a href="/funny-get-well-wishes/">funny message</a>. Most p
 <li>I know being ill sucks! Hoping you fell better extra quickly so you can be back where you belong - with your work family! </li>
 </ol>
 
-<img src="/img/get-well-wishes-for-coworkers.jpg" class="center-image" alt="get well wishes for coworkers pintetest large image" />
+<img src="/img/get-well-wishes-for-coworkers.jpg" class="center-image" alt="get well wishes for coworkers pintetest large image" loading="lazy" data-pin-description="Wish a sick coworker or colleague a speedy recovery with one of these
+  thoughtful get well messages and quotes | #getwell #getwellsoon #wishes #feelbetter #recovery" /></a> />
