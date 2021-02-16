@@ -1,14 +1,15 @@
 ---
 layout: page
-title: 48 Get Well Wishes for Coworkers and Colleagues
-title2: Get Well Wishes for Coworkers and Colleagues
+title: 48 Get Well Wishes for a Coworker
+title2: Get Well Wishes for a Coworker
 description: >-
-Put a smile on a retiring friend or family members face with one of these hilarious retirement quotes
-tags: 'retirement quotes, inspirational retirement quotes, retirement messages, quotes about retirement'
-image: /img/get-well-wishes-for-coworker.jpg
+  Put a smile on a sick friend or family members face with one of these
+  hilarious get well messages
 permalink: /get-well-wishes-coworker/
-categories:
-  - messages
+image: /img/funny-get-well-wishes.png
+tags: 'funny get well wishes, funny get well soon messages, funny get well messages'
+categories: messages
+last_modified_at:   2021-02-16 12:36:00 +0000
 published: true
 ---
 
