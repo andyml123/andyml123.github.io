@@ -7,7 +7,7 @@ Let a child know you're thinking of them as they're poorly with these get well w
 tags: 'get well quotes, get well wishes, get well messages, get well wishes for kids, get well messages for a child'
 image: /img/get-well-wishes-for-a-child.jpg
 permalink: /get-well-wishes-for-a-child/
-last_modified_at:   2021-03-01 18:48:00 +0000
+last_modified_at: 2021-03-01 18:48:00 +0000
 categories:
   - messages
 published: true
