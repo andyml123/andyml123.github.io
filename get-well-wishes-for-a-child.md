@@ -68,7 +68,7 @@ published: true
 <li>You've been so brave! Just a little more time resting and you can come home and enjoy play time again</li>
 <li>I know you must be feeling poorly still but we are so proud of you. There's going to be a big cake and so many gifts when you get home!</li>
 <li>Sending you so many huge hugs and big sloppy wet kisses to feel better after your big surgery. You're my special guy and I am so pleased you'll be getting better now</li>
-<li>I know how hard it's been but you're now on the road to recovery. 
+<li>I know how hard it's been but you're now on the road to recovery. </li>
 <li>We are all waiting to see you again after your big operation. It'll be great having you back at school</li>
 <li>I've been missing you so much but it's almost time to leave the hospital and see all your friends again. I promise everything will be much better now</li>
 <li>To my little superhero - you were amazing! I hope you're feeling ok after your surgery and looking forward to coming home</li>
