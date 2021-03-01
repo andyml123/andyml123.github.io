@@ -1,15 +1,15 @@
 ---
 layout: page
 title: '38 Get Well Wishes for a Child'
-title2: 'Get Well Wishes for a Child'
+title2: Get Well Wishes for a Child
 description: >-
-Let a child know you're thinking of them as they're poorly with these get well wishes for kids 
-tags: 'get well quotes, get well wishes, get well messages, get well wishes for kids, get well messages for a child'
+  Let a child know you're thinking of them as they're poorly with these get well wishes for kids
 image: /img/get-well-wishes-for-a-child.jpg
 permalink: /get-well-wishes-for-a-child/
-last_modified_at: 2021-03-01 18:48:00 +0000
+tags: 'get well wishes, get well wishes for a child, get well messages for kids'
 categories:
   - messages
+last_modified_at:   2021-03-01 18:48:00 +0000
 published: true
 ---
 
