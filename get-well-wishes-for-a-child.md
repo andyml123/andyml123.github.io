@@ -19,7 +19,7 @@ published: true
 
 <p>That's without even mentioning other common problems kids get like earache, coughs etc. </p>
 
-<p>So if you're struggling with how to say get better soon to a child then these get well soon quotes and messages should </p>
+<p>So if you're struggling with how to say get better soon to a child then these get well soon quotes and messages should give you the perfect words for cheering a little one up while they get better.</p>
 
 {% include adsense-top-responsive.html %}
 <h2>Get Well Wishes for Children</h2>
