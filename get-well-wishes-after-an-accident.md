@@ -1,6 +1,6 @@
 ---
 layout: page
-title: '38 Get Well Wishes after an Accident'
+title: '40 Get Well Wishes after an Accident'
 title2: Get Well Wishes after an Accident
 description: >-
   Reach out to someone and let them know they're in your thoughts with these get well wishes after an accident
@@ -62,7 +62,7 @@ If you aren't sure how to comfort someone after an accident then don't worry. We
 <img src="/img/get-well-message-after-accident.jpg" class="center-image" alt="sending all my loving get well message after an accident" />
 </div>
 <div class="column">
-<img src="/img/get-well-wishes-after-accident.jpg" class="center-image" alt="hope you're feeling better get well wishes after accident" />
+<img src="/img/get-well-wishes-for-accident.jpg" class="center-image" alt="hope you're feeling better get well wishes after accident" />
 </div>
 </div>
 <hr>
