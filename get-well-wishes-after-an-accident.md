@@ -88,7 +88,7 @@ If you aren't sure how to comfort someone after an accident then don't worry. We
 
 <ul>
 <li>Wishing you a fast recovery</li>
-<li>I hope you feel better really soon</li/>
+<li>I hope you feel better really soon</li>
 <li>Take it easy and rest up after your accident</li>
 <li>So relieved it wasn't serious. My best wishes for your recovery</li>
 <li>Please feel better soon! We miss you!</li>
