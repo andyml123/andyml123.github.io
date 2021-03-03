@@ -27,6 +27,7 @@ When someone is sick or injured we reach out and tell them we're thinking of the
 So use these religious get well quotes to wish someone all the best and a speedy recovery from a faith perspective.
 </p>
 
+{% include adsense-top-responsive.html %}
 
 <h2>Religious Get Well Wishes</h2>
 
@@ -44,6 +45,7 @@ So use these religious get well quotes to wish someone all the best and a speedy
 <li>Our prayers are for you to have a very quick recovery period and to feel back to normal as soon as possible</li>
 </ul>
 
+{% include adsense-middle1-responsive.html %}
 
 <ul>
 <li>Prayer may not be considered a treatment by doctors but we know the power it has. We will all be praying for you</li>
@@ -57,6 +59,18 @@ So use these religious get well quotes to wish someone all the best and a speedy
 <li>May Gods love and peace bring you serenity and hope during your time of recovery. Get well soon</li>
 <li>Whilst you recuperate look to God for strength and compassion. He will guide you through this testing time. Get well soon</li>
 </ul>
+
+{% include adsense-middle2-responsive.html %}
+
+<div class="row">
+<div class="column">
+<img src="/img/religious-get-well-wishes.jpg" class="center-image" alt="sending loving wishes retirement message" />
+</div>
+<div class="column">
+<img src="/img/religious-get-well-quote.jpg" class="center-image" alt="retirement message flower basket" />
+</div>
+</div>
+<hr>
 
 <h2>Spiritual Get Well Wishes</h2>
 
@@ -72,16 +86,6 @@ So use these religious get well quotes to wish someone all the best and a speedy
 <li>Put your faith in God and feel his presence as you recover. He will guide you to health</li>
 <li>Sending hugs, prayers and thoughts for you to feel better soon</li>
 </ul>
-
-<div class="row">
-<div class="column">
-<img src="/img/religious-get-well-wishes.jpg" class="center-image" alt="sending loving wishes retirement message" />
-</div>
-<div class="column">
-<img src="/img/religious-get-well-quote.jpg" class="center-image" alt="retirement message flower basket" />
-</div>
-</div>
-<hr>
 
 <h2>Christian Get Well Messages</h2>
 
