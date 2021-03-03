@@ -9,7 +9,7 @@ permalink: /religious-get-well-messages/
 tags: 'religious get well wishes, religious get well messages, spiritual get well wishes'
 categories:
   - messages
-last_modified_at:   2021-03-03 18:48:00 +0000
+last_modified_at:   2021-03-03 12:23:00 +0000
 published: true
 ---
 
