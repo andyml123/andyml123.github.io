@@ -3,7 +3,7 @@ layout: page
 title: 'Religious Get Well Messages: 42 Christian  Ways to Say Get Well Soon'
 title2: Religious Get Well Messages
 description: >-
-  Let a child know you're thinking of them as they're poorly with these get well wishes for kids
+  Wish someone a speedy recovery and let them they're in your prayers with these religious get well wishes
 image: /img/religious-get-well-messages.jpg
 permalink: /religious-get-well-messages/
 tags: 'religious get well wishes, religious get well messages, spiritual get well wishes'
