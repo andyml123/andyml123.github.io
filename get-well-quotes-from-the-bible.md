@@ -2,7 +2,7 @@
 layout: page
 title: '31 Get Well Quotes from the Bible'
 title2: Get Well Quotes from the Bible: >-
-  Let a child know you're thinking of them as they're poorly with these get well wishes for kids
+  Use these get well Bible quotes and verses to bring some light and comfort to someone suffering from ill health
 image: /img/get-well-quotes-from-the-bible.jpg
 permalink: /get-well-quotes-from-the-bible/
 tags: 'religious get well wishes, religious get well messages, get well quotes from the bible, get well Bible quotes'
