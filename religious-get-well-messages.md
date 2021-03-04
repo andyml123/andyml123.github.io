@@ -102,3 +102,5 @@ So use these religious get well quotes to wish someone all the best and a speedy
 <li>His love is forever, it never fails and will always be there for you. Find comfort and peace in knowing He is there, and continue to heal. Sending my loving wishes for your health</li>
 <li>Praying you feel the love of God in your life and that being close to Him helps you to feel better</li> 
 </ul>
+
+Read more: <a href="/get-well-quotes-from-the-bible/"Get Well Bible Quotes</a>
