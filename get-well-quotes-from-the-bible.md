@@ -1,14 +1,15 @@
 ---
 layout: page
-title: '31 Get Well Quotes from the Bible'
-title2: Get Well Quotes from the Bible: >-
-  Use these get well Bible quotes and verses to bring some light and comfort to someone suffering from ill health
-image: /img/get-well-quotes-from-the-bible.jpg
+title: 31 Get Well Quotes from the Bible
+title2: Get Well Quotes from the Bible
+description: >-
+  Put a smile on a sick friend or family members face with one of these
+  hilarious get well messages
 permalink: /get-well-quotes-from-the-bible/
-tags: 'religious get well wishes, religious get well messages, get well quotes from the bible, get well Bible quotes'
-categories:
-  - messages
-last_modified_at:   2021-03-04 14:19:00 +0000
+image: /img/get-well-quotes-from-the-bible.jpg
+tags: 'funny get well wishes, funny get well soon messages, funny get well messages'
+categories: messages
+last_modified_at:   2021-02-06 11:30:00 +0000
 published: true
 ---
 
