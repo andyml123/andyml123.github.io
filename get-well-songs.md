@@ -13,9 +13,6 @@ last_modified_at:   2021-02-05 8:30:00 +0000
 published: true
 ---
 
-
-10 Songs to Cheer up Those Who Are Sick
-
 When someone you know is sick you may want to try and cheer them up. That might be with a nice gift, flowers or just a simple card. 
 
 But something everyone loves is a great song. One that can put a smile on your face no matter how bad you're feeling.
