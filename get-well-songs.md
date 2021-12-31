@@ -34,3 +34,37 @@ If you need a few ideas of the best get well songs then this list of our favorit
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hXU4P6j3TNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>Birdy - Keeping Your Head Up</strong>
+
+
+
+
+<strong>Christina Aguilera - Fighter</strong>
+
+
+
+<strong>Bill Withers - Lovely Day</strong>
+
+
+
+<strong>Jason Mraz - The Remedy</strong>
+
+
+
+<strong>Andy Grammar - Keep your Head Up</strong>
+
+
+
+<strong>Van shaken - Somebody Get Me a Doctor</strong>
+
+
+
+<strong>Peggy Lee - Fever</strong>
+
+
+
+
+<strong>Rachel Platten - Fight Song</strong>
+
+
+
+<strong>Wilson Phillips - Hold On</strong>
