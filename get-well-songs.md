@@ -29,13 +29,15 @@ If you need a few ideas of the best get well songs then this list of our favorit
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5rOiW_xY-kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 <strong>Ariana Grande - Get Well Soon</strong>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hXU4P6j3TNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 <strong>Birdy - Keeping Your Head Up</strong>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m8AXUq5uA0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <strong>Christina Aguilera - Fighter</strong>
@@ -68,3 +70,6 @@ If you need a few ideas of the best get well songs then this list of our favorit
 
 
 <strong>Wilson Phillips - Hold On</strong>
+
+
+Hopefully you've found a song on this list that you think will cheer up or help someone you know recovering from an illness. The power of music shouldn't be underestimated and having a comforting or hopeful message from a favorite tune can absolutely help with recovery.
