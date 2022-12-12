@@ -1,5 +1,3 @@
-
-
 ---
 layout: page
 title: Get Well Wishes for After Heart Surgery
@@ -12,7 +10,7 @@ image: /img/get-well-wishes-after-heart-surgery.png
 permalink: /get-well-wishes-after-heart-surgery/
 categories:
   - messages
-last_modified_at:   2022-12-12 11:30:00 +0000
+last_modified_at: 2022-12-12 11:30:00 +0000
 published: true
 ---
 
