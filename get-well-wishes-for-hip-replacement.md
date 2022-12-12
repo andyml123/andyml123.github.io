@@ -6,9 +6,10 @@ description: >-
   Use these get well wishes after a hip replacement for a friend or loved one
   to find the strength to get through the painful recovery
 image: /get-well-wishes-for-hip-replacement.png
+permalink: /get-well-wishes-for-hip-replacement/
 tags: 'get well wishes, get well soon after surgery, get well messages for hip replacement'
 categories:
-  - wishes
+  - messages
 last_modified_at:   2022-12-11 10:30:00 +0000
 published: true
 ---
