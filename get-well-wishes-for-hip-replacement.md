@@ -24,7 +24,7 @@ So if you are looking to wish someone a speedy recovery after hip replacement su
 <h2>Get Well Wishes After Hip Replacement</h2>
 
 
-<ul class="hearts">
+<ul class="heart">
 <li>Wishing you a speedy recovery after your surgery. Keep resting that hip and it will be as good as new very soon.</li>
 <li>Sending love and best wishes as you recover. Surgery like you've had takes a big toll on the body so give it the time it needs to heal. Then you'll be up and about as good as new!</li>
 <li>It's such good news to hear that your hip replacement surgery was a success. Wishing you a smooth and speedy recovery.</li>
@@ -51,7 +51,7 @@ So if you are looking to wish someone a speedy recovery after hip replacement su
 <h2>Get Well Messages for Hip Replacement</h2>
 
 
-<ul class="hearts">
+<ul class="heart">
 <li>I'm sending you lots of good vibes and healing energy as you continue to recover from your hip replacement surgery. Know I'm thinking of you all the time.</li>
 <li>I hope you're able to find some comfort and relief from the pain as you heal and start to move around more easily. If you need anything I'm always just a phone call away.</li>
 <li>Hoping your hip feels better soon and you can get up and about quickly. You'll be in my thoughts.</li>
