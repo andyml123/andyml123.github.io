@@ -24,7 +24,7 @@ If you're struggling then use these get well wishes for the parents of a sick ch
 
 <h2>Get Well Messages for Patents of Sick Child</h2>
 
-<ul>
+<ul class="heart">
 <li>Sending lots of love and positive thoughts to you and your family during this difficult time.</li>
 <li>Wishing you and your little one a speedy recovery.</li>
 <li>Thinking of you and hoping for a quick return to health for both you and your child.</li>
@@ -45,7 +45,7 @@ If you're struggling then use these get well wishes for the parents of a sick ch
 <h2>Get Well Wishes to Parents with a Sick Child</h2>
 
 
-<ul>
+<ul class="heart">
 <li>We're here for you and your family during this challenging time. Let us know if there's anything we can do to help.</li>
 <li>Wishing you and your child peace and comfort as you navigate this difficult time together.</li>
 <li>Thinking of you and your family, and sending our best wishes for a speedy recovery for both you and your child.</li>
