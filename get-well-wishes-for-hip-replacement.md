@@ -1,3 +1,18 @@
+---
+layout: page
+title: 'Get Well Wishes for After a Hip Replacement'
+title2: 'Get Well Soon for Hip Replacement'
+description: >-
+  Use these get well wishes after a hip replacement for a friend or loved one
+  to find the strength to get through the painful recovery
+image: /get-well-wishes-for-hip-replacement.png
+tags: 'get well wishes, get well soon after surgery, get well messages for hip replacement'
+categories:
+  - wishes
+last_modified_at:   2022-12-11 10:30:00 +0000
+published: true
+---
+
 When someone you know and love is having surgery it can be a worrying time. You might be concerned for them and their health and they will be nervous about going under the knife.
 
 A hip replacement is no different. It's a major operation that requires a lot of healing. And so those undergoing one and faxing the recovery afterwards will need the love and support of family and friends.
@@ -42,9 +57,7 @@ So if you are looking to wish someone a speedy recovery after hip replacement su
 <li>Hoping your hip feels better soon and you can get up and about quickly. You'll be in my thoughts.</li>
 <li>Best wishes for a speedy recovery from your hip surgery.</li>
 <li>Wishing you a fast recovery after such major surgery replacing your hip. In the long run I know you'll feel better, you just have to go through the pain and recovery now.</li>
-<li>
-<li>
-<li>
-<li>
-<li>
+<li>I am thinking of you as you recover from your hip replacement. I know it's hard now but give it time and you will be even better than before!</li>
+<li>Sending love and thoughts for a fast recovery period. May it be a short and painless!</li>
+<li>I can't understand how hard it must be to through and then recover from a hip replacement but know that I'm always here if you need anything. Get well soon.</li>
 </ul>
