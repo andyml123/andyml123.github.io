@@ -18,7 +18,7 @@ If your boss is sick it's only polite to send a get well card or get well messag
 
 But it can be hard to know what to say in a get well card. Especially when it's to someone in a position of authority like a boss.
 
-But putting those difficulties aside it's important to let them know that you're thinking of them and wishing them a speedy recovery. 
+But putting those difficulties aside it's important to let them know that you're thinking of them and <a href="/get-well-wishes/">wishing them a speedy recovery</a>. 
 
 So if you're struggling with what to say then the use these example get well messages for your boss to help you find the perfect way of wishing them a speedy recovery.
 
