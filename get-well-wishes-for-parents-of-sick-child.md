@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Get Well Wishes for Patents of a Sick Child
-title2: Get Well Wishes for Patents of Sick Child
+title: Get Well Wishes for Parents of a Sick Child
+title2: Get Well Wishes for Parents of Sick Child
 description: >-
   Use these get well wishes for parents of a sick child and let them know you're thinking of them with these touching get well soon messages.
 tags: 'get well messages, get well wishes, compassionate get well messages, get well'
