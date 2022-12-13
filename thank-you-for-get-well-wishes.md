@@ -13,7 +13,7 @@ last_modified_at: 2022-12-12 11:30:00 +0000
 published: true
 ---
 
-When you've been sick or had surgery you often receive get well wishes and messages from friends and family. They may come with a card or gift, or you are just visited by people and they wish you a speedy recovery in person.
+When you've been sick or had surgery you often receive <a href="/get-well-wishes/">get well wishes</a> and messages from friends and family. They may come with a card or gift, or you are just visited by people and they wish you a speedy recovery in person.
 
 However you receive your get well wishes you should make the effort to say thank you afterwards. You can leave it until you're feeling better first though!
 
