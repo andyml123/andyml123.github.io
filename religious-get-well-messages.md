@@ -103,4 +103,4 @@ So use these religious get well quotes to wish someone all the best and a speedy
 <li>Praying you feel the love of God in your life and that being close to Him helps you to feel better</li> 
 </ul>
 
-Read more: <a href="/get-well-quotes-from-the-bible/"Get Well Bible Quotes</a>
+Read more: <a href="/get-well-quotes-from-the-bible/">Get Well Bible Quotes</a>
