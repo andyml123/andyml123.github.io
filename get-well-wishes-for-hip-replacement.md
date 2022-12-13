@@ -18,7 +18,7 @@ When someone you know and love is having surgery it can be a worrying time. You 
 
 A hip replacement is no different. It's a major operation that requires a lot of healing. And so those undergoing one and faxing the recovery afterwards will need the love and support of family and friends.
 
-So if you are looking to wish someone a speedy recovery after hip replacement surgery then keep reading. These get well wishes and messages will help you let someone know you are thinking of them as they recuperate from their hip surgery.
+So if you are looking to wish someone a speedy recovery after hip replacement surgery then keep reading. These <a href="/get-well-wishes/">get well wishes and messages</a> will help you let someone know you are thinking of them as they recuperate from their hip surgery.
 
 
 <h2>Get Well Wishes After Hip Replacement</h2>
