@@ -60,7 +60,7 @@ So use these examples thank you messages for get well wishes to help you find th
 <li>I am so grateful for your thoughtfulness and support. Your get well wishes meant the world to me and helped me feel loved and cared for. Thank you from the bottom of my heart.</li>
 <li>Your get well message was the perfect pick-me-up. It made me feel so much better, both physically and emotionally. Thank you for being such a wonderful friend and for thinking of me.</li>
 <li>Thank you so much for your kind get well wishes. Your message was a bright spot in my day and really helped me feel better. I am so lucky and grateful to have friends like you who care about and want me to get well.</li>
-
+</ul>
 
 <h2>Thank You for Well Wishes</h2>
 
