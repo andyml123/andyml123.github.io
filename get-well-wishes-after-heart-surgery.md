@@ -18,7 +18,7 @@ Heart surgery is a really big deal. It's a major operation that can be extremely
 
 The recovery is long and requires a lot of mental strength. And having the support of family and friends after going through it is important.
 
-So if you know someone who has gone through heart surgery then you probably want to wish them well. Maybe with a get well card, some flowers and even a gift.
+So if you know someone who has gone through heart surgery then you probably want to <a href="/get-well-wishes/">wish them well</a>. Maybe with a get well card, some flowers and even a gift.
 
 But what do you say to someone after heart surgery? How do you wish them s speedy recovery?
 
