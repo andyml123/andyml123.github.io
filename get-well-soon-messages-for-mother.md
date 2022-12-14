@@ -57,6 +57,20 @@ If so then the following get well soon messages for mom's will help you to find 
 </ul>
 
 
+<h2>Get Well Quotes for Mother</h2>
+
+<ul class="heart">
+<li>Get well soon, mom! I'm missing your warm smile and positivity. I'm sure you'll be feeling better soon though.</li>
+<li>Sending you love, hugs and the biggest get well wishes. It won't be too long until you're well again mom, I promise.</li>
+<li>Wishing you a speedy recovery, Mom. You'll be back on your feet in no time, I'm sure.</li>
+<li>No one is as big a fighter as you are, mom! Thinking of you and sending lots of get-well-soon vibes.</li>
+<li>I hope this message will cheer you up a little as you recover from your illness. Everyone is thinking of you and wishing you well.</li>
+<li>Dear Mom, I hope this get well soon message finds you feeling better and on the road to recovery. You're in my heart and my thoughts every day.</li>
+<li>Thinking positive thoughts for your recovery mom. You will bounce back from this and be stronger than ever. Get well soon!</li>
+<li>Love you mom and wishing you a very fast recovery. Until you're feeling right again I'll do everything you need and be there for you all the way.</li>
+<li>You inspire me every day mom and I know that this is just a small setback. You will recover and be as good as new very soon.</li> 
+</ul>
+
 
 <h2>Get Well Prayers for Mom</h2>
 
