@@ -9,7 +9,7 @@ image: /img/mental-health-get-well-messages.jpeg
 tags: 'get well wishes, get well messages, mental health get well messages'
 categories:
   - messages
-last_modified_at:   2021-02-05 8:30:00 +0000
+last_modified_at:   2022-12-12 10:30:00 +0000
 published: true
 ---
 Mental illness is, unfortunately, a common problem. According to the National Alliance on Mental Illness <a href="https://www.nami.org/Learn-More/Mental-Health-By-the-Numbers">approximately 1 in 5 adults in the U.S.</a> - 43.8 million, or 18.5% - experiences mental illness in a given year, and in the UK approximately <a href="https://www.mind.org.uk/information-support/types-of-mental-health-problems/statistics-and-facts-about-mental-health/how-common-are-mental-health-problems/">1 in 4 people will experience a mental health problem each year</a>. That means there's a very good chance you will know someone who has, or is, suffering from a mental health problem. But unlike illnesses or injuries that are very visible or more fully understood - a broken limb, cancer - mental health is often overlooked. 
@@ -78,6 +78,16 @@ These are a few examples of the sort of messages you could write in a get well c
 <li>Next time someone tells you your mental illness is all in your head, tell them "Duh! Where else is it going to be, my kidneys?"</li>
 <li>My imaginary friend thinks you have serious mental problems!</li>
 <li>I just heard the news, it made me so sad. To hear that you'd just become totally mad</li>
+</ul>
+
+<h2>Get Well Messages for Depression</h2>
+
+<ul>
+<li>I'm so sorry you're having to go through this. I'm always here by your side though. Hoping you begin to feel like your old self soon.</li>
+<li>I can't begin to understand how tough this is for you but I can be by your side for anything you need. I hope you start to feel a bit better.</li> 
+<li>Sending the biggest hugs as you struggle. Whatever you need don't hesitate to reach out to me.</li>
+<li>I know how hard it is when you're sick with something people can't see. Hang in there and look to friends and family for support.</li>
+<li>Everyone believes you and knows you're struggling with your depression. We will help you through this and be there every step of the way.</li>
 </ul>
 
 <h2>Cards</h2>
