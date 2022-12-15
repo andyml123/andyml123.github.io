@@ -8,7 +8,7 @@ description: >-
 permalink: /get-well-soon-messages-for-a-friend/
 tags: 'get well soon messages, get well soon, get well messages for a friend'
 image: /img/get-well-soon-messages-for-a-friend.png
-last_modified_at:   2021-02-06 11:30:00 +0000
+last_modified_at:   2022-12-15 11:55:00 +0000
 published: true
 ---
 <p>Have a friend that's ill, sick or injured? Need the right words to let them know you're thinking about and wishing them to feel better? Our selection of get well soon messages for a friend are perfect for helping with what to write in a get well soon card.</p>
@@ -78,3 +78,11 @@ Sometimes friends need the people close to them to give them a lift. Being ill c
 </ul>
 
 Taking the time to wish a friend the best and improved health is the least you should be doing when they're unwell. Try to make the effort to visit them, maybe bring a small gift or their favourite food, and be there if they need anything. And whichever way you choose to say get well remember that your friend will appreciate the effort and gesture behind it.
+
+<strong>Related Posts</strong>
+<ul>
+<li><a href="/get-well-wishes-after-an-accident/">40 Get Well Wishes after an Accident</a></li>
+<li><a href="/religious-get-well-messages/">Religious Get Well Messages: 42 Christian Ways to Say Get Well Soon</a></li>
+<li><a href="/get-well-poems/">Get Well Poems: 21 Lovely Ways to Say Get Better</a></li>
+<li><a href="/get-well-soon-messages-after-surgery/">Get Well Soon Messages after Surgery</a></li>
+</ul>
