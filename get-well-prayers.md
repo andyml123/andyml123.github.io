@@ -10,7 +10,7 @@ tags: 'get well prayers, get well soon prayers, feel better prayers'
 categories:
   - prayers
   - navbottom
-last_modified_at:   2021-02-06 11:30:00 +0000
+last_modified_at:   2022-12-15 11:55:00 +0000
 published: true
 ---
 When someone you love or care about becomes ill you wish only the best for them. It can be frustrating when you feel like there isn't anything substantial you can do. You can obviously <a href="/get-well-wishes/">wish them a full recovery</a> and to get better as soon as possible but sometimes this may not feel like it's enough. Something you can do though is to say a prayer for them. 
@@ -274,3 +274,12 @@ Amen
 "Call unto Me, and I will answer you… 
 
 (Jeremiah 33:3)
+
+
+<strong>Related Posts</strong>
+<ul>
+<li><a href="/get-well-jokes/">Get Well Jokes: 31 Hilarious Health Jokes & One Liners</a></li>
+<li><a href="/get-well-soon-messages-for-a-friend/">Get Well Messages for a Friend</a></li>
+<li><a href="/get-well-poems/">Get Well Poems: 21 Lovely Ways to Say Get Better</a></li>
+<li><a href="/get-well-soon-messages-after-surgery/">Get Well Soon Messages after Surgery</a></li>
+</ul>
