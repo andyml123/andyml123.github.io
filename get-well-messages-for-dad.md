@@ -17,7 +17,7 @@ If your dad is sick you will want him to get well as soon as possible. And you c
 
 By being there for your dad while he's unwell you can help him to make a speedy recovery. That might be helping around the house, doing chores and jobs for him etc.
 
-But you should also say a few words of comfort to your sick dad. Something to reassure him and show you hope he gets well soon.
+But you should also say a few words of comfort to your sick dad. Something to reassure him and show you hope he <a href="/get-well-wishes/">gets well soon</a>.
 
 So use this selection of get well soon dad messages to let your dad know how much you're thinking of him as he recovers. 
 
