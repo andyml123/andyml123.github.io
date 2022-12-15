@@ -100,3 +100,11 @@ If you aren't sure how to comfort someone after an accident then don't worry. We
 <li>I hope you're feeling abut better after the shock of your accident</li>
 <li>My thoughts go out to you as you recover from your accident</li>
 </ul>
+
+<strong>Related Posts</strong>
+<ul>
+<li><a href="/get-well-jokes/">Get Well Jokes: 31 Hilarious Health Jokes & One Liners</a></li>
+<li><a href="/get-well-soon-messages-for-a-friend/">Get Well Messages for a Friend</a></li>
+<li><a href="/get-well-poems/">Get Well Poems: 21 Lovely Ways to Say Get Better</a></li>
+<li><a href="/get-well-soon-messages-after-surgery/">Get Well Soon Messages after Surgery</a></li>
+</ul>
