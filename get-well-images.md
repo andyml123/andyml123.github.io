@@ -280,3 +280,11 @@ Hopefully these get well soon images will help to comfort and bring some hope to
      <img class="img" src="/img/hoping-you-start-to-feel-better-soon.png" alt="hoping you start to feel better soon image" />Hoping you start to feel better soon and make a quick recovery
  </div>
 </div>
+
+<strong>Related Posts</strong>
+<ul>
+<li><a href="/get-well-jokes/">Get Well Jokes: 31 Hilarious Health Jokes & One Liners</a></li>
+<li><a href="/get-well-soon-messages-for-a-friend/">Get Well Messages for a Friend</a></li>
+<li><a href="/get-well-poems/">Get Well Poems: 21 Lovely Ways to Say Get Better</a></li>
+<li><a href="/get-well-soon-messages-after-surgery/">Get Well Soon Messages after Surgery</a></li>
+</ul>
