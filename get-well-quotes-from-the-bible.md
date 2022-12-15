@@ -8,7 +8,7 @@ permalink: /get-well-quotes-from-the-bible/
 image: /img/get-well-quotes-from-the-bible.jpg
 tags: 'Bible get well quotes, Bible get well soon verses, religious get well messages'
 categories: messages
-last_modified_at:   2021-03-04 14:16:00 +0000
+last_modified_at:   2022-12-15 14:16:00 +0000
 published: true
 ---
 
@@ -80,4 +80,13 @@ So take a look at these Bible get well quotes you can use to cheer up a friend o
 <li>"God heals the brokenhearted and bandages their wounds" - Psalms 147:3</li>
 <li>"My flesh and my heart may fail, but God is the strength of my heart and my portion forever" - Psalm 73:26</li>
 <li>"My body and my heart fail, but God is my heart’s rock and my share forever" - Psalm 73:26</li>
+</ul>
+
+
+<strong>Related Posts</strong>
+<ul>
+<li><a href="/religious-get-well-messages/">Religious Get Well Messages: 42 Christian Ways to Say Get Well Soon</a></li>
+<li><a href="/get-well-soon-messages-for-a-friend/">Get Well Messages for a Friend</a></li>
+<li><a href="/get-well-poems/">Get Well Poems: 21 Lovely Ways to Say Get Better</a></li>
+<li><a href="/get-well-soon-messages-after-surgery/">Get Well Soon Messages after Surgery</a></li>
 </ul>
