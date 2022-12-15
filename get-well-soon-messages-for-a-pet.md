@@ -8,7 +8,7 @@ description: >-
 permalink: /get-well-soon-messages-for-a-pet/
 image: /img/get-well-soon-messages-for-a-pet.png
 categories: messages
-last_modified_at:   2021-02-06 11:30:00 +0000
+last_modified_at:   2022-12-15 11:55:00 +0000
 published: true
 ---
 
@@ -113,4 +113,12 @@ There are a few things you will want to avoid saying in your message as it could
 <li><strong>Are you going to put him/her down?</strong> - in fact any talk of putting them down or to sleep is very inappropriate. An owner will cling on to any hope they're beloved pet will recover. Avoid mentioning anything like this.</li>
 <li><strong>Don't compare their illness with your pets</strong> - you may feel like your helping or empathising but unless it could be beneficial in the treatment of their sick pet then it's best avoid any comparisons. It can seem like your trying to take attention away from their situation.</li>
 <li><strong>Nothing</strong> - don't be silent. It doesn't take much effort to reach out and offer some support. Even a few words saying you hope they recover or feel better is going to be appreciated.</li>
+</ul>
+
+<strong>Related Posts</strong>
+<ul>
+<li><a href="/get-well-jokes/">Get Well Jokes: 31 Hilarious Health Jokes & One Liners</a></li>
+<li><a href="/get-well-soon-messages-for-a-friend/">Get Well Messages for a Friend</a></li>
+<li><a href="/get-well-poems/">Get Well Poems: 21 Lovely Ways to Say Get Better</a></li>
+<li><a href="/get-well-soon-messages-after-surgery/">Get Well Soon Messages after Surgery</a></li>
 </ul>
