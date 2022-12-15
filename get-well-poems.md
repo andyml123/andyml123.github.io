@@ -413,3 +413,12 @@ Packed along with love and kishes.</p>
      <img class="img" src="/img/funny-get-well-poem-2.png" alt="all in your head funny poem" />
  </div>
 </div>
+
+
+<strong>Related Posts</strong>
+<ul>
+<li><a href="/get-well-jokes/">Get Well Jokes: 31 Hilarious Health Jokes & One Liners</a></li>
+<li><a href="/get-well-soon-messages-for-a-friend/">Get Well Messages for a Friend</a></li>
+<li><a href="/get-well-wishes-after-an-accident/">Get Well Wishes After an Accident</a></li>
+<li><a href="/get-well-soon-messages-after-surgery/">Get Well Soon Messages after Surgery</a></li>
+</ul>
