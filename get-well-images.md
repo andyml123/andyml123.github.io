@@ -282,6 +282,7 @@ Hopefully these get well soon images will help to comfort and bring some hope to
 </div>
 
 <strong>Related Posts</strong>
+
 <ul>
 <li><a href="/get-well-jokes/">Get Well Jokes: 31 Hilarious Health Jokes & One Liners</a></li>
 <li><a href="/get-well-soon-messages-for-a-friend/">Get Well Messages for a Friend</a></li>
