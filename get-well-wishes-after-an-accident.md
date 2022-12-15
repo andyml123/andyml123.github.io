@@ -9,7 +9,7 @@ permalink: /get-well-wishes-after-an-accident/
 tags: 'get well wishes, get well wishes after an accident, How to comfort someone after a car accident'
 categories:
   - messages
-last_modified_at:   2021-03-02 18:48:00 +0000
+last_modified_at:   2022-12-15 16:48:00 +0000
 published: true
 ---
 
