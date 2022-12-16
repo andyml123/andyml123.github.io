@@ -6,7 +6,7 @@ description: >-
   Find the best get well wishes and let your sister know you're
   thinking of her with these touching get well soon messages.
 tags: 'get well messages, get well wishes, sister get well messages, get well soon sister '
-image: /img/get-well-soon-wishes-for-sister.png
+image: /img/get-well-soon-messages-for-sister.png
 permalink: /get-well-soon-messages-for-sister/
 categories:
   - messages
