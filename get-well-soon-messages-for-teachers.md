@@ -16,7 +16,7 @@ published: true
 
 We can get attached to the teachers in our lives. They play a vital role for many of us. So when they are not feeling well it can be upsetting. 
 
-If you have a teacher who is unwell it's understandable to want to do something to show your support and let them know you are thinking of them. Sending a gift or card with a get well soon message is a good way to let them know you care.
+If you have a teacher who is unwell it's understandable to want to do something to show your support and let them know you are thinking of them. Sending a gift or card with a <a href="/get-well-wishes/">get well soon message</a> is a good way to let them know you care.
 
 Your message and what you say can be heartfelt and sincere, lighthearted and even funny,l depending on the nature of the your teacher's and how close you are. 
 
