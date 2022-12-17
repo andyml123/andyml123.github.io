@@ -41,7 +41,6 @@ The following example get well soon messages for boyfriends should help you to r
 
 <ul>
 <li>I heard the world's supply of chicken soup is running low because of you. Get well soon so I can stop hoarding cans of Campbell's.</li>
-<li>I hope you feel better soon because I don't think I can handle one more episode of The Office without you.</li>
 <li>I heard the doctors have a new miracle cure for what ails you: a hug from me. Get well soon so I can administer the cure.</li>
 <li>I hope you feel better soon because I miss your terrible jokes and terrible dance moves. They brighten my day.</li>
 <li>I heard being sick gives you superpowers. Just don't accidentally sneeze on me and give me your powers, okay?</li>
