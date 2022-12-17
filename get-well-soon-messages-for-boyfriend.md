@@ -44,11 +44,11 @@ The following example get well soon messages for boyfriends should help you to r
 <li>I hope you feel better soon because I don't think I can handle one more episode of The Office without you.</li>
 <li>I heard the doctors have a new miracle cure for what ails you: a hug from me. Get well soon so I can administer the cure.</li>
 <li>I hope you feel better soon because I miss your terrible jokes and terrible dance moves. They brighten my day.</li>
-<li>I heard the only way to get over your illness is to watch reruns of The Golden Girls. I'll bring the cheesecake and you bring the sass.</li>
-<li>I hope you feel better soon because I can't keep pretending to be interested in your sports team's stats. I need the real you back.</li>
-<li>I hope you feel better soon because I can't keep pretending to be excited about our virtual game nights. I need the real you back to kick my butt at Scrabble.</li>
-<li>I heard the only cure for what ails you is a marathon of funny cat videos. I'll bring the popcorn, you bring the laughter.</li>
-<li>I hope you feel better soon because I miss your terrible singing in the shower. It's the only thing that gets me through my morning routine.</li>
+<li>I heard being sick gives you superpowers. Just don't accidentally sneeze on me and give me your powers, okay?</li>
+<li>I hope you're feeling better soon, because I really miss your amazing sick day movie marathons and soup-making skills.</li>
+<li>Get well soon so we can go back to pretending like we have our lives together.</li>
+<li>I know you're feeling under the weather, but just remember: at least you're not as sick as that one time I caught the stomach flu from a toilet seat!</li>
+<li>I know you're not feeling your best right now, but just remember: every cloud has a silver lining. In this case, the silver lining is all the extra cuddles and Netflix binges we get to have.</li>
 </ul>
 
 <h2>Thoughtful Get Well Messages for Boyfriend</h2>
