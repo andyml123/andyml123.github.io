@@ -1,6 +1,3 @@
-get well soon messages for cousin
-
-
 ---
 layout: page
 title: Get Well Soon Messages for Cousin
