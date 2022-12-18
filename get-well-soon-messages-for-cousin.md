@@ -15,7 +15,7 @@ published: true
 
 A loved one getting ill can be a really stressful time. So if you have a family member like a cousin who is sick then you may want to reach and show your support.
 
-You can do that by sending them get well wishes or messages. A get well message can bring a smile to the face of the your cousins and lift their spirits when they're feeling down. 
+You can do that by sending them <a href="/get-well-wishes/">get well wishes or messages</a>. A get well message can bring a smile to the face of the your cousins and lift their spirits when they're feeling down. 
 
 It's always nice to know that you aren't alone in your recovery and that loved ones are thinking of you.
 
