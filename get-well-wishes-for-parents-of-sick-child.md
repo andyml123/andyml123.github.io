@@ -13,7 +13,7 @@ last_modified_at:   2022-12-12 11:30:00 +0000
 published: true
 ---
 
-When a parent is dealing with a sick child it can be a terrifying time. Sometimes the sickness can be severe and worrying, other times it's just a regular cold or flu.
+When a parent is dealing with a <a href="/get-well-wishes-for-a-child/">sick child</a> it can be a terrifying time. Sometimes the sickness can be severe and worrying, other times it's just a regular cold or flu.
 
 But in both cases it's nice to reach out to those parents of a sick child and offer your best wishes to them and their child. Just a few words to let them know you're thinking of them.
 
