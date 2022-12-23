@@ -8,7 +8,7 @@ image: /img/get-well-message-writing-guide.png
 tags: 'get well messages, what to write in a get well card'
 categories:
   - navbottom
-last_modified_at:   2021-02-06 11:30:00 +0000
+last_modified_at:   2022-12-23 11:30:00 +0000
 published: true
 ---
 Writing a get well card message may appear hard but doesn't have to be. In fact as long as you avoid writing or saying a few certain things you should be fine. This guide should help you to decide what sort of message you want to write, how to do so, what is and isn't appropriate and what to include with your card. So, let's begin!
