@@ -24,7 +24,7 @@ Writing a get well card message may appear hard but doesn't have to be. In fact 
 <p>If you want to write your own get well message for a card then there are a few steps you can follow.</p>
 
 <ul>
-<li>Who is your message for - knowing the person you're writing your message to is obviously important. It will shape the sort of tone you take. Are they a family member? Close friend? Work colleague? The better you know them the more personal your message can be. For a colleague or acquaintance a simpler message will be more suitable.</li>
+<li>Who is your message for - knowing the person you're writing your message to is obviously important. It will shape the sort of tone you take. Are they a family member? Close friend? <a href="/get-well-wishes-for-coworker/">Work colleague</a>? The better you know them the more personal your message can be. For a colleague or acquaintance a simpler message will be more suitable.</li>
 <li>Being encouraging  - a get well card should obviously wish the recipient a speedy recovery but should also try to be encouraging. You want them to feel better after reading your message so try to use encouraging words and bring them hope and positivity.</li>
 <li>Offering help - if you feel like the recipient could do with some help whilst they recover and you are in the position to offer then do so. Even a small gesture could be a real help to them.</li>
 <li></li>
