@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Top 100 Get Well Wishes
+title: Top 100 Get Well Wishes for a Speedy Recovery
 title2: Get Well Wishes
 description: >-
   Find the best get well wishes and let a friend or loved one know you're
@@ -10,7 +10,7 @@ image: /img/get-well-soon-wishes.png
 permalink: /get-well-wishes/
 categories:
   - messages
-last_modified_at:   2021-02-06 11:30:00 +0000
+last_modified_at:   2022-12-30 11:30:00 +0000
 published: true
 ---
 
